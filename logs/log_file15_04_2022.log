@@ -1,0 +1,845 @@
+2022-04-15 13:37:05,653 INFO Watching for file changes with StatReloader
+2022-04-15 13:37:05,653 INFO Watching for file changes with StatReloader
+2022-04-15 13:37:09,770 INFO "GET / HTTP/1.1" 200 67
+2022-04-15 13:37:09,770 INFO "GET / HTTP/1.1" 200 67
+2022-04-15 13:37:13,681 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-04-15 13:37:13,681 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-04-15 13:37:13,710 INFO "GET /static/js/main.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 3213068
+2022-04-15 13:37:13,710 INFO "GET /static/js/main.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 3213068
+2022-04-15 13:37:13,855 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 16641
+2022-04-15 13:37:13,855 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 16641
+2022-04-15 13:37:13,856 INFO "GET /static/js/src_js_pages_home_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 4855
+2022-04-15 13:37:13,856 INFO "GET /static/js/src_js_pages_home_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 4855
+2022-04-15 13:37:13,870 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-04-15 13:37:13,870 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-04-15 13:37:13,909 INFO "GET /static/2212291feacabc6ddf6ab4479028b0ff.png HTTP/1.1" 200 18149
+2022-04-15 13:37:13,909 INFO "GET /static/2212291feacabc6ddf6ab4479028b0ff.png HTTP/1.1" 200 18149
+2022-04-15 13:37:13,911 WARNING {'token_key': 'ya29.A0ARrdaM_gEloIabZJOA5mH1R6GlSrq2Jxuo_ndqRXg3aKNI5Yw58Z3zQYa5tT64D-vMRcC9yk_u4bmg6mDybxGKCTe27eRDRvnDhXsfFx3to0mgS4cgqkO9d3Zk88Q1-G5fXwdz6u1Q6dw3XCv-Q2B4Cbgre6BAI', 'username': 'pavithra_devi', 'email': 'prajkuma@asu.edu', 'groups': ['Library Specialist', 'Student'], 'user_id': 2, 'profile': {'num_content': 16}}
+2022-04-15 13:37:13,911 INFO "GET /api/get_user/ HTTP/1.1" 200 356
+2022-04-15 13:37:13,911 INFO "GET /api/get_user/ HTTP/1.1" 200 356
+2022-04-15 13:37:13,911 INFO "GET /static/dbbbfa6028ef921712550680585aadb8.png HTTP/1.1" 200 12788
+2022-04-15 13:37:13,911 INFO "GET /static/dbbbfa6028ef921712550680585aadb8.png HTTP/1.1" 200 12788
+2022-04-15 13:37:13,914 INFO "GET /static/c27a388023a41d4d334001825f43d507.png HTTP/1.1" 200 8321
+2022-04-15 13:37:13,914 INFO "GET /static/c27a388023a41d4d334001825f43d507.png HTTP/1.1" 200 8321
+2022-04-15 13:37:13,914 INFO "GET /static/29fc02d65f2e0f17338b1ee254f01e5d.png HTTP/1.1" 200 26391
+2022-04-15 13:37:13,914 INFO "GET /static/29fc02d65f2e0f17338b1ee254f01e5d.png HTTP/1.1" 200 26391
+2022-04-15 13:37:15,426 INFO "GET /static/js/src_js_pages_profile_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 8391
+2022-04-15 13:37:15,426 INFO "GET /static/js/src_js_pages_profile_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 8391
+2022-04-15 13:37:15,426 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 42253
+2022-04-15 13:37:15,426 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 42253
+2022-04-15 13:37:15,440 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-04-15 13:37:15,440 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-04-15 13:37:15,455 INFO "GET /static/51a420f3640009330671d8b229bf5323.otf HTTP/1.1" 200 45760
+2022-04-15 13:37:15,455 INFO "GET /static/51a420f3640009330671d8b229bf5323.otf HTTP/1.1" 200 45760
+2022-04-15 13:37:17,715 INFO "GET /static/js/src_js_pages_copyright_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 29167
+2022-04-15 13:37:17,715 INFO "GET /static/js/src_js_pages_copyright_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 29167
+2022-04-15 13:37:17,719 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 1430533
+2022-04-15 13:37:17,719 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 1430533
+2022-04-15 13:37:17,927 WARNING {'total': 4, 'items': [OrderedDict([('name', 'canopée'), ('email', 'canopée@blah.com'), ('website', 'canopee.com'), ('id', 2)]), OrderedDict([('name', 'yahoo'), ('email', 'yahoo.com'), ('website', 'yahoo.com'), ('id', 4)]), OrderedDict([('name', 'Google_upda'), ('email', 'google@google.com'), ('website', 'google.com'), ('id', 3)]), OrderedDict([('name', 'Kids Book'), ('email', 'freekidsbook@org.com'), ('website', 'https://freekidsbooks.org/'), ('id', 1)])]}
+2022-04-15 13:37:17,928 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 13:37:17,928 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 13:37:17,937 WARNING {'total': 9, 'items': [OrderedDict([('organization', 2), ('description', 'Crepe'), ('date_contacted', '2022-02-05'), ('granted', False), ('date_of_response', '2022-02-19'), ('user', 2), ('id', 35), ('organization_info', {'name': 'canopée', 'email': 'canopée@blah.com', 'website': 'canopee.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Some'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-08'), ('user', 2), ('id', 44), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'goo'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 45), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Google'), ('date_contacted', '2022-03-05'), ('granted', True), ('date_of_response', '2022-03-06'), ('user', 2), ('id', 46), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Add'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 47), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'add3'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-05'), ('user', 2), ('id', 49), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'KidsBook'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 50), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'SomeMoreKids'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 51), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 4), ('description', 'add2_yahoo'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-16'), ('user', 2), ('id', 48), ('organization_info', {'name': 'yahoo', 'email': 'yahoo.com', 'website': 'yahoo.com'}), ('user_name', 'pavithra_devi')])]}
+2022-04-15 13:37:17,937 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 13:37:17,937 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 13:37:18,669 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 18333
+2022-04-15 13:37:18,669 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 18333
+2022-04-15 13:37:18,669 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 78942
+2022-04-15 13:37:18,669 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 78942
+2022-04-15 13:37:18,780 WARNING {'total': 4, 'items': [OrderedDict([('name', 'canopée'), ('email', 'canopée@blah.com'), ('website', 'canopee.com'), ('id', 2)]), OrderedDict([('name', 'yahoo'), ('email', 'yahoo.com'), ('website', 'yahoo.com'), ('id', 4)]), OrderedDict([('name', 'Google_upda'), ('email', 'google@google.com'), ('website', 'google.com'), ('id', 3)]), OrderedDict([('name', 'Kids Book'), ('email', 'freekidsbook@org.com'), ('website', 'https://freekidsbooks.org/'), ('id', 1)])]}
+2022-04-15 13:37:18,782 WARNING {'total': 6, 'items': [OrderedDict([('id', 2), ('name', 'Authors')]), OrderedDict([('id', 3), ('name', 'Copyright Permissions')]), OrderedDict([('id', 4), ('name', 'Copyrights')]), OrderedDict([('id', 18), ('name', 'new')]), OrderedDict([('id', 19), ('name', 'newonw')]), OrderedDict([('id', 1), ('name', 'Resources')])]}
+2022-04-15 13:37:18,783 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 13:37:18,783 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 13:37:18,784 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 13:37:18,784 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 13:37:18,790 WARNING {'total': 9, 'items': [OrderedDict([('organization', 2), ('description', 'Crepe'), ('date_contacted', '2022-02-05'), ('granted', False), ('date_of_response', '2022-02-19'), ('user', 2), ('id', 35), ('organization_info', {'name': 'canopée', 'email': 'canopée@blah.com', 'website': 'canopee.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Some'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-08'), ('user', 2), ('id', 44), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'goo'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 45), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Google'), ('date_contacted', '2022-03-05'), ('granted', True), ('date_of_response', '2022-03-06'), ('user', 2), ('id', 46), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Add'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 47), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'add3'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-05'), ('user', 2), ('id', 49), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'KidsBook'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 50), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'SomeMoreKids'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 51), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 4), ('description', 'add2_yahoo'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-16'), ('user', 2), ('id', 48), ('organization_info', {'name': 'yahoo', 'email': 'yahoo.com', 'website': 'yahoo.com'}), ('user_name', 'pavithra_devi')])]}
+2022-04-15 13:37:18,790 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 13:37:18,790 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 13:37:18,871 WARNING {'total': 1, 'items': [OrderedDict([('id', 37), ('name', 'cxc'), ('type', 4), ('metadataType', {'id': 4, 'name': 'Copyrights'})])]}
+2022-04-15 13:37:18,881 WARNING {'total': 2, 'items': [OrderedDict([('id', 38), ('name', '123'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})]), OrderedDict([('id', 39), ('name', '142'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})])]}
+2022-04-15 13:37:18,881 INFO "GET /api/metadata_types/4/metadata/ HTTP/1.1" 200 134
+2022-04-15 13:37:18,882 WARNING {'total': 8, 'items': [OrderedDict([('id', 16), ('name', 'CP1'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 17), ('name', 'CP2'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 18), ('name', 'CP3'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 19), ('name', 'CP4'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 20), ('name', 'CP5'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 21), ('name', 'CP6'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 22), ('name', 'CP7'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 23), ('name', 'CP8'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})])]}
+2022-04-15 13:37:18,884 INFO "GET /api/metadata_types/18/metadata/ HTTP/1.1" 200 200
+2022-04-15 13:37:18,881 INFO "GET /api/metadata_types/4/metadata/ HTTP/1.1" 200 134
+2022-04-15 13:37:18,884 INFO "GET /api/metadata_types/18/metadata/ HTTP/1.1" 200 200
+2022-04-15 13:37:18,889 WARNING {'total': 0, 'items': []}
+2022-04-15 13:37:18,893 INFO "GET /api/metadata_types/3/metadata/ HTTP/1.1" 200 754
+2022-04-15 13:37:18,894 WARNING {'total': 5, 'items': [OrderedDict([('id', 34), ('name', 'Audio'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 35), ('name', 'Document'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 36), ('name', 'File'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 3), ('name', 'PDF'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 5), ('name', 'Video'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})])]}
+2022-04-15 13:37:18,895 INFO "GET /api/metadata_types/19/metadata/ HTTP/1.1" 200 59
+2022-04-15 13:37:18,893 INFO "GET /api/metadata_types/3/metadata/ HTTP/1.1" 200 754
+2022-04-15 13:37:18,895 INFO "GET /api/metadata_types/19/metadata/ HTTP/1.1" 200 59
+2022-04-15 13:37:18,896 WARNING {'total': 21, 'items': [OrderedDict([('id', 24), ('name', 'A1'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 25), ('name', 'A2'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 26), ('name', 'A3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 27), ('name', 'A4'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 30), ('name', 'A6'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 31), ('name', 'A7'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 29), ('name', 'A8'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 6), ('name', 'Author_dff'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 8), ('name', 'Authors124'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 7), ('name', 'Authors3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 9), ('name', 'Authors32'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 10), ('name', 'Authors5'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 11), ('name', 'Authors65'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 14), ('name', 'Authors67'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 12), ('name', 'Authors68'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 13), ('name', 'Authors69'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 15), ('name', 'Authors76'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 32), ('name', 'B21'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 1), ('name', 'J K Rowling'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 4), ('name', 'Kahani Goyal'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 2), ('name', 'Liane Moriarty'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})])]}
+2022-04-15 13:37:18,896 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 441
+2022-04-15 13:37:18,896 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 441
+2022-04-15 13:37:18,897 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 1666
+2022-04-15 13:37:18,897 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 1666
+2022-04-15 13:37:18,975 ERROR {'copyright': [ErrorDetail(string='Select a valid choice. That choice is not one of the available choices.', code='invalid_choice')]}
+2022-04-15 13:37:18,976 WARNING Bad Request: /api/content/
+2022-04-15 13:37:18,976 WARNING Bad Request: /api/content/
+2022-04-15 13:37:18,976 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 13:37:18,976 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 13:37:33,019 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 24598
+2022-04-15 13:37:33,019 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 24598
+2022-04-15 13:37:33,068 WARNING {'total': 6, 'items': [OrderedDict([('id', 2), ('name', 'Authors')]), OrderedDict([('id', 3), ('name', 'Copyright Permissions')]), OrderedDict([('id', 4), ('name', 'Copyrights')]), OrderedDict([('id', 18), ('name', 'new')]), OrderedDict([('id', 19), ('name', 'newonw')]), OrderedDict([('id', 1), ('name', 'Resources')])]}
+2022-04-15 13:37:33,068 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 13:37:33,068 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 13:37:33,083 WARNING {'total': 6, 'items': [OrderedDict([('id', 2), ('name', 'Authors')]), OrderedDict([('id', 3), ('name', 'Copyright Permissions')]), OrderedDict([('id', 4), ('name', 'Copyrights')]), OrderedDict([('id', 18), ('name', 'new')]), OrderedDict([('id', 19), ('name', 'newonw')]), OrderedDict([('id', 1), ('name', 'Resources')])]}
+2022-04-15 13:37:33,083 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 13:37:33,083 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 13:37:33,117 WARNING {'total': 0, 'items': []}
+2022-04-15 13:37:33,120 WARNING {'total': 1, 'items': [OrderedDict([('id', 37), ('name', 'cxc'), ('type', 4), ('metadataType', {'id': 4, 'name': 'Copyrights'})])]}
+2022-04-15 13:37:33,128 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 13:37:33,121 WARNING {'total': 2, 'items': [OrderedDict([('id', 38), ('name', '123'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})]), OrderedDict([('id', 39), ('name', '142'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})])]}
+2022-04-15 13:37:33,128 WARNING {'total': 21, 'items': [OrderedDict([('id', 24), ('name', 'A1'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 25), ('name', 'A2'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 26), ('name', 'A3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 27), ('name', 'A4'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 30), ('name', 'A6'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})])]}
+2022-04-15 13:37:33,129 WARNING {'total': 8, 'items': [OrderedDict([('id', 16), ('name', 'CP1'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 17), ('name', 'CP2'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 18), ('name', 'CP3'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 19), ('name', 'CP4'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 20), ('name', 'CP5'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})])]}
+2022-04-15 13:37:33,128 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 13:37:33,131 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 13:37:33,131 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 13:37:33,131 WARNING {'total': 5, 'items': [OrderedDict([('id', 34), ('name', 'Audio'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 35), ('name', 'Document'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 36), ('name', 'File'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 3), ('name', 'PDF'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 5), ('name', 'Video'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})])]}
+2022-04-15 13:37:33,131 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 13:37:33,133 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 13:37:33,131 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 13:37:33,131 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 13:37:33,131 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 13:37:33,133 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 13:37:33,134 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 13:37:33,134 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 13:37:33,158 WARNING {'total': 1, 'items': [OrderedDict([('id', 37), ('name', 'cxc'), ('type', 4), ('metadataType', {'id': 4, 'name': 'Copyrights'})])]}
+2022-04-15 13:37:33,160 WARNING {'total': 0, 'items': []}
+2022-04-15 13:37:33,169 WARNING {'total': 2, 'items': [OrderedDict([('id', 38), ('name', '123'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})]), OrderedDict([('id', 39), ('name', '142'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})])]}
+2022-04-15 13:37:33,169 WARNING {'total': 21, 'items': [OrderedDict([('id', 24), ('name', 'A1'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 25), ('name', 'A2'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 26), ('name', 'A3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 27), ('name', 'A4'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 30), ('name', 'A6'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})])]}
+2022-04-15 13:37:33,171 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 13:37:33,169 WARNING {'total': 8, 'items': [OrderedDict([('id', 16), ('name', 'CP1'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 17), ('name', 'CP2'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 18), ('name', 'CP3'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 19), ('name', 'CP4'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 20), ('name', 'CP5'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})])]}
+2022-04-15 13:37:33,173 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 13:37:33,171 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 13:37:33,174 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 13:37:33,174 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 13:37:33,173 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 13:37:33,175 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 13:37:33,174 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 13:37:33,174 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 13:37:33,175 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 13:37:33,177 WARNING {'total': 5, 'items': [OrderedDict([('id', 34), ('name', 'Audio'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 35), ('name', 'Document'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 36), ('name', 'File'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 3), ('name', 'PDF'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 5), ('name', 'Video'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})])]}
+2022-04-15 13:37:33,177 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 13:37:33,177 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 13:37:34,223 WARNING {'total': 4, 'items': [OrderedDict([('name', 'canopée'), ('email', 'canopée@blah.com'), ('website', 'canopee.com'), ('id', 2)]), OrderedDict([('name', 'yahoo'), ('email', 'yahoo.com'), ('website', 'yahoo.com'), ('id', 4)]), OrderedDict([('name', 'Google_upda'), ('email', 'google@google.com'), ('website', 'google.com'), ('id', 3)]), OrderedDict([('name', 'Kids Book'), ('email', 'freekidsbook@org.com'), ('website', 'https://freekidsbooks.org/'), ('id', 1)])]}
+2022-04-15 13:37:34,225 WARNING {'total': 6, 'items': [OrderedDict([('id', 2), ('name', 'Authors')]), OrderedDict([('id', 3), ('name', 'Copyright Permissions')]), OrderedDict([('id', 4), ('name', 'Copyrights')]), OrderedDict([('id', 18), ('name', 'new')]), OrderedDict([('id', 19), ('name', 'newonw')]), OrderedDict([('id', 1), ('name', 'Resources')])]}
+2022-04-15 13:37:34,226 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 13:37:34,227 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 13:37:34,226 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 13:37:34,227 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 13:37:34,235 WARNING {'total': 9, 'items': [OrderedDict([('organization', 2), ('description', 'Crepe'), ('date_contacted', '2022-02-05'), ('granted', False), ('date_of_response', '2022-02-19'), ('user', 2), ('id', 35), ('organization_info', {'name': 'canopée', 'email': 'canopée@blah.com', 'website': 'canopee.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Some'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-08'), ('user', 2), ('id', 44), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'goo'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 45), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Google'), ('date_contacted', '2022-03-05'), ('granted', True), ('date_of_response', '2022-03-06'), ('user', 2), ('id', 46), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Add'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 47), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'add3'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-05'), ('user', 2), ('id', 49), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'KidsBook'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 50), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'SomeMoreKids'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 51), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 4), ('description', 'add2_yahoo'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-16'), ('user', 2), ('id', 48), ('organization_info', {'name': 'yahoo', 'email': 'yahoo.com', 'website': 'yahoo.com'}), ('user_name', 'pavithra_devi')])]}
+2022-04-15 13:37:34,235 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 13:37:34,235 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 13:37:34,290 WARNING {'total': 1, 'items': [OrderedDict([('id', 37), ('name', 'cxc'), ('type', 4), ('metadataType', {'id': 4, 'name': 'Copyrights'})])]}
+2022-04-15 13:37:34,291 WARNING {'total': 8, 'items': [OrderedDict([('id', 16), ('name', 'CP1'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 17), ('name', 'CP2'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 18), ('name', 'CP3'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 19), ('name', 'CP4'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 20), ('name', 'CP5'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})])]}
+2022-04-15 13:37:34,294 WARNING {'total': 21, 'items': [OrderedDict([('id', 24), ('name', 'A1'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 25), ('name', 'A2'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 26), ('name', 'A3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 27), ('name', 'A4'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 30), ('name', 'A6'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})])]}
+2022-04-15 13:37:34,297 WARNING {'total': 2, 'items': [OrderedDict([('id', 38), ('name', '123'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})]), OrderedDict([('id', 39), ('name', '142'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})])]}
+2022-04-15 13:37:34,299 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 13:37:34,300 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 13:37:34,301 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 13:37:34,301 WARNING {'total': 0, 'items': []}
+2022-04-15 13:37:34,299 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 13:37:34,300 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 13:37:34,303 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 13:37:34,301 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 13:37:34,305 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 13:37:34,304 WARNING {'total': 5, 'items': [OrderedDict([('id', 34), ('name', 'Audio'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 35), ('name', 'Document'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 36), ('name', 'File'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 3), ('name', 'PDF'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 5), ('name', 'Video'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})])]}
+2022-04-15 13:37:34,303 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 13:37:34,305 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 13:37:34,306 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 13:37:34,306 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 13:37:34,354 ERROR {'copyright': [ErrorDetail(string='Select a valid choice. That choice is not one of the available choices.', code='invalid_choice')]}
+2022-04-15 13:37:34,354 WARNING Bad Request: /api/content/
+2022-04-15 13:37:34,354 WARNING Bad Request: /api/content/
+2022-04-15 13:37:34,354 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 13:37:34,354 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 13:37:56,912 WARNING {'total': 4, 'items': [OrderedDict([('name', 'canopée'), ('email', 'canopée@blah.com'), ('website', 'canopee.com'), ('id', 2)]), OrderedDict([('name', 'yahoo'), ('email', 'yahoo.com'), ('website', 'yahoo.com'), ('id', 4)]), OrderedDict([('name', 'Google_upda'), ('email', 'google@google.com'), ('website', 'google.com'), ('id', 3)]), OrderedDict([('name', 'Kids Book'), ('email', 'freekidsbook@org.com'), ('website', 'https://freekidsbooks.org/'), ('id', 1)])]}
+2022-04-15 13:37:56,914 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 13:37:56,914 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 13:37:56,922 WARNING {'total': 9, 'items': [OrderedDict([('organization', 2), ('description', 'Crepe'), ('date_contacted', '2022-02-05'), ('granted', False), ('date_of_response', '2022-02-19'), ('user', 2), ('id', 35), ('organization_info', {'name': 'canopée', 'email': 'canopée@blah.com', 'website': 'canopee.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Some'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-08'), ('user', 2), ('id', 44), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'goo'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 45), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Google'), ('date_contacted', '2022-03-05'), ('granted', True), ('date_of_response', '2022-03-06'), ('user', 2), ('id', 46), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Add'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 47), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'add3'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-05'), ('user', 2), ('id', 49), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'KidsBook'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 50), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'SomeMoreKids'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 51), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 4), ('description', 'add2_yahoo'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-16'), ('user', 2), ('id', 48), ('organization_info', {'name': 'yahoo', 'email': 'yahoo.com', 'website': 'yahoo.com'}), ('user_name', 'pavithra_devi')])]}
+2022-04-15 13:37:56,923 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 13:37:56,923 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 13:38:00,275 WARNING {'total': 4, 'items': [OrderedDict([('name', 'canopée'), ('email', 'canopée@blah.com'), ('website', 'canopee.com'), ('id', 2)]), OrderedDict([('name', 'yahoo'), ('email', 'yahoo.com'), ('website', 'yahoo.com'), ('id', 4)]), OrderedDict([('name', 'Google_upda'), ('email', 'google@google.com'), ('website', 'google.com'), ('id', 3)]), OrderedDict([('name', 'Kids Book'), ('email', 'freekidsbook@org.com'), ('website', 'https://freekidsbooks.org/'), ('id', 1)])]}
+2022-04-15 13:38:00,277 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 13:38:00,277 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 13:38:00,280 WARNING {'total': 6, 'items': [OrderedDict([('id', 2), ('name', 'Authors')]), OrderedDict([('id', 3), ('name', 'Copyright Permissions')]), OrderedDict([('id', 4), ('name', 'Copyrights')]), OrderedDict([('id', 18), ('name', 'new')]), OrderedDict([('id', 19), ('name', 'newonw')]), OrderedDict([('id', 1), ('name', 'Resources')])]}
+2022-04-15 13:38:00,282 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 13:38:00,282 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 13:38:00,288 WARNING {'total': 9, 'items': [OrderedDict([('organization', 2), ('description', 'Crepe'), ('date_contacted', '2022-02-05'), ('granted', False), ('date_of_response', '2022-02-19'), ('user', 2), ('id', 35), ('organization_info', {'name': 'canopée', 'email': 'canopée@blah.com', 'website': 'canopee.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Some'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-08'), ('user', 2), ('id', 44), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'goo'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 45), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Google'), ('date_contacted', '2022-03-05'), ('granted', True), ('date_of_response', '2022-03-06'), ('user', 2), ('id', 46), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Add'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 47), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'add3'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-05'), ('user', 2), ('id', 49), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'KidsBook'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 50), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'SomeMoreKids'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 51), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 4), ('description', 'add2_yahoo'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-16'), ('user', 2), ('id', 48), ('organization_info', {'name': 'yahoo', 'email': 'yahoo.com', 'website': 'yahoo.com'}), ('user_name', 'pavithra_devi')])]}
+2022-04-15 13:38:00,289 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 13:38:00,289 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 13:38:00,347 WARNING {'total': 1, 'items': [OrderedDict([('id', 37), ('name', 'cxc'), ('type', 4), ('metadataType', {'id': 4, 'name': 'Copyrights'})])]}
+2022-04-15 13:38:00,355 WARNING {'total': 0, 'items': []}
+2022-04-15 13:38:00,355 WARNING {'total': 21, 'items': [OrderedDict([('id', 24), ('name', 'A1'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 25), ('name', 'A2'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 26), ('name', 'A3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 27), ('name', 'A4'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 30), ('name', 'A6'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})])]}
+2022-04-15 13:38:00,357 WARNING {'total': 8, 'items': [OrderedDict([('id', 16), ('name', 'CP1'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 17), ('name', 'CP2'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 18), ('name', 'CP3'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 19), ('name', 'CP4'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 20), ('name', 'CP5'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})])]}
+2022-04-15 13:38:00,357 WARNING {'total': 2, 'items': [OrderedDict([('id', 38), ('name', '123'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})]), OrderedDict([('id', 39), ('name', '142'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})])]}
+2022-04-15 13:38:00,358 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 13:38:00,358 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 13:38:00,358 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 13:38:00,358 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 13:38:00,359 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 13:38:00,359 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 13:38:00,358 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 13:38:00,358 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 13:38:00,359 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 13:38:00,359 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 13:38:00,364 WARNING {'total': 5, 'items': [OrderedDict([('id', 34), ('name', 'Audio'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 35), ('name', 'Document'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 36), ('name', 'File'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 3), ('name', 'PDF'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 5), ('name', 'Video'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})])]}
+2022-04-15 13:38:00,365 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 13:38:00,365 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 13:38:00,399 ERROR {'copyright': [ErrorDetail(string='Select a valid choice. That choice is not one of the available choices.', code='invalid_choice')]}
+2022-04-15 13:38:00,399 WARNING Bad Request: /api/content/
+2022-04-15 13:38:00,399 WARNING Bad Request: /api/content/
+2022-04-15 13:38:00,399 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 13:38:00,399 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 13:38:55,806 INFO "GET /static/js/main.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 3317477
+2022-04-15 13:38:55,806 INFO "GET /static/js/main.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 3317477
+2022-04-15 13:38:55,819 INFO "GET /static/js/src_js_pages_home_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 2367
+2022-04-15 13:38:55,819 INFO "GET /static/js/src_js_pages_profile_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 4771
+2022-04-15 13:38:55,819 INFO "GET /static/js/src_js_pages_home_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 2367
+2022-04-15 13:38:55,819 INFO "GET /static/js/src_js_pages_copyright_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 22685
+2022-04-15 13:38:55,819 INFO "GET /static/js/src_js_pages_profile_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 4771
+2022-04-15 13:38:55,819 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16646
+2022-04-15 13:38:55,819 INFO "GET /static/js/src_js_pages_copyright_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 22685
+2022-04-15 13:38:55,819 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16646
+2022-04-15 13:38:55,820 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 40025
+2022-04-15 13:38:55,820 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 40025
+2022-04-15 13:38:55,823 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 57987
+2022-04-15 13:38:55,823 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 57987
+2022-04-15 13:38:55,824 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16843
+2022-04-15 13:38:55,824 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16843
+2022-04-15 13:38:55,826 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 14271
+2022-04-15 13:38:55,826 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 14271
+2022-04-15 13:38:55,829 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 1304070
+2022-04-15 13:38:55,829 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 1304070
+2022-04-15 13:39:00,011 ERROR {'copyright': [ErrorDetail(string='Select a valid choice. That choice is not one of the available choices.', code='invalid_choice')]}
+2022-04-15 13:39:00,088 WARNING Bad Request: /api/content/
+2022-04-15 13:39:00,088 WARNING Bad Request: /api/content/
+2022-04-15 13:39:00,089 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 20121
+2022-04-15 13:39:00,089 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 20121
+2022-04-15 13:39:00,099 INFO "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+2022-04-15 13:39:00,099 INFO "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2022-04-15 13:39:00,099 INFO "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2022-04-15 13:39:00,099 INFO "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2022-04-15 13:39:00,099 INFO "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+2022-04-15 13:39:00,099 INFO "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2022-04-15 13:39:00,099 INFO "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2022-04-15 13:39:00,099 INFO "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2022-04-15 13:39:00,101 INFO "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 200 88145
+2022-04-15 13:39:00,101 INFO "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 200 88145
+2022-04-15 13:39:00,101 INFO "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+2022-04-15 13:39:00,101 INFO "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+2022-04-15 13:39:00,105 INFO "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+2022-04-15 13:39:00,105 INFO "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+2022-04-15 13:39:00,105 INFO "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+2022-04-15 13:39:00,106 INFO "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+2022-04-15 13:39:00,105 INFO "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+2022-04-15 13:39:00,106 INFO "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+2022-04-15 13:39:00,106 INFO "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+2022-04-15 13:39:00,106 INFO "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+2022-04-15 13:39:00,181 INFO "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2022-04-15 13:39:00,181 INFO "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2022-04-15 13:39:15,949 INFO "GET /api/check_duplicate?hash=6071419a610fca96c543c26e1004e33fff0f01a29d279d85c91bedb184bd9c90 HTTP/1.1" 301 0
+2022-04-15 13:39:15,949 INFO "GET /api/check_duplicate?hash=6071419a610fca96c543c26e1004e33fff0f01a29d279d85c91bedb184bd9c90 HTTP/1.1" 301 0
+2022-04-15 13:39:15,960 WARNING True
+2022-04-15 13:39:15,960 INFO "GET /api/check_duplicate/?hash=6071419a610fca96c543c26e1004e33fff0f01a29d279d85c91bedb184bd9c90 HTTP/1.1" 200 41
+2022-04-15 13:39:15,960 INFO "GET /api/check_duplicate/?hash=6071419a610fca96c543c26e1004e33fff0f01a29d279d85c91bedb184bd9c90 HTTP/1.1" 200 41
+2022-04-15 13:39:32,623 INFO "GET /api/check_duplicate?hash=6071419a610fca96c543c26e1004e33fff0f01a29d279d85c91bedb184bd9c90 HTTP/1.1" 301 0
+2022-04-15 13:39:32,623 INFO "GET /api/check_duplicate?hash=6071419a610fca96c543c26e1004e33fff0f01a29d279d85c91bedb184bd9c90 HTTP/1.1" 301 0
+2022-04-15 13:39:32,635 WARNING True
+2022-04-15 13:39:32,636 INFO "GET /api/check_duplicate/?hash=6071419a610fca96c543c26e1004e33fff0f01a29d279d85c91bedb184bd9c90 HTTP/1.1" 200 41
+2022-04-15 13:39:32,636 INFO "GET /api/check_duplicate/?hash=6071419a610fca96c543c26e1004e33fff0f01a29d279d85c91bedb184bd9c90 HTTP/1.1" 200 41
+2022-04-15 13:39:34,194 INFO "GET /api/check_duplicate?hash=6071419a610fca96c543c26e1004e33fff0f01a29d279d85c91bedb184bd9c90 HTTP/1.1" 301 0
+2022-04-15 13:39:34,194 INFO "GET /api/check_duplicate?hash=6071419a610fca96c543c26e1004e33fff0f01a29d279d85c91bedb184bd9c90 HTTP/1.1" 301 0
+2022-04-15 13:39:34,205 WARNING True
+2022-04-15 13:39:34,206 INFO "GET /api/check_duplicate/?hash=6071419a610fca96c543c26e1004e33fff0f01a29d279d85c91bedb184bd9c90 HTTP/1.1" 200 41
+2022-04-15 13:39:34,206 INFO "GET /api/check_duplicate/?hash=6071419a610fca96c543c26e1004e33fff0f01a29d279d85c91bedb184bd9c90 HTTP/1.1" 200 41
+2022-04-15 13:39:48,112 INFO "GET /api/check_duplicate?hash=cdacc34a22708082951a18554d536c24abe149825af5679ef10f03a5e28eb000 HTTP/1.1" 301 0
+2022-04-15 13:39:48,112 INFO "GET /api/check_duplicate?hash=cdacc34a22708082951a18554d536c24abe149825af5679ef10f03a5e28eb000 HTTP/1.1" 301 0
+2022-04-15 13:39:48,123 WARNING False
+2022-04-15 13:39:48,123 INFO "GET /api/check_duplicate/?hash=cdacc34a22708082951a18554d536c24abe149825af5679ef10f03a5e28eb000 HTTP/1.1" 200 42
+2022-04-15 13:39:48,123 INFO "GET /api/check_duplicate/?hash=cdacc34a22708082951a18554d536c24abe149825af5679ef10f03a5e28eb000 HTTP/1.1" 200 42
+2022-04-15 13:39:51,491 INFO "GET /api/check_duplicate?hash=cdacc34a22708082951a18554d536c24abe149825af5679ef10f03a5e28eb000 HTTP/1.1" 301 0
+2022-04-15 13:39:51,491 INFO "GET /api/check_duplicate?hash=cdacc34a22708082951a18554d536c24abe149825af5679ef10f03a5e28eb000 HTTP/1.1" 301 0
+2022-04-15 13:39:51,503 WARNING False
+2022-04-15 13:39:51,503 INFO "GET /api/check_duplicate/?hash=cdacc34a22708082951a18554d536c24abe149825af5679ef10f03a5e28eb000 HTTP/1.1" 200 42
+2022-04-15 13:39:51,503 INFO "GET /api/check_duplicate/?hash=cdacc34a22708082951a18554d536c24abe149825af5679ef10f03a5e28eb000 HTTP/1.1" 200 42
+2022-04-15 13:39:51,899 ERROR Internal Server Error: /api/content/
+Traceback (most recent call last):
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.UndefinedColumn: column "reviewed_by_id" of relation "backend_content" does not exist
+LINE 1: ..._id", "created_on", "modified_by", "modified_on", "reviewed_...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/pavi/SolarSPELL/content-curation/backend/views.py", line 214, in create
+    return super().create(request, *args, **kwargs)
+  File "/home/pavi/SolarSPELL/content-curation/backend/views.py", line 49, in create
+    self.perform_create(serializer)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/serializers.py", line 948, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/query.py", line 433, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/base.py", line 745, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/base.py", line 782, in save_base
+    updated = self._save_table(
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/base.py", line 887, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/base.py", line 924, in _do_insert
+    return manager._insert(
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/query.py", line 1204, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1391, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.ProgrammingError: column "reviewed_by_id" of relation "backend_content" does not exist
+LINE 1: ..._id", "created_on", "modified_by", "modified_on", "reviewed_...
+                                                             ^
+
+2022-04-15 13:39:51,899 ERROR Internal Server Error: /api/content/
+Traceback (most recent call last):
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.UndefinedColumn: column "reviewed_by_id" of relation "backend_content" does not exist
+LINE 1: ..._id", "created_on", "modified_by", "modified_on", "reviewed_...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/pavi/SolarSPELL/content-curation/backend/views.py", line 214, in create
+    return super().create(request, *args, **kwargs)
+  File "/home/pavi/SolarSPELL/content-curation/backend/views.py", line 49, in create
+    self.perform_create(serializer)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/mixins.py", line 24, in perform_create
+    serializer.save()
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/serializers.py", line 948, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/query.py", line 433, in create
+    obj.save(force_insert=True, using=self.db)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/base.py", line 745, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/base.py", line 782, in save_base
+    updated = self._save_table(
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/base.py", line 887, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/base.py", line 924, in _do_insert
+    return manager._insert(
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/query.py", line 1204, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1391, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/backends/utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/backends/utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/backends/utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/backends/utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.ProgrammingError: column "reviewed_by_id" of relation "backend_content" does not exist
+LINE 1: ..._id", "created_on", "modified_by", "modified_on", "reviewed_...
+                                                             ^
+
+2022-04-15 13:39:51,900 ERROR "POST /api/content/ HTTP/1.1" 500 24085
+2022-04-15 13:39:51,900 ERROR "POST /api/content/ HTTP/1.1" 500 24085
+2022-04-15 13:47:57,110 INFO /home/pavi/SolarSPELL/content-curation/backend/filters.py changed, reloading.
+2022-04-15 13:47:57,110 INFO /home/pavi/SolarSPELL/content-curation/backend/filters.py changed, reloading.
+2022-04-15 13:47:57,414 INFO Watching for file changes with StatReloader
+2022-04-15 14:10:12,963 INFO /home/pavi/SolarSPELL/content-curation/backend/views.py changed, reloading.
+2022-04-15 14:10:13,245 INFO Watching for file changes with StatReloader
+2022-04-15 14:10:17,496 INFO /home/pavi/SolarSPELL/content-curation/backend/serializers.py changed, reloading.
+2022-04-15 14:10:17,801 INFO Watching for file changes with StatReloader
+2022-04-15 14:10:17,801 INFO Watching for file changes with StatReloader
+2022-04-15 14:10:53,502 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-04-15 14:10:53,502 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-04-15 14:10:53,652 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 16641
+2022-04-15 14:10:53,652 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 16641
+2022-04-15 14:10:53,666 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 42253
+2022-04-15 14:10:53,666 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 42253
+2022-04-15 14:10:53,673 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 1430533
+2022-04-15 14:10:53,673 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 1430533
+2022-04-15 14:10:53,676 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 18333
+2022-04-15 14:10:53,676 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 18333
+2022-04-15 14:10:53,677 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 78942
+2022-04-15 14:10:53,677 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 78942
+2022-04-15 14:10:53,704 WARNING {'token_key': 'ya29.A0ARrdaM_gEloIabZJOA5mH1R6GlSrq2Jxuo_ndqRXg3aKNI5Yw58Z3zQYa5tT64D-vMRcC9yk_u4bmg6mDybxGKCTe27eRDRvnDhXsfFx3to0mgS4cgqkO9d3Zk88Q1-G5fXwdz6u1Q6dw3XCv-Q2B4Cbgre6BAI', 'username': 'pavithra_devi', 'email': 'prajkuma@asu.edu', 'groups': ['Library Specialist', 'Student'], 'user_id': 2, 'profile': {'num_content': 16}}
+2022-04-15 14:10:53,705 INFO "GET /api/get_user/ HTTP/1.1" 200 356
+2022-04-15 14:10:53,705 INFO "GET /api/get_user/ HTTP/1.1" 200 356
+2022-04-15 14:10:53,851 WARNING {'total': 4, 'items': [OrderedDict([('name', 'canopée'), ('email', 'canopée@blah.com'), ('website', 'canopee.com'), ('id', 2)]), OrderedDict([('name', 'yahoo'), ('email', 'yahoo.com'), ('website', 'yahoo.com'), ('id', 4)]), OrderedDict([('name', 'Google_upda'), ('email', 'google@google.com'), ('website', 'google.com'), ('id', 3)]), OrderedDict([('name', 'Kids Book'), ('email', 'freekidsbook@org.com'), ('website', 'https://freekidsbooks.org/'), ('id', 1)])]}
+2022-04-15 14:10:53,852 WARNING {'total': 6, 'items': [OrderedDict([('id', 2), ('name', 'Authors')]), OrderedDict([('id', 3), ('name', 'Copyright Permissions')]), OrderedDict([('id', 4), ('name', 'Copyrights')]), OrderedDict([('id', 18), ('name', 'new')]), OrderedDict([('id', 19), ('name', 'newonw')]), OrderedDict([('id', 1), ('name', 'Resources')])]}
+2022-04-15 14:10:53,855 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:10:53,855 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 14:10:53,855 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:10:53,855 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 14:10:53,862 WARNING {'total': 9, 'items': [OrderedDict([('organization', 2), ('description', 'Crepe'), ('date_contacted', '2022-02-05'), ('granted', False), ('date_of_response', '2022-02-19'), ('user', 2), ('id', 35), ('organization_info', {'name': 'canopée', 'email': 'canopée@blah.com', 'website': 'canopee.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Some'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-08'), ('user', 2), ('id', 44), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'goo'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 45), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Google'), ('date_contacted', '2022-03-05'), ('granted', True), ('date_of_response', '2022-03-06'), ('user', 2), ('id', 46), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Add'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 47), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'add3'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-05'), ('user', 2), ('id', 49), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'KidsBook'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 50), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'SomeMoreKids'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 51), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 4), ('description', 'add2_yahoo'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-16'), ('user', 2), ('id', 48), ('organization_info', {'name': 'yahoo', 'email': 'yahoo.com', 'website': 'yahoo.com'}), ('user_name', 'pavithra_devi')])]}
+2022-04-15 14:10:53,862 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 14:10:53,862 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 14:10:53,938 WARNING {'total': 0, 'items': []}
+2022-04-15 14:10:53,939 WARNING {'total': 1, 'items': [OrderedDict([('id', 37), ('name', 'cxc'), ('type', 4), ('metadataType', {'id': 4, 'name': 'Copyrights'})])]}
+2022-04-15 14:10:53,942 WARNING {'total': 2, 'items': [OrderedDict([('id', 38), ('name', '123'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})]), OrderedDict([('id', 39), ('name', '142'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})])]}
+2022-04-15 14:10:53,946 INFO "GET /api/metadata_types/19/metadata/ HTTP/1.1" 200 59
+2022-04-15 14:10:53,946 INFO "GET /api/metadata_types/19/metadata/ HTTP/1.1" 200 59
+2022-04-15 14:10:53,947 INFO "GET /api/metadata_types/4/metadata/ HTTP/1.1" 200 134
+2022-04-15 14:10:53,947 INFO "GET /api/metadata_types/18/metadata/ HTTP/1.1" 200 200
+2022-04-15 14:10:53,955 WARNING {'total': 5, 'items': [OrderedDict([('id', 34), ('name', 'Audio'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 35), ('name', 'Document'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 36), ('name', 'File'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 3), ('name', 'PDF'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 5), ('name', 'Video'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})])]}
+2022-04-15 14:10:53,947 INFO "GET /api/metadata_types/4/metadata/ HTTP/1.1" 200 134
+2022-04-15 14:10:53,956 WARNING {'total': 8, 'items': [OrderedDict([('id', 16), ('name', 'CP1'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 17), ('name', 'CP2'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 18), ('name', 'CP3'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 19), ('name', 'CP4'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 20), ('name', 'CP5'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 21), ('name', 'CP6'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 22), ('name', 'CP7'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 23), ('name', 'CP8'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})])]}
+2022-04-15 14:10:53,958 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 441
+2022-04-15 14:10:53,947 INFO "GET /api/metadata_types/18/metadata/ HTTP/1.1" 200 200
+2022-04-15 14:10:53,958 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 441
+2022-04-15 14:10:53,959 INFO "GET /api/metadata_types/3/metadata/ HTTP/1.1" 200 754
+2022-04-15 14:10:53,959 WARNING {'total': 21, 'items': [OrderedDict([('id', 24), ('name', 'A1'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 25), ('name', 'A2'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 26), ('name', 'A3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 27), ('name', 'A4'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 30), ('name', 'A6'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 31), ('name', 'A7'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 29), ('name', 'A8'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 6), ('name', 'Author_dff'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 8), ('name', 'Authors124'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 7), ('name', 'Authors3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 9), ('name', 'Authors32'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 10), ('name', 'Authors5'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 11), ('name', 'Authors65'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 14), ('name', 'Authors67'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 12), ('name', 'Authors68'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 13), ('name', 'Authors69'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 15), ('name', 'Authors76'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 32), ('name', 'B21'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 1), ('name', 'J K Rowling'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 4), ('name', 'Kahani Goyal'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 2), ('name', 'Liane Moriarty'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})])]}
+2022-04-15 14:10:53,959 INFO "GET /api/metadata_types/3/metadata/ HTTP/1.1" 200 754
+2022-04-15 14:10:53,960 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 1666
+2022-04-15 14:10:53,960 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 1666
+2022-04-15 14:10:54,026 ERROR {'copyright': [ErrorDetail(string='Select a valid choice. That choice is not one of the available choices.', code='invalid_choice')]}
+2022-04-15 14:10:54,027 WARNING Bad Request: /api/content/
+2022-04-15 14:10:54,027 WARNING Bad Request: /api/content/
+2022-04-15 14:10:54,027 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 14:10:54,027 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 14:10:54,523 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-04-15 14:10:54,523 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-04-15 14:10:56,986 INFO "GET /static/js/main.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 3317477
+2022-04-15 14:10:56,986 INFO "GET /static/js/main.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 3317477
+2022-04-15 14:10:56,989 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16843
+2022-04-15 14:10:56,989 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16843
+2022-04-15 14:10:56,990 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 57987
+2022-04-15 14:10:56,990 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 57987
+2022-04-15 14:10:56,995 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16646
+2022-04-15 14:10:56,995 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16646
+2022-04-15 14:10:56,995 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 40025
+2022-04-15 14:10:56,995 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 40025
+2022-04-15 14:10:56,998 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 1304070
+2022-04-15 14:10:56,998 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 1304070
+2022-04-15 14:10:59,024 ERROR {'copyright': [ErrorDetail(string='Select a valid choice. That choice is not one of the available choices.', code='invalid_choice')]}
+2022-04-15 14:10:59,109 WARNING Bad Request: /api/content/
+2022-04-15 14:10:59,109 WARNING Bad Request: /api/content/
+2022-04-15 14:10:59,110 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 20121
+2022-04-15 14:10:59,110 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 20121
+2022-04-15 14:10:59,121 INFO "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2022-04-15 14:10:59,121 INFO "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+2022-04-15 14:10:59,121 INFO "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2022-04-15 14:10:59,121 INFO "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2022-04-15 14:10:59,122 INFO "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2022-04-15 14:10:59,121 INFO "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+2022-04-15 14:10:59,121 INFO "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2022-04-15 14:10:59,122 INFO "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2022-04-15 14:10:59,123 INFO "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+2022-04-15 14:10:59,123 INFO "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+2022-04-15 14:10:59,123 INFO "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 200 88145
+2022-04-15 14:10:59,123 INFO "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 200 88145
+2022-04-15 14:10:59,127 INFO "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+2022-04-15 14:10:59,127 INFO "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+2022-04-15 14:10:59,127 INFO "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+2022-04-15 14:10:59,128 INFO "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+2022-04-15 14:10:59,127 INFO "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+2022-04-15 14:10:59,128 INFO "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+2022-04-15 14:10:59,128 INFO "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+2022-04-15 14:10:59,128 INFO "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+2022-04-15 14:10:59,151 INFO "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2022-04-15 14:10:59,151 INFO "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2022-04-15 14:19:20,244 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-04-15 14:19:20,244 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-04-15 14:19:20,394 INFO "GET /static/js/main.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 3317477
+2022-04-15 14:19:20,394 INFO "GET /static/js/main.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 3317477
+2022-04-15 14:19:20,430 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 16641
+2022-04-15 14:19:20,430 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 16641
+2022-04-15 14:19:20,432 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 42253
+2022-04-15 14:19:20,432 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 42253
+2022-04-15 14:19:20,437 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 18333
+2022-04-15 14:19:20,437 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 18333
+2022-04-15 14:19:20,440 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 78942
+2022-04-15 14:19:20,440 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 78942
+2022-04-15 14:19:20,444 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 1430533
+2022-04-15 14:19:20,444 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 1430533
+2022-04-15 14:19:20,477 WARNING {'token_key': 'ya29.A0ARrdaM_gEloIabZJOA5mH1R6GlSrq2Jxuo_ndqRXg3aKNI5Yw58Z3zQYa5tT64D-vMRcC9yk_u4bmg6mDybxGKCTe27eRDRvnDhXsfFx3to0mgS4cgqkO9d3Zk88Q1-G5fXwdz6u1Q6dw3XCv-Q2B4Cbgre6BAI', 'username': 'pavithra_devi', 'email': 'prajkuma@asu.edu', 'groups': ['Library Specialist', 'Student'], 'user_id': 2, 'profile': {'num_content': 16}}
+2022-04-15 14:19:20,477 INFO "GET /api/get_user/ HTTP/1.1" 200 356
+2022-04-15 14:19:20,477 INFO "GET /api/get_user/ HTTP/1.1" 200 356
+2022-04-15 14:19:20,499 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16646
+2022-04-15 14:19:20,499 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16646
+2022-04-15 14:19:20,515 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16843
+2022-04-15 14:19:20,515 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16843
+2022-04-15 14:19:20,515 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 57987
+2022-04-15 14:19:20,515 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 57987
+2022-04-15 14:19:20,519 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 40025
+2022-04-15 14:19:20,519 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 40025
+2022-04-15 14:19:20,606 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 1304070
+2022-04-15 14:19:20,606 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 1304070
+2022-04-15 14:19:20,685 WARNING {'total': 6, 'items': [OrderedDict([('id', 2), ('name', 'Authors')]), OrderedDict([('id', 3), ('name', 'Copyright Permissions')]), OrderedDict([('id', 4), ('name', 'Copyrights')]), OrderedDict([('id', 18), ('name', 'new')]), OrderedDict([('id', 19), ('name', 'newonw')]), OrderedDict([('id', 1), ('name', 'Resources')])]}
+2022-04-15 14:19:20,688 WARNING {'total': 4, 'items': [OrderedDict([('name', 'canopée'), ('email', 'canopée@blah.com'), ('website', 'canopee.com'), ('id', 2)]), OrderedDict([('name', 'yahoo'), ('email', 'yahoo.com'), ('website', 'yahoo.com'), ('id', 4)]), OrderedDict([('name', 'Google_upda'), ('email', 'google@google.com'), ('website', 'google.com'), ('id', 3)]), OrderedDict([('name', 'Kids Book'), ('email', 'freekidsbook@org.com'), ('website', 'https://freekidsbooks.org/'), ('id', 1)])]}
+2022-04-15 14:19:20,689 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:19:20,689 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:19:20,690 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 14:19:20,690 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 14:19:20,697 WARNING {'total': 9, 'items': [OrderedDict([('organization', 2), ('description', 'Crepe'), ('date_contacted', '2022-02-05'), ('granted', False), ('date_of_response', '2022-02-19'), ('user', 2), ('id', 35), ('organization_info', {'name': 'canopée', 'email': 'canopée@blah.com', 'website': 'canopee.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Some'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-08'), ('user', 2), ('id', 44), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'goo'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 45), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Google'), ('date_contacted', '2022-03-05'), ('granted', True), ('date_of_response', '2022-03-06'), ('user', 2), ('id', 46), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Add'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 47), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'add3'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-05'), ('user', 2), ('id', 49), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'KidsBook'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 50), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'SomeMoreKids'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 51), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 4), ('description', 'add2_yahoo'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-16'), ('user', 2), ('id', 48), ('organization_info', {'name': 'yahoo', 'email': 'yahoo.com', 'website': 'yahoo.com'}), ('user_name', 'pavithra_devi')])]}
+2022-04-15 14:19:20,697 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 14:19:20,697 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 14:19:20,736 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-04-15 14:19:20,736 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-04-15 14:19:20,822 WARNING {'total': 0, 'items': []}
+2022-04-15 14:19:20,822 WARNING {'total': 8, 'items': [OrderedDict([('id', 16), ('name', 'CP1'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 17), ('name', 'CP2'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 18), ('name', 'CP3'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 19), ('name', 'CP4'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 20), ('name', 'CP5'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 21), ('name', 'CP6'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 22), ('name', 'CP7'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 23), ('name', 'CP8'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})])]}
+2022-04-15 14:19:20,824 WARNING {'total': 5, 'items': [OrderedDict([('id', 34), ('name', 'Audio'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 35), ('name', 'Document'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 36), ('name', 'File'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 3), ('name', 'PDF'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 5), ('name', 'Video'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})])]}
+2022-04-15 14:19:20,829 INFO "GET /api/metadata_types/19/metadata/ HTTP/1.1" 200 59
+2022-04-15 14:19:20,829 WARNING {'total': 2, 'items': [OrderedDict([('id', 38), ('name', '123'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})]), OrderedDict([('id', 39), ('name', '142'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})])]}
+2022-04-15 14:19:20,830 INFO "GET /api/metadata_types/3/metadata/ HTTP/1.1" 200 754
+2022-04-15 14:19:20,829 WARNING {'total': 1, 'items': [OrderedDict([('id', 37), ('name', 'cxc'), ('type', 4), ('metadataType', {'id': 4, 'name': 'Copyrights'})])]}
+2022-04-15 14:19:20,831 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 441
+2022-04-15 14:19:20,832 INFO "GET /api/metadata_types/18/metadata/ HTTP/1.1" 200 200
+2022-04-15 14:19:20,829 INFO "GET /api/metadata_types/19/metadata/ HTTP/1.1" 200 59
+2022-04-15 14:19:20,830 INFO "GET /api/metadata_types/3/metadata/ HTTP/1.1" 200 754
+2022-04-15 14:19:20,834 INFO "GET /api/metadata_types/4/metadata/ HTTP/1.1" 200 134
+2022-04-15 14:19:20,831 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 441
+2022-04-15 14:19:20,832 INFO "GET /api/metadata_types/18/metadata/ HTTP/1.1" 200 200
+2022-04-15 14:19:20,834 INFO "GET /api/metadata_types/4/metadata/ HTTP/1.1" 200 134
+2022-04-15 14:19:20,841 WARNING {'total': 21, 'items': [OrderedDict([('id', 24), ('name', 'A1'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 25), ('name', 'A2'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 26), ('name', 'A3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 27), ('name', 'A4'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 30), ('name', 'A6'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 31), ('name', 'A7'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 29), ('name', 'A8'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 6), ('name', 'Author_dff'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 8), ('name', 'Authors124'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 7), ('name', 'Authors3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 9), ('name', 'Authors32'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 10), ('name', 'Authors5'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 11), ('name', 'Authors65'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 14), ('name', 'Authors67'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 12), ('name', 'Authors68'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 13), ('name', 'Authors69'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 15), ('name', 'Authors76'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 32), ('name', 'B21'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 1), ('name', 'J K Rowling'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 4), ('name', 'Kahani Goyal'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 2), ('name', 'Liane Moriarty'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})])]}
+2022-04-15 14:19:20,841 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 1666
+2022-04-15 14:19:20,841 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 1666
+2022-04-15 14:19:20,948 ERROR {'copyright': [ErrorDetail(string='Select a valid choice. That choice is not one of the available choices.', code='invalid_choice')]}
+2022-04-15 14:19:20,948 WARNING Bad Request: /api/content/
+2022-04-15 14:19:20,948 WARNING Bad Request: /api/content/
+2022-04-15 14:19:20,948 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 14:19:20,948 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 14:21:37,104 INFO "GET /api/check_duplicate?hash=826db724498312acf39bea4e34a20b707fe82d49e2fc770450f3985c08128039 HTTP/1.1" 301 0
+2022-04-15 14:21:37,104 INFO "GET /api/check_duplicate?hash=826db724498312acf39bea4e34a20b707fe82d49e2fc770450f3985c08128039 HTTP/1.1" 301 0
+2022-04-15 14:21:37,118 WARNING False
+2022-04-15 14:21:37,118 INFO "GET /api/check_duplicate/?hash=826db724498312acf39bea4e34a20b707fe82d49e2fc770450f3985c08128039 HTTP/1.1" 200 42
+2022-04-15 14:21:37,118 INFO "GET /api/check_duplicate/?hash=826db724498312acf39bea4e34a20b707fe82d49e2fc770450f3985c08128039 HTTP/1.1" 200 42
+2022-04-15 14:23:06,824 INFO Watching for file changes with StatReloader
+2022-04-15 14:23:06,824 INFO Watching for file changes with StatReloader
+2022-04-15 14:23:11,452 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-04-15 14:23:11,452 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-04-15 14:23:11,604 INFO "GET /static/js/main.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 3317477
+2022-04-15 14:23:11,604 INFO "GET /static/js/main.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 3317477
+2022-04-15 14:23:11,639 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 16641
+2022-04-15 14:23:11,639 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 16641
+2022-04-15 14:23:11,641 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 42253
+2022-04-15 14:23:11,641 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 42253
+2022-04-15 14:23:11,644 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 18333
+2022-04-15 14:23:11,644 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 18333
+2022-04-15 14:23:11,646 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 1430533
+2022-04-15 14:23:11,646 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 1430533
+2022-04-15 14:23:11,646 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 78942
+2022-04-15 14:23:11,646 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 78942
+2022-04-15 14:23:11,707 WARNING {'token_key': 'ya29.A0ARrdaM_gEloIabZJOA5mH1R6GlSrq2Jxuo_ndqRXg3aKNI5Yw58Z3zQYa5tT64D-vMRcC9yk_u4bmg6mDybxGKCTe27eRDRvnDhXsfFx3to0mgS4cgqkO9d3Zk88Q1-G5fXwdz6u1Q6dw3XCv-Q2B4Cbgre6BAI', 'username': 'pavithra_devi', 'email': 'prajkuma@asu.edu', 'groups': ['Library Specialist', 'Student'], 'user_id': 2, 'profile': {'num_content': 16}}
+2022-04-15 14:23:11,708 INFO "GET /api/get_user/ HTTP/1.1" 200 356
+2022-04-15 14:23:11,708 INFO "GET /api/get_user/ HTTP/1.1" 200 356
+2022-04-15 14:23:11,741 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16646
+2022-04-15 14:23:11,741 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16646
+2022-04-15 14:23:11,763 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16843
+2022-04-15 14:23:11,763 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 16843
+2022-04-15 14:23:11,763 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 40025
+2022-04-15 14:23:11,763 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 40025
+2022-04-15 14:23:11,763 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 57987
+2022-04-15 14:23:11,763 INFO "GET /static/js/src_js_pages_content_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 57987
+2022-04-15 14:23:11,837 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 1304070
+2022-04-15 14:23:11,837 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 1304070
+2022-04-15 14:23:11,915 WARNING {'total': 4, 'items': [OrderedDict([('name', 'canopée'), ('email', 'canopée@blah.com'), ('website', 'canopee.com'), ('id', 2)]), OrderedDict([('name', 'yahoo'), ('email', 'yahoo.com'), ('website', 'yahoo.com'), ('id', 4)]), OrderedDict([('name', 'Google_upda'), ('email', 'google@google.com'), ('website', 'google.com'), ('id', 3)]), OrderedDict([('name', 'Kids Book'), ('email', 'freekidsbook@org.com'), ('website', 'https://freekidsbooks.org/'), ('id', 1)])]}
+2022-04-15 14:23:11,916 WARNING {'total': 6, 'items': [OrderedDict([('id', 2), ('name', 'Authors')]), OrderedDict([('id', 3), ('name', 'Copyright Permissions')]), OrderedDict([('id', 4), ('name', 'Copyrights')]), OrderedDict([('id', 18), ('name', 'new')]), OrderedDict([('id', 19), ('name', 'newonw')]), OrderedDict([('id', 1), ('name', 'Resources')])]}
+2022-04-15 14:23:11,917 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 14:23:11,917 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 14:23:11,919 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:23:11,919 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:23:11,925 WARNING {'total': 9, 'items': [OrderedDict([('organization', 2), ('description', 'Crepe'), ('date_contacted', '2022-02-05'), ('granted', False), ('date_of_response', '2022-02-19'), ('user', 2), ('id', 35), ('organization_info', {'name': 'canopée', 'email': 'canopée@blah.com', 'website': 'canopee.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Some'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-08'), ('user', 2), ('id', 44), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'goo'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 45), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Google'), ('date_contacted', '2022-03-05'), ('granted', True), ('date_of_response', '2022-03-06'), ('user', 2), ('id', 46), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Add'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 47), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'add3'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-05'), ('user', 2), ('id', 49), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'KidsBook'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 50), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'SomeMoreKids'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 51), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 4), ('description', 'add2_yahoo'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-16'), ('user', 2), ('id', 48), ('organization_info', {'name': 'yahoo', 'email': 'yahoo.com', 'website': 'yahoo.com'}), ('user_name', 'pavithra_devi')])]}
+2022-04-15 14:23:11,925 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 14:23:11,925 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 14:23:12,077 WARNING {'total': 1, 'items': [OrderedDict([('id', 37), ('name', 'cxc'), ('type', 4), ('metadataType', {'id': 4, 'name': 'Copyrights'})])]}
+2022-04-15 14:23:12,082 WARNING {'total': 2, 'items': [OrderedDict([('id', 38), ('name', '123'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})]), OrderedDict([('id', 39), ('name', '142'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})])]}
+2022-04-15 14:23:12,088 INFO "GET /api/metadata_types/4/metadata/ HTTP/1.1" 200 134
+2022-04-15 14:23:12,093 WARNING {'total': 0, 'items': []}
+2022-04-15 14:23:12,088 INFO "GET /api/metadata_types/4/metadata/ HTTP/1.1" 200 134
+2022-04-15 14:23:12,097 WARNING {'total': 8, 'items': [OrderedDict([('id', 16), ('name', 'CP1'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 17), ('name', 'CP2'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 18), ('name', 'CP3'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 19), ('name', 'CP4'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 20), ('name', 'CP5'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 21), ('name', 'CP6'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 22), ('name', 'CP7'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 23), ('name', 'CP8'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})])]}
+2022-04-15 14:23:12,097 INFO "GET /api/metadata_types/18/metadata/ HTTP/1.1" 200 200
+2022-04-15 14:23:12,098 WARNING {'total': 5, 'items': [OrderedDict([('id', 34), ('name', 'Audio'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 35), ('name', 'Document'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 36), ('name', 'File'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 3), ('name', 'PDF'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 5), ('name', 'Video'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})])]}
+2022-04-15 14:23:12,099 INFO "GET /api/metadata_types/19/metadata/ HTTP/1.1" 200 59
+2022-04-15 14:23:12,097 INFO "GET /api/metadata_types/18/metadata/ HTTP/1.1" 200 200
+2022-04-15 14:23:12,099 INFO "GET /api/metadata_types/19/metadata/ HTTP/1.1" 200 59
+2022-04-15 14:23:12,101 INFO "GET /api/metadata_types/3/metadata/ HTTP/1.1" 200 754
+2022-04-15 14:23:12,100 WARNING {'total': 21, 'items': [OrderedDict([('id', 24), ('name', 'A1'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 25), ('name', 'A2'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 26), ('name', 'A3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 27), ('name', 'A4'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 30), ('name', 'A6'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 31), ('name', 'A7'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 29), ('name', 'A8'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 6), ('name', 'Author_dff'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 8), ('name', 'Authors124'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 7), ('name', 'Authors3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 9), ('name', 'Authors32'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 10), ('name', 'Authors5'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 11), ('name', 'Authors65'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 14), ('name', 'Authors67'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 12), ('name', 'Authors68'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 13), ('name', 'Authors69'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 15), ('name', 'Authors76'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 32), ('name', 'B21'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 1), ('name', 'J K Rowling'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 4), ('name', 'Kahani Goyal'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 2), ('name', 'Liane Moriarty'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})])]}
+2022-04-15 14:23:12,101 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 441
+2022-04-15 14:23:12,101 INFO "GET /api/metadata_types/3/metadata/ HTTP/1.1" 200 754
+2022-04-15 14:23:12,101 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 441
+2022-04-15 14:23:12,102 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 1666
+2022-04-15 14:23:12,102 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 1666
+2022-04-15 14:23:12,182 ERROR {'copyright': [ErrorDetail(string='Select a valid choice. That choice is not one of the available choices.', code='invalid_choice')]}
+2022-04-15 14:23:12,182 WARNING Bad Request: /api/content/
+2022-04-15 14:23:12,182 WARNING Bad Request: /api/content/
+2022-04-15 14:23:12,182 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 14:23:12,182 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 14:23:12,346 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-04-15 14:23:12,346 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-04-15 14:23:14,692 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 24598
+2022-04-15 14:23:14,692 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 24598
+2022-04-15 14:23:14,703 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 14271
+2022-04-15 14:23:14,703 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 14271
+2022-04-15 14:23:14,753 WARNING {'total': 6, 'items': [OrderedDict([('id', 2), ('name', 'Authors')]), OrderedDict([('id', 3), ('name', 'Copyright Permissions')]), OrderedDict([('id', 4), ('name', 'Copyrights')]), OrderedDict([('id', 18), ('name', 'new')]), OrderedDict([('id', 19), ('name', 'newonw')]), OrderedDict([('id', 1), ('name', 'Resources')])]}
+2022-04-15 14:23:14,754 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:23:14,754 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:23:14,768 WARNING {'total': 6, 'items': [OrderedDict([('id', 2), ('name', 'Authors')]), OrderedDict([('id', 3), ('name', 'Copyright Permissions')]), OrderedDict([('id', 4), ('name', 'Copyrights')]), OrderedDict([('id', 18), ('name', 'new')]), OrderedDict([('id', 19), ('name', 'newonw')]), OrderedDict([('id', 1), ('name', 'Resources')])]}
+2022-04-15 14:23:14,768 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:23:14,768 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:23:14,817 WARNING {'total': 0, 'items': []}
+2022-04-15 14:23:14,818 WARNING {'total': 1, 'items': [OrderedDict([('id', 37), ('name', 'cxc'), ('type', 4), ('metadataType', {'id': 4, 'name': 'Copyrights'})])]}
+2022-04-15 14:23:14,823 WARNING {'total': 8, 'items': [OrderedDict([('id', 16), ('name', 'CP1'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 17), ('name', 'CP2'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 18), ('name', 'CP3'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 19), ('name', 'CP4'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 20), ('name', 'CP5'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})])]}
+2022-04-15 14:23:14,827 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 14:23:14,828 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 14:23:14,827 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 14:23:14,831 WARNING {'total': 21, 'items': [OrderedDict([('id', 24), ('name', 'A1'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 25), ('name', 'A2'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 26), ('name', 'A3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 27), ('name', 'A4'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 30), ('name', 'A6'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})])]}
+2022-04-15 14:23:14,832 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 14:23:14,831 WARNING {'total': 2, 'items': [OrderedDict([('id', 38), ('name', '123'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})]), OrderedDict([('id', 39), ('name', '142'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})])]}
+2022-04-15 14:23:14,833 WARNING {'total': 5, 'items': [OrderedDict([('id', 34), ('name', 'Audio'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 35), ('name', 'Document'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 36), ('name', 'File'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 3), ('name', 'PDF'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 5), ('name', 'Video'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})])]}
+2022-04-15 14:23:14,828 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 14:23:14,834 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 14:23:14,832 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 14:23:14,834 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 14:23:14,834 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 14:23:14,835 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 14:23:14,834 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 14:23:14,835 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 14:23:14,868 WARNING {'total': 8, 'items': [OrderedDict([('id', 16), ('name', 'CP1'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 17), ('name', 'CP2'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 18), ('name', 'CP3'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 19), ('name', 'CP4'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 20), ('name', 'CP5'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})])]}
+2022-04-15 14:23:14,868 WARNING {'total': 21, 'items': [OrderedDict([('id', 24), ('name', 'A1'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 25), ('name', 'A2'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 26), ('name', 'A3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 27), ('name', 'A4'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 30), ('name', 'A6'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})])]}
+2022-04-15 14:23:14,872 WARNING {'total': 1, 'items': [OrderedDict([('id', 37), ('name', 'cxc'), ('type', 4), ('metadataType', {'id': 4, 'name': 'Copyrights'})])]}
+2022-04-15 14:23:14,880 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 14:23:14,882 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 14:23:14,880 WARNING {'total': 0, 'items': []}
+2022-04-15 14:23:14,880 WARNING {'total': 2, 'items': [OrderedDict([('id', 38), ('name', '123'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})]), OrderedDict([('id', 39), ('name', '142'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})])]}
+2022-04-15 14:23:14,882 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 14:23:14,882 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 14:23:14,880 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 14:23:14,885 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 14:23:14,882 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 14:23:14,886 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 14:23:14,885 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 14:23:14,887 WARNING {'total': 5, 'items': [OrderedDict([('id', 34), ('name', 'Audio'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 35), ('name', 'Document'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 36), ('name', 'File'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 3), ('name', 'PDF'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 5), ('name', 'Video'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})])]}
+2022-04-15 14:23:14,886 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 14:23:14,888 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 14:23:14,888 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 14:23:15,733 WARNING {'total': 4, 'items': [OrderedDict([('name', 'canopée'), ('email', 'canopée@blah.com'), ('website', 'canopee.com'), ('id', 2)]), OrderedDict([('name', 'yahoo'), ('email', 'yahoo.com'), ('website', 'yahoo.com'), ('id', 4)]), OrderedDict([('name', 'Google_upda'), ('email', 'google@google.com'), ('website', 'google.com'), ('id', 3)]), OrderedDict([('name', 'Kids Book'), ('email', 'freekidsbook@org.com'), ('website', 'https://freekidsbooks.org/'), ('id', 1)])]}
+2022-04-15 14:23:15,734 WARNING {'total': 6, 'items': [OrderedDict([('id', 2), ('name', 'Authors')]), OrderedDict([('id', 3), ('name', 'Copyright Permissions')]), OrderedDict([('id', 4), ('name', 'Copyrights')]), OrderedDict([('id', 18), ('name', 'new')]), OrderedDict([('id', 19), ('name', 'newonw')]), OrderedDict([('id', 1), ('name', 'Resources')])]}
+2022-04-15 14:23:15,735 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 14:23:15,735 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 14:23:15,736 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:23:15,736 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:23:15,744 WARNING {'total': 9, 'items': [OrderedDict([('organization', 2), ('description', 'Crepe'), ('date_contacted', '2022-02-05'), ('granted', False), ('date_of_response', '2022-02-19'), ('user', 2), ('id', 35), ('organization_info', {'name': 'canopée', 'email': 'canopée@blah.com', 'website': 'canopee.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Some'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-08'), ('user', 2), ('id', 44), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'goo'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 45), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Google'), ('date_contacted', '2022-03-05'), ('granted', True), ('date_of_response', '2022-03-06'), ('user', 2), ('id', 46), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Add'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 47), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'add3'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-05'), ('user', 2), ('id', 49), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'KidsBook'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 50), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'SomeMoreKids'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 51), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 4), ('description', 'add2_yahoo'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-16'), ('user', 2), ('id', 48), ('organization_info', {'name': 'yahoo', 'email': 'yahoo.com', 'website': 'yahoo.com'}), ('user_name', 'pavithra_devi')])]}
+2022-04-15 14:23:15,744 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 14:23:15,744 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 14:23:15,840 WARNING {'total': 21, 'items': [OrderedDict([('id', 24), ('name', 'A1'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 25), ('name', 'A2'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 26), ('name', 'A3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 27), ('name', 'A4'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 30), ('name', 'A6'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})])]}
+2022-04-15 14:23:15,841 WARNING {'total': 2, 'items': [OrderedDict([('id', 38), ('name', '123'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})]), OrderedDict([('id', 39), ('name', '142'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})])]}
+2022-04-15 14:23:15,843 WARNING {'total': 0, 'items': []}
+2022-04-15 14:23:15,849 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 14:23:15,845 WARNING {'total': 8, 'items': [OrderedDict([('id', 16), ('name', 'CP1'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 17), ('name', 'CP2'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 18), ('name', 'CP3'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 19), ('name', 'CP4'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 20), ('name', 'CP5'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})])]}
+2022-04-15 14:23:15,848 WARNING {'total': 1, 'items': [OrderedDict([('id', 37), ('name', 'cxc'), ('type', 4), ('metadataType', {'id': 4, 'name': 'Copyrights'})])]}
+2022-04-15 14:23:15,851 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 14:23:15,849 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 14:23:15,852 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 14:23:15,852 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 14:23:15,852 WARNING {'total': 5, 'items': [OrderedDict([('id', 34), ('name', 'Audio'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 35), ('name', 'Document'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 36), ('name', 'File'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 3), ('name', 'PDF'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 5), ('name', 'Video'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})])]}
+2022-04-15 14:23:15,851 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 14:23:15,852 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 14:23:15,852 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 14:23:15,852 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 14:23:15,852 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 14:23:15,853 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 14:23:15,853 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 14:23:15,884 ERROR {'copyright': [ErrorDetail(string='Select a valid choice. That choice is not one of the available choices.', code='invalid_choice')]}
+2022-04-15 14:23:15,885 WARNING Bad Request: /api/content/
+2022-04-15 14:23:15,885 WARNING Bad Request: /api/content/
+2022-04-15 14:23:15,885 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 14:23:15,885 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 14:23:16,494 INFO "GET /static/js/src_js_pages_copyright_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 29167
+2022-04-15 14:23:16,494 INFO "GET /static/js/src_js_pages_copyright_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 29167
+2022-04-15 14:23:16,512 INFO "GET /static/js/src_js_pages_copyright_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 22685
+2022-04-15 14:23:16,512 INFO "GET /static/js/src_js_pages_copyright_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 22685
+2022-04-15 14:23:16,689 WARNING {'total': 4, 'items': [OrderedDict([('name', 'canopée'), ('email', 'canopée@blah.com'), ('website', 'canopee.com'), ('id', 2)]), OrderedDict([('name', 'yahoo'), ('email', 'yahoo.com'), ('website', 'yahoo.com'), ('id', 4)]), OrderedDict([('name', 'Google_upda'), ('email', 'google@google.com'), ('website', 'google.com'), ('id', 3)]), OrderedDict([('name', 'Kids Book'), ('email', 'freekidsbook@org.com'), ('website', 'https://freekidsbooks.org/'), ('id', 1)])]}
+2022-04-15 14:23:16,691 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 14:23:16,691 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 14:23:16,702 WARNING {'total': 9, 'items': [OrderedDict([('organization', 2), ('description', 'Crepe'), ('date_contacted', '2022-02-05'), ('granted', False), ('date_of_response', '2022-02-19'), ('user', 2), ('id', 35), ('organization_info', {'name': 'canopée', 'email': 'canopée@blah.com', 'website': 'canopee.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Some'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-08'), ('user', 2), ('id', 44), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'goo'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 45), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Google'), ('date_contacted', '2022-03-05'), ('granted', True), ('date_of_response', '2022-03-06'), ('user', 2), ('id', 46), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Add'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 47), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'add3'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-05'), ('user', 2), ('id', 49), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'KidsBook'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 50), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'SomeMoreKids'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 51), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 4), ('description', 'add2_yahoo'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-16'), ('user', 2), ('id', 48), ('organization_info', {'name': 'yahoo', 'email': 'yahoo.com', 'website': 'yahoo.com'}), ('user_name', 'pavithra_devi')])]}
+2022-04-15 14:23:16,702 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 14:23:16,702 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 14:23:19,078 INFO "GET /static/js/src_js_pages_profile_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 8391
+2022-04-15 14:23:19,078 INFO "GET /static/js/src_js_pages_profile_index_tsx.8154b3a797af1b7d0d1f.bundle.js HTTP/1.1" 200 8391
+2022-04-15 14:23:19,089 INFO "GET /static/js/src_js_pages_profile_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 4771
+2022-04-15 14:23:19,089 INFO "GET /static/js/src_js_pages_profile_index_tsx.8154b3a797af1b7d0d1f.bundle.js.map HTTP/1.1" 200 4771
+2022-04-15 14:23:19,092 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-04-15 14:23:19,092 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-04-15 14:23:21,406 WARNING {'total': 6, 'items': [OrderedDict([('id', 2), ('name', 'Authors')]), OrderedDict([('id', 3), ('name', 'Copyright Permissions')]), OrderedDict([('id', 4), ('name', 'Copyrights')]), OrderedDict([('id', 18), ('name', 'new')]), OrderedDict([('id', 19), ('name', 'newonw')]), OrderedDict([('id', 1), ('name', 'Resources')])]}
+2022-04-15 14:23:21,406 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:23:21,406 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:23:21,421 WARNING {'total': 6, 'items': [OrderedDict([('id', 2), ('name', 'Authors')]), OrderedDict([('id', 3), ('name', 'Copyright Permissions')]), OrderedDict([('id', 4), ('name', 'Copyrights')]), OrderedDict([('id', 18), ('name', 'new')]), OrderedDict([('id', 19), ('name', 'newonw')]), OrderedDict([('id', 1), ('name', 'Resources')])]}
+2022-04-15 14:23:21,421 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:23:21,421 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:23:21,468 WARNING {'total': 1, 'items': [OrderedDict([('id', 37), ('name', 'cxc'), ('type', 4), ('metadataType', {'id': 4, 'name': 'Copyrights'})])]}
+2022-04-15 14:23:21,469 WARNING {'total': 0, 'items': []}
+2022-04-15 14:23:21,470 WARNING {'total': 2, 'items': [OrderedDict([('id', 38), ('name', '123'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})]), OrderedDict([('id', 39), ('name', '142'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})])]}
+2022-04-15 14:23:21,477 WARNING {'total': 21, 'items': [OrderedDict([('id', 24), ('name', 'A1'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 25), ('name', 'A2'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 26), ('name', 'A3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 27), ('name', 'A4'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 30), ('name', 'A6'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})])]}
+2022-04-15 14:23:21,478 WARNING {'total': 8, 'items': [OrderedDict([('id', 16), ('name', 'CP1'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 17), ('name', 'CP2'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 18), ('name', 'CP3'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 19), ('name', 'CP4'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 20), ('name', 'CP5'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})])]}
+2022-04-15 14:23:21,480 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 14:23:21,481 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 14:23:21,481 WARNING {'total': 5, 'items': [OrderedDict([('id', 34), ('name', 'Audio'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 35), ('name', 'Document'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 36), ('name', 'File'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 3), ('name', 'PDF'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 5), ('name', 'Video'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})])]}
+2022-04-15 14:23:21,481 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 14:23:21,480 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 14:23:21,482 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 14:23:21,482 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 14:23:21,481 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 14:23:21,481 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 14:23:21,483 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 14:23:21,482 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 14:23:21,482 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 14:23:21,483 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 14:23:21,511 WARNING {'total': 2, 'items': [OrderedDict([('id', 38), ('name', '123'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})]), OrderedDict([('id', 39), ('name', '142'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})])]}
+2022-04-15 14:23:21,515 WARNING {'total': 0, 'items': []}
+2022-04-15 14:23:21,517 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 14:23:21,516 WARNING {'total': 1, 'items': [OrderedDict([('id', 37), ('name', 'cxc'), ('type', 4), ('metadataType', {'id': 4, 'name': 'Copyrights'})])]}
+2022-04-15 14:23:21,517 WARNING {'total': 5, 'items': [OrderedDict([('id', 34), ('name', 'Audio'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 35), ('name', 'Document'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 36), ('name', 'File'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 3), ('name', 'PDF'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 5), ('name', 'Video'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})])]}
+2022-04-15 14:23:21,518 WARNING {'total': 8, 'items': [OrderedDict([('id', 16), ('name', 'CP1'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 17), ('name', 'CP2'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 18), ('name', 'CP3'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 19), ('name', 'CP4'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 20), ('name', 'CP5'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})])]}
+2022-04-15 14:23:21,518 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 14:23:21,517 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 14:23:21,519 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 14:23:21,518 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 14:23:21,519 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 14:23:21,519 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 14:23:21,519 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 14:23:21,519 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 14:23:21,519 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 14:23:21,545 WARNING {'total': 21, 'items': [OrderedDict([('id', 24), ('name', 'A1'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 25), ('name', 'A2'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 26), ('name', 'A3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 27), ('name', 'A4'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 30), ('name', 'A6'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})])]}
+2022-04-15 14:23:21,546 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 14:23:21,546 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 14:34:17,246 WARNING {'total': 6, 'items': [OrderedDict([('id', 2), ('name', 'Authors')]), OrderedDict([('id', 3), ('name', 'Copyright Permissions')]), OrderedDict([('id', 4), ('name', 'Copyrights')]), OrderedDict([('id', 18), ('name', 'new')]), OrderedDict([('id', 19), ('name', 'newonw')]), OrderedDict([('id', 1), ('name', 'Resources')])]}
+2022-04-15 14:34:17,246 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:34:17,246 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 230
+2022-04-15 14:34:17,252 WARNING {'total': 4, 'items': [OrderedDict([('name', 'canopée'), ('email', 'canopée@blah.com'), ('website', 'canopee.com'), ('id', 2)]), OrderedDict([('name', 'yahoo'), ('email', 'yahoo.com'), ('website', 'yahoo.com'), ('id', 4)]), OrderedDict([('name', 'Google_upda'), ('email', 'google@google.com'), ('website', 'google.com'), ('id', 3)]), OrderedDict([('name', 'Kids Book'), ('email', 'freekidsbook@org.com'), ('website', 'https://freekidsbooks.org/'), ('id', 1)])]}
+2022-04-15 14:34:17,254 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 14:34:17,254 INFO "GET /api/organization/ HTTP/1.1" 200 382
+2022-04-15 14:34:17,259 WARNING {'total': 9, 'items': [OrderedDict([('organization', 2), ('description', 'Crepe'), ('date_contacted', '2022-02-05'), ('granted', False), ('date_of_response', '2022-02-19'), ('user', 2), ('id', 35), ('organization_info', {'name': 'canopée', 'email': 'canopée@blah.com', 'website': 'canopee.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Some'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-08'), ('user', 2), ('id', 44), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'goo'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 45), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Google'), ('date_contacted', '2022-03-05'), ('granted', True), ('date_of_response', '2022-03-06'), ('user', 2), ('id', 46), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'Add'), ('date_contacted', '2022-03-01'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 47), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 3), ('description', 'add3'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-05'), ('user', 2), ('id', 49), ('organization_info', {'name': 'Google_upda', 'email': 'google@google.com', 'website': 'google.com'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'KidsBook'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 50), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 1), ('description', 'SomeMoreKids'), ('date_contacted', '2022-03-06'), ('granted', True), ('date_of_response', '2022-03-09'), ('user', 2), ('id', 51), ('organization_info', {'name': 'Kids Book', 'email': 'freekidsbook@org.com', 'website': 'https://freekidsbooks.org/'}), ('user_name', 'pavithra_devi')]), OrderedDict([('organization', 4), ('description', 'add2_yahoo'), ('date_contacted', '2022-03-02'), ('granted', True), ('date_of_response', '2022-03-16'), ('user', 2), ('id', 48), ('organization_info', {'name': 'yahoo', 'email': 'yahoo.com', 'website': 'yahoo.com'}), ('user_name', 'pavithra_devi')])]}
+2022-04-15 14:34:17,260 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 14:34:17,260 INFO "GET /api/copyright/ HTTP/1.1" 200 2399
+2022-04-15 14:34:17,337 WARNING {'total': 21, 'items': [OrderedDict([('id', 24), ('name', 'A1'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 25), ('name', 'A2'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 26), ('name', 'A3'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 27), ('name', 'A4'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})]), OrderedDict([('id', 30), ('name', 'A6'), ('type', 2), ('metadataType', {'id': 2, 'name': 'Authors'})])]}
+2022-04-15 14:34:17,340 WARNING {'total': 1, 'items': [OrderedDict([('id', 37), ('name', 'cxc'), ('type', 4), ('metadataType', {'id': 4, 'name': 'Copyrights'})])]}
+2022-04-15 14:34:17,341 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 14:34:17,341 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 419
+2022-04-15 14:34:17,343 WARNING {'total': 8, 'items': [OrderedDict([('id', 16), ('name', 'CP1'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 17), ('name', 'CP2'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 18), ('name', 'CP3'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 19), ('name', 'CP4'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})]), OrderedDict([('id', 20), ('name', 'CP5'), ('type', 3), ('metadataType', {'id': 3, 'name': 'Copyright Permissions'})])]}
+2022-04-15 14:34:17,346 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 14:34:17,346 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 134
+2022-04-15 14:34:17,347 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 14:34:17,347 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 493
+2022-04-15 14:34:17,354 WARNING {'total': 2, 'items': [OrderedDict([('id', 38), ('name', '123'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})]), OrderedDict([('id', 39), ('name', '142'), ('type', 18), ('metadataType', {'id': 18, 'name': 'new'})])]}
+2022-04-15 14:34:17,355 WARNING {'total': 0, 'items': []}
+2022-04-15 14:34:17,356 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 14:34:17,357 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 14:34:17,356 INFO "GET /api/metadata_types/18/metadata/?page_size=5&page=1 HTTP/1.1" 200 200
+2022-04-15 14:34:17,357 INFO "GET /api/metadata_types/19/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-04-15 14:34:17,362 WARNING {'total': 5, 'items': [OrderedDict([('id', 34), ('name', 'Audio'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 35), ('name', 'Document'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 36), ('name', 'File'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 3), ('name', 'PDF'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})]), OrderedDict([('id', 5), ('name', 'Video'), ('type', 1), ('metadataType', {'id': 1, 'name': 'Resources'})])]}
+2022-04-15 14:34:17,362 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 14:34:17,362 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 441
+2022-04-15 14:34:17,386 ERROR {'copyright': [ErrorDetail(string='Select a valid choice. That choice is not one of the available choices.', code='invalid_choice')]}
+2022-04-15 14:34:17,387 WARNING Bad Request: /api/content/
+2022-04-15 14:34:17,387 WARNING Bad Request: /api/content/
+2022-04-15 14:34:17,387 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 14:34:17,387 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 14:34:37,905 INFO "GET /api/check_duplicate?hash=863e4f2b66ed2e51fcc2307c3907d613f0177e0ab693d3e20a83fe7179af618b HTTP/1.1" 301 0
+2022-04-15 14:34:37,905 INFO "GET /api/check_duplicate?hash=863e4f2b66ed2e51fcc2307c3907d613f0177e0ab693d3e20a83fe7179af618b HTTP/1.1" 301 0
+2022-04-15 14:34:37,915 WARNING True
+2022-04-15 14:34:37,916 INFO "GET /api/check_duplicate/?hash=863e4f2b66ed2e51fcc2307c3907d613f0177e0ab693d3e20a83fe7179af618b HTTP/1.1" 200 41
+2022-04-15 14:34:37,916 INFO "GET /api/check_duplicate/?hash=863e4f2b66ed2e51fcc2307c3907d613f0177e0ab693d3e20a83fe7179af618b HTTP/1.1" 200 41
+2022-04-15 14:34:42,698 INFO "GET /api/check_duplicate?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 301 0
+2022-04-15 14:34:42,698 INFO "GET /api/check_duplicate?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 301 0
+2022-04-15 14:34:42,710 WARNING True
+2022-04-15 14:34:42,711 INFO "GET /api/check_duplicate/?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 200 41
+2022-04-15 14:34:42,711 INFO "GET /api/check_duplicate/?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 200 41
+2022-04-15 14:34:44,432 INFO "GET /api/check_duplicate?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 301 0
+2022-04-15 14:34:44,432 INFO "GET /api/check_duplicate?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 301 0
+2022-04-15 14:34:44,445 WARNING True
+2022-04-15 14:34:44,446 INFO "GET /api/check_duplicate/?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 200 41
+2022-04-15 14:34:44,446 INFO "GET /api/check_duplicate/?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 200 41
+2022-04-15 14:34:54,604 INFO "GET /api/check_duplicate?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 301 0
+2022-04-15 14:34:54,604 INFO "GET /api/check_duplicate?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 301 0
+2022-04-15 14:34:54,618 WARNING True
+2022-04-15 14:34:54,619 INFO "GET /api/check_duplicate/?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 200 41
+2022-04-15 14:34:54,619 INFO "GET /api/check_duplicate/?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 200 41
+2022-04-15 14:35:42,238 INFO "GET /api/check_duplicate?hash=739556cf70524699fc22c701cc779c3c24bab4d6cc2b3fe37836cf8a06c36fe6 HTTP/1.1" 301 0
+2022-04-15 14:35:42,238 INFO "GET /api/check_duplicate?hash=739556cf70524699fc22c701cc779c3c24bab4d6cc2b3fe37836cf8a06c36fe6 HTTP/1.1" 301 0
+2022-04-15 14:35:42,249 WARNING False
+2022-04-15 14:35:42,250 INFO "GET /api/check_duplicate/?hash=739556cf70524699fc22c701cc779c3c24bab4d6cc2b3fe37836cf8a06c36fe6 HTTP/1.1" 200 42
+2022-04-15 14:35:42,250 INFO "GET /api/check_duplicate/?hash=739556cf70524699fc22c701cc779c3c24bab4d6cc2b3fe37836cf8a06c36fe6 HTTP/1.1" 200 42
+2022-04-15 14:35:43,960 INFO "GET /api/check_duplicate?hash=739556cf70524699fc22c701cc779c3c24bab4d6cc2b3fe37836cf8a06c36fe6 HTTP/1.1" 301 0
+2022-04-15 14:35:43,960 INFO "GET /api/check_duplicate?hash=739556cf70524699fc22c701cc779c3c24bab4d6cc2b3fe37836cf8a06c36fe6 HTTP/1.1" 301 0
+2022-04-15 14:35:43,971 WARNING False
+2022-04-15 14:35:43,971 INFO "GET /api/check_duplicate/?hash=739556cf70524699fc22c701cc779c3c24bab4d6cc2b3fe37836cf8a06c36fe6 HTTP/1.1" 200 42
+2022-04-15 14:35:43,971 INFO "GET /api/check_duplicate/?hash=739556cf70524699fc22c701cc779c3c24bab4d6cc2b3fe37836cf8a06c36fe6 HTTP/1.1" 200 42
+2022-04-15 14:35:44,760 INFO "POST /api/content/ HTTP/1.1" 201 686
+2022-04-15 14:35:44,760 INFO "POST /api/content/ HTTP/1.1" 201 686
+2022-04-15 14:35:44,887 ERROR {'copyright': [ErrorDetail(string='Select a valid choice. That choice is not one of the available choices.', code='invalid_choice')]}
+2022-04-15 14:35:44,887 WARNING Bad Request: /api/content/
+2022-04-15 14:35:44,887 WARNING Bad Request: /api/content/
+2022-04-15 14:35:44,888 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127
+2022-04-15 14:35:44,888 WARNING "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 400 127

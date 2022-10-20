@@ -1,0 +1,280 @@
+2022-02-21 11:41:47,225 INFO Watching for file changes with StatReloader
+2022-02-21 11:41:51,162 INFO "GET / HTTP/1.1" 200 80
+2022-02-21 11:41:51,230 WARNING Not Found: /favicon.ico
+2022-02-21 11:41:51,230 WARNING "GET /favicon.ico HTTP/1.1" 404 2437
+2022-02-21 11:41:55,446 INFO code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93êê\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-21 11:41:55,446 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 11:41:55,446 INFO code 400, message Bad request version ('éXú\x19È')
+2022-02-21 11:41:55,446 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 11:41:55,657 INFO code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03)|7G')
+2022-02-21 11:41:55,658 INFO code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-21 11:41:55,658 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 11:41:55,658 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 11:41:55,658 INFO code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93zz\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-21 11:41:55,658 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 11:41:55,658 INFO code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x9a\x9a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-21 11:41:55,659 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 11:45:18,933 INFO code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93zz\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-21 11:45:18,933 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 11:45:18,933 INFO code 400, message Bad request version ('JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93**\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-21 11:45:18,933 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 11:45:18,935 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-21 11:45:18,960 INFO "GET /static/js/main.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 3212143
+2022-02-21 11:45:19,087 INFO "GET /static/js/src_js_pages_home_index_tsx.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 4855
+2022-02-21 11:45:19,087 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 16641
+2022-02-21 11:45:19,102 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-02-21 11:45:19,137 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-21 11:45:19,147 INFO "GET /static/c27a388023a41d4d334001825f43d507.png HTTP/1.1" 200 8321
+2022-02-21 11:45:19,148 INFO "GET /static/2212291feacabc6ddf6ab4479028b0ff.png HTTP/1.1" 200 18149
+2022-02-21 11:45:19,148 INFO "GET /static/29fc02d65f2e0f17338b1ee254f01e5d.png HTTP/1.1" 200 26391
+2022-02-21 11:45:19,148 INFO "GET /static/dbbbfa6028ef921712550680585aadb8.png HTTP/1.1" 200 12788
+2022-02-21 11:45:22,524 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 42253
+2022-02-21 11:45:22,525 INFO "GET /static/js/src_js_pages_metadata_index_tsx.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 23482
+2022-02-21 11:45:22,529 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 1430163
+2022-02-21 11:45:22,604 WARNING Forbidden: /api/metadata_types/
+2022-02-21 11:45:22,604 WARNING "GET /api/metadata_types/?sort_by=name HTTP/1.1" 403 58
+2022-02-21 11:45:22,655 INFO "GET /accounts/google/login/ HTTP/1.1" 302 0
+2022-02-21 11:45:28,582 INFO "GET /accounts/google/login/callback/?state=6UQpnCxtS7pv&code=4/0AX4XfWguKrAKiwY_OJLrSJqbc7kw5AAjzOGjPIaPhdFIYw73a3Ot3BenlYkfY2NgwgMQwA&scope=email%20profile%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email%20openid&authuser=0&hd=asu.edu&prompt=consent HTTP/1.1" 302 0
+2022-02-21 11:45:28,784 INFO "GET /static/js/src_js_pages_profile_index_tsx.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 8391
+2022-02-21 11:45:28,844 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-02-21 11:45:28,848 INFO "GET /api/get_user/ HTTP/1.1" 200 331
+2022-02-21 11:45:28,855 INFO "GET /static/51a420f3640009330671d8b229bf5323.otf HTTP/1.1" 200 45760
+2022-02-21 11:45:46,209 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 112
+2022-02-21 11:45:46,256 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 208
+2022-02-21 11:45:46,257 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 302
+2022-02-21 14:22:49,904 INFO "POST /api/metadata_types/?sort_by=name HTTP/1.1" 201 39
+2022-02-21 14:22:49,954 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 152
+2022-02-21 14:22:55,456 INFO "GET /static/index.html HTTP/1.1" 304 0
+2022-02-21 14:22:55,548 INFO "GET /api/get_user/ HTTP/1.1" 200 331
+2022-02-21 14:22:55,646 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-02-21 14:22:56,637 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 152
+2022-02-21 14:22:56,683 INFO "GET /api/metadata_types/3/metadata/ HTTP/1.1" 200 59
+2022-02-21 14:22:56,684 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 302
+2022-02-21 14:22:56,687 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 208
+2022-02-21 14:23:01,984 INFO "POST /api/metadata_types/?sort_by=name HTTP/1.1" 201 28
+2022-02-21 14:23:02,032 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 181
+2022-02-21 14:23:07,524 INFO "GET /static/js/src_js_pages_home_index_tsx.add7838df68ddbe6b258.bundle.js.map HTTP/1.1" 200 2367
+2022-02-21 14:23:07,525 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.add7838df68ddbe6b258.bundle.js.map HTTP/1.1" 200 16646
+2022-02-21 14:23:07,525 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.add7838df68ddbe6b258.bundle.js.map HTTP/1.1" 200 40025
+2022-02-21 14:23:07,526 INFO "GET /static/js/src_js_pages_metadata_index_tsx.add7838df68ddbe6b258.bundle.js.map HTTP/1.1" 200 13398
+2022-02-21 14:23:07,533 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.add7838df68ddbe6b258.bundle.js.map HTTP/1.1" 200 1303657
+2022-02-21 14:23:07,537 INFO "GET /static/js/main.add7838df68ddbe6b258.bundle.js.map HTTP/1.1" 200 3316418
+2022-02-21 14:43:34,889 INFO "GET /static/index.html HTTP/1.1" 304 0
+2022-02-21 14:43:34,977 INFO "GET /static/js/main.add7838df68ddbe6b258.bundle.js.map HTTP/1.1" 200 3316418
+2022-02-21 14:43:35,092 INFO "GET /api/get_user/ HTTP/1.1" 200 331
+2022-02-21 14:43:35,140 INFO "GET /static/js/src_js_pages_home_index_tsx.add7838df68ddbe6b258.bundle.js.map HTTP/1.1" 200 2367
+2022-02-21 14:43:35,140 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.add7838df68ddbe6b258.bundle.js.map HTTP/1.1" 200 16646
+2022-02-21 14:43:36,132 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.add7838df68ddbe6b258.bundle.js.map HTTP/1.1" 200 40025
+2022-02-21 14:43:36,132 INFO "GET /static/js/src_js_pages_metadata_index_tsx.add7838df68ddbe6b258.bundle.js.map HTTP/1.1" 200 13398
+2022-02-21 14:43:36,164 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.add7838df68ddbe6b258.bundle.js.map HTTP/1.1" 200 1303657
+2022-02-21 14:43:36,196 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 181
+2022-02-21 14:43:36,289 INFO "GET /api/metadata_types/3/metadata/ HTTP/1.1" 200 59
+2022-02-21 14:43:36,290 INFO "GET /api/metadata_types/4/metadata/ HTTP/1.1" 200 59
+2022-02-21 14:43:36,290 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 302
+2022-02-21 14:43:36,294 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 208
+2022-02-21 16:19:04,890 INFO Watching for file changes with StatReloader
+2022-02-21 16:19:41,631 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 181
+2022-02-21 16:19:41,687 INFO "GET /api/metadata_types/3/metadata/ HTTP/1.1" 200 59
+2022-02-21 16:19:41,688 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 302
+2022-02-21 16:19:41,689 INFO "GET /api/metadata_types/4/metadata/ HTTP/1.1" 200 59
+2022-02-21 16:19:41,693 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 208
+2022-02-21 16:19:44,011 INFO "GET /accounts/google/login/ HTTP/1.1" 302 0
+2022-02-21 16:19:45,775 INFO "GET /accounts/google/login/callback/?state=TTJkf7AWQLMi&code=4%2F0AX4XfWi93jZ9nchxO_Am2HsKNInZRiPVBkVYW7fIA9FDmVBT5szZb_558IGHEqdgXCTMVQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&hd=asu.edu&prompt=none HTTP/1.1" 302 0
+2022-02-21 16:19:45,947 INFO "GET /api/get_user/ HTTP/1.1" 200 333
+2022-02-21 16:19:49,833 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 181
+2022-02-21 16:19:49,887 INFO "GET /api/metadata_types/3/metadata/ HTTP/1.1" 200 59
+2022-02-21 16:19:49,887 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 302
+2022-02-21 16:19:49,888 INFO "GET /api/metadata_types/4/metadata/ HTTP/1.1" 200 59
+2022-02-21 16:19:49,889 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 208
+2022-02-21 16:21:25,004 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 181
+2022-02-21 16:21:25,037 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:21:25,038 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:21:25,053 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 302
+2022-02-21 16:21:25,070 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 208
+2022-02-21 16:22:11,797 INFO code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\\\x06QV\x18q\x99')
+2022-02-21 16:22:11,797 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 16:22:11,798 INFO code 400, message Bad request version ('8ä\x00')
+2022-02-21 16:22:11,798 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 16:22:11,798 INFO code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93zz\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-21 16:22:11,798 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 16:22:11,798 INFO code 400, message Bad request version ('ð\x86c\x80^ËMºw!µ=süôA%\x00')
+2022-02-21 16:22:11,799 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 16:22:17,279 INFO code 400, message Bad request version ('íð>SºÏ,µSùÍLû')
+2022-02-21 16:22:17,279 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 16:22:17,279 INFO code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-21 16:22:17,279 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 16:22:17,279 INFO code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93úú\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-21 16:22:17,279 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 16:22:17,280 INFO code 400, message Bad request version ('êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93jj\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-21 16:22:17,280 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-21 16:22:21,474 INFO "GET /api/get_user/ HTTP/1.1" 200 333
+2022-02-21 16:22:32,044 INFO Watching for file changes with StatReloader
+2022-02-21 16:22:43,509 INFO Watching for file changes with StatReloader
+2022-02-21 16:22:58,097 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-21 16:22:58,116 INFO "GET /static/js/main.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 3212143
+2022-02-21 16:22:58,273 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 16641
+2022-02-21 16:22:58,275 INFO "GET /static/js/src_js_pages_home_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 4855
+2022-02-21 16:22:58,285 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-02-21 16:22:58,321 INFO "GET /static/2212291feacabc6ddf6ab4479028b0ff.png HTTP/1.1" 200 18149
+2022-02-21 16:22:58,323 INFO "GET /static/29fc02d65f2e0f17338b1ee254f01e5d.png HTTP/1.1" 200 26391
+2022-02-21 16:22:58,327 INFO "GET /api/get_user/ HTTP/1.1" 200 333
+2022-02-21 16:22:58,329 INFO "GET /static/dbbbfa6028ef921712550680585aadb8.png HTTP/1.1" 200 12788
+2022-02-21 16:22:58,331 INFO "GET /static/c27a388023a41d4d334001825f43d507.png HTTP/1.1" 200 8321
+2022-02-21 16:22:58,390 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-02-21 16:22:59,342 INFO "GET /static/js/src_js_pages_copyright_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 27020
+2022-02-21 16:22:59,343 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 42253
+2022-02-21 16:22:59,345 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 1430163
+2022-02-21 16:22:59,564 INFO "GET /api/organization/ HTTP/1.1" 200 156
+2022-02-21 16:22:59,567 INFO "GET /api/copyright/ HTTP/1.1" 200 336
+2022-02-21 16:23:23,875 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 23482
+2022-02-21 16:23:23,905 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 181
+2022-02-21 16:23:23,956 INFO "GET /api/metadata_types/3/metadata/ HTTP/1.1" 200 59
+2022-02-21 16:23:23,958 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 302
+2022-02-21 16:23:23,960 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 208
+2022-02-21 16:23:23,960 INFO "GET /api/metadata_types/4/metadata/ HTTP/1.1" 200 59
+2022-02-21 16:23:25,629 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 18333
+2022-02-21 16:23:25,630 INFO "GET /static/js/src_js_pages_content_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 78791
+2022-02-21 16:23:25,738 INFO "GET /api/copyright/ HTTP/1.1" 200 336
+2022-02-21 16:23:25,738 INFO "GET /api/organization/ HTTP/1.1" 200 156
+2022-02-21 16:23:25,739 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 181
+2022-02-21 16:23:25,850 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:23:25,850 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:23:25,852 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 302
+2022-02-21 16:23:25,853 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 208
+2022-02-21 16:23:25,886 INFO "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 200 1628
+2022-02-21 16:25:41,873 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 181
+2022-02-21 16:25:41,903 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 302
+2022-02-21 16:25:41,918 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:25:41,919 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:25:41,927 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 208
+2022-02-21 16:25:46,370 INFO "GET /static/js/src_js_pages_home_index_tsx.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 2367
+2022-02-21 16:25:46,371 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 16646
+2022-02-21 16:25:46,372 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 40025
+2022-02-21 16:25:46,376 INFO "GET /static/js/src_js_pages_copyright_index_tsx.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 20882
+2022-02-21 16:25:46,376 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 13398
+2022-02-21 16:25:46,376 INFO "GET /static/js/src_js_pages_content_index_tsx.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 57814
+2022-02-21 16:25:46,379 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 16843
+2022-02-21 16:25:46,387 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 1303657
+2022-02-21 16:25:46,388 INFO "GET /static/js/main.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 3316418
+2022-02-21 16:25:57,676 INFO "GET /api/organization/ HTTP/1.1" 200 156
+2022-02-21 16:25:57,677 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 181
+2022-02-21 16:25:57,678 INFO "GET /api/copyright/ HTTP/1.1" 200 336
+2022-02-21 16:25:57,786 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:25:57,787 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:25:57,790 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 302
+2022-02-21 16:25:57,792 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 208
+2022-02-21 16:25:57,847 INFO "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 200 1628
+2022-02-21 16:25:59,788 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 181
+2022-02-21 16:25:59,828 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:25:59,833 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:25:59,834 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 302
+2022-02-21 16:25:59,834 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 208
+2022-02-21 16:27:35,145 INFO "POST /api/metadata/ HTTP/1.1" 201 76
+2022-02-21 16:27:35,286 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 379
+2022-02-21 16:27:40,196 INFO "POST /api/metadata/ HTTP/1.1" 201 76
+2022-02-21 16:27:40,333 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 456
+2022-02-21 16:27:44,110 INFO "POST /api/metadata/ HTTP/1.1" 201 77
+2022-02-21 16:27:44,278 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 451
+2022-02-21 16:27:48,180 INFO "POST /api/metadata/ HTTP/1.1" 201 77
+2022-02-21 16:27:48,331 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 448
+2022-02-21 16:27:53,714 INFO "POST /api/metadata/ HTTP/1.1" 201 77
+2022-02-21 16:27:53,848 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 446
+2022-02-21 16:27:59,613 WARNING Bad Request: /api/metadata/
+2022-02-21 16:27:59,613 WARNING "POST /api/metadata/ HTTP/1.1" 400 70
+2022-02-21 16:28:06,980 INFO "POST /api/metadata/ HTTP/1.1" 201 78
+2022-02-21 16:28:07,122 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 446
+2022-02-21 16:28:10,441 INFO "POST /api/metadata/ HTTP/1.1" 201 78
+2022-02-21 16:28:10,584 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 447
+2022-02-21 16:28:15,015 INFO "POST /api/metadata/ HTTP/1.1" 201 78
+2022-02-21 16:28:15,156 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 447
+2022-02-21 16:28:21,100 INFO "GET /api/organization/ HTTP/1.1" 200 156
+2022-02-21 16:28:21,100 INFO "GET /api/copyright/ HTTP/1.1" 200 336
+2022-02-21 16:28:21,101 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 181
+2022-02-21 16:28:21,196 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:28:21,200 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:28:21,201 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 208
+2022-02-21 16:28:21,203 INFO "GET /api/metadata_types/2/metadata/?page_size=25&page=1 HTTP/1.1" 200 928
+2022-02-21 16:28:21,274 INFO "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 200 1628
+2022-02-21 16:28:21,743 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 181
+2022-02-21 16:28:21,784 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:28:21,789 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 447
+2022-02-21 16:28:21,790 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 208
+2022-02-21 16:28:21,790 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:30:47,186 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-21 16:30:47,953 INFO "GET /static/js/main.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 3212143
+2022-02-21 16:30:48,041 INFO "GET /static/js/main.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 3316418
+2022-02-21 16:30:48,098 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 16641
+2022-02-21 16:30:48,100 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 23482
+2022-02-21 16:30:48,102 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 42253
+2022-02-21 16:30:48,106 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 1430163
+2022-02-21 16:30:48,112 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-02-21 16:30:48,140 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-21 16:30:48,234 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 16646
+2022-02-21 16:30:48,239 WARNING Forbidden: /api/metadata_types/
+2022-02-21 16:30:48,239 WARNING "GET /api/metadata_types/?sort_by=name HTTP/1.1" 403 58
+2022-02-21 16:30:48,248 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 13398
+2022-02-21 16:30:48,248 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 40025
+2022-02-21 16:30:48,252 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 1303657
+2022-02-21 16:30:48,264 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-02-21 16:30:48,315 INFO "GET /accounts/google/login/ HTTP/1.1" 302 0
+2022-02-21 16:30:49,207 INFO "GET /accounts/google/login/callback/?state=59G6NigwyPUs&code=4%2F0AX4XfWiE8lnlcfGccB3rn_owHJX8oDUMrJv8TeNZknQb96tWURHMhhAoSNJvjKZ7_iOfvQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&hd=asu.edu&prompt=none HTTP/1.1" 302 0
+2022-02-21 16:30:49,209 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-21 16:30:49,301 INFO "GET /static/js/main.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 3316418
+2022-02-21 16:30:49,359 INFO "GET /static/js/src_js_pages_profile_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 8391
+2022-02-21 16:30:49,407 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 16646
+2022-02-21 16:30:49,408 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 40025
+2022-02-21 16:30:49,441 INFO "GET /api/get_user/ HTTP/1.1" 200 333
+2022-02-21 16:30:49,468 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-02-21 16:30:49,488 INFO "GET /static/js/src_js_pages_profile_index_tsx.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 4771
+2022-02-21 16:30:49,515 INFO "GET /static/51a420f3640009330671d8b229bf5323.otf HTTP/1.1" 200 45760
+2022-02-21 16:30:51,923 INFO "GET /static/js/src_js_pages_copyright_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 27020
+2022-02-21 16:30:51,926 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 1430163
+2022-02-21 16:30:51,931 INFO "GET /static/js/src_js_pages_copyright_index_tsx.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 20882
+2022-02-21 16:30:52,031 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 1303657
+2022-02-21 16:30:52,223 INFO "GET /api/organization/ HTTP/1.1" 200 156
+2022-02-21 16:30:52,223 INFO "GET /api/copyright/ HTTP/1.1" 200 336
+2022-02-21 16:30:52,403 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 18333
+2022-02-21 16:30:52,403 INFO "GET /static/js/src_js_pages_content_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 78791
+2022-02-21 16:30:52,449 INFO "GET /static/js/src_js_pages_content_index_tsx.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 57814
+2022-02-21 16:30:52,454 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 16843
+2022-02-21 16:30:52,523 INFO "GET /api/organization/ HTTP/1.1" 200 156
+2022-02-21 16:30:52,525 INFO "GET /api/copyright/ HTTP/1.1" 200 336
+2022-02-21 16:30:52,525 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 181
+2022-02-21 16:30:52,699 INFO "GET /api/metadata_types/3/metadata/ HTTP/1.1" 200 59
+2022-02-21 16:30:52,702 INFO "GET /api/metadata_types/4/metadata/ HTTP/1.1" 200 59
+2022-02-21 16:30:52,704 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 208
+2022-02-21 16:30:52,706 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 928
+2022-02-21 16:30:52,752 INFO "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 200 1628
+2022-02-21 16:45:57,864 INFO "GET /api/copyright/ HTTP/1.1" 200 336
+2022-02-21 16:45:57,867 INFO "GET /api/organization/ HTTP/1.1" 200 156
+2022-02-21 16:45:58,359 INFO "GET /api/copyright/ HTTP/1.1" 200 336
+2022-02-21 16:45:58,361 INFO "GET /api/organization/ HTTP/1.1" 200 156
+2022-02-21 16:45:58,363 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 181
+2022-02-21 16:45:58,469 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:45:58,472 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:45:58,476 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 447
+2022-02-21 16:45:58,477 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 208
+2022-02-21 16:45:58,527 INFO "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 200 1628
+2022-02-21 16:46:00,403 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 23482
+2022-02-21 16:46:00,416 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8c9e24429be1ae09e384.bundle.js.map HTTP/1.1" 200 13398
+2022-02-21 16:46:00,446 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 181
+2022-02-21 16:46:00,491 INFO "GET /api/metadata_types/4/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:46:00,492 INFO "GET /api/metadata_types/3/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-21 16:46:00,494 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 208
+2022-02-21 16:46:00,494 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 447

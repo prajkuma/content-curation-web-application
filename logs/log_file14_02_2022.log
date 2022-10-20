@@ -1,0 +1,787 @@
+2022-02-14 12:20:49,518 INFO Watching for file changes with StatReloader
+2022-02-14 12:21:33,566 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 12:21:33,934 INFO "GET /static/js/main.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 3212143
+2022-02-14 12:21:34,089 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 16641
+2022-02-14 12:21:34,090 INFO "GET /static/js/src_js_pages_home_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 4855
+2022-02-14 12:21:34,100 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-02-14 12:21:34,126 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 12:21:34,142 INFO "GET /static/2212291feacabc6ddf6ab4479028b0ff.png HTTP/1.1" 200 18149
+2022-02-14 12:21:34,144 INFO "GET /static/dbbbfa6028ef921712550680585aadb8.png HTTP/1.1" 200 12788
+2022-02-14 12:21:34,145 INFO "GET /static/c27a388023a41d4d334001825f43d507.png HTTP/1.1" 200 8321
+2022-02-14 12:21:34,154 INFO "GET /static/29fc02d65f2e0f17338b1ee254f01e5d.png HTTP/1.1" 200 26391
+2022-02-14 12:21:34,466 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-02-14 12:21:35,307 INFO "GET /static/js/src_js_pages_profile_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 8391
+2022-02-14 12:21:35,307 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 42253
+2022-02-14 12:21:35,325 INFO "GET /static/51a420f3640009330671d8b229bf5323.otf HTTP/1.1" 200 45760
+2022-02-14 12:21:35,326 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-02-14 12:21:36,490 ERROR Internal Server Error: /accounts/google/login/
+Traceback (most recent call last):
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/allauth/socialaccount/providers/oauth2/views.py", line 77, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/allauth/socialaccount/providers/oauth2/views.py", line 105, in dispatch
+    app = provider.get_app(self.request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/allauth/socialaccount/providers/base.py", line 49, in get_app
+    return adapter.get_app(request, self.id)
+  File "/home/pavi/.local/lib/python3.8/site-packages/allauth/socialaccount/adapter.py", line 207, in get_app
+    app = SocialApp.objects.get_current(provider, request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/allauth/socialaccount/models.py", line 32, in get_current
+    app = self.get(sites__id=site.id, provider=provider)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/query.py", line 415, in get
+    raise self.model.DoesNotExist(
+allauth.socialaccount.models.SocialApp.DoesNotExist: SocialApp matching query does not exist.
+2022-02-14 12:21:36,491 ERROR "GET /accounts/google/login/ HTTP/1.1" 500 104304
+2022-02-14 12:21:36,540 WARNING Not Found: /favicon.ico
+2022-02-14 12:21:36,540 WARNING "GET /favicon.ico HTTP/1.1" 404 2438
+2022-02-14 12:21:48,031 INFO "GET /admin HTTP/1.1" 301 0
+2022-02-14 12:21:48,051 INFO "GET /admin/ HTTP/1.1" 302 0
+2022-02-14 12:21:48,069 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1918
+2022-02-14 12:21:48,084 INFO "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+2022-02-14 12:21:48,085 INFO "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+2022-02-14 12:21:48,085 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 200 18052
+2022-02-14 12:21:48,087 INFO "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+2022-02-14 12:21:48,103 INFO "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+2022-02-14 12:21:48,103 INFO "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+2022-02-14 12:21:52,699 INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2022-02-14 12:21:52,719 INFO "GET /admin/ HTTP/1.1" 200 8721
+2022-02-14 12:21:52,773 INFO "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+2022-02-14 12:21:52,776 INFO "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+2022-02-14 12:21:52,777 INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+2022-02-14 12:21:52,804 INFO "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+2022-02-14 12:21:56,690 INFO "GET /admin/socialaccount/socialapp/ HTTP/1.1" 200 3270
+2022-02-14 12:21:56,702 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 200 6190
+2022-02-14 12:21:56,703 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+2022-02-14 12:21:56,704 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 280364
+2022-02-14 12:21:56,705 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 200 8941
+2022-02-14 12:21:56,706 INFO "GET /static/admin/js/actions.js HTTP/1.1" 200 6766
+2022-02-14 12:21:56,707 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+2022-02-14 12:21:56,708 INFO "GET /static/admin/js/core.js HTTP/1.1" 200 5723
+2022-02-14 12:21:56,712 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2022-02-14 12:21:56,714 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+2022-02-14 12:21:56,715 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+2022-02-14 12:21:56,763 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+2022-02-14 12:21:59,801 INFO "GET /admin/socialaccount/ HTTP/1.1" 200 3535
+2022-02-14 12:22:01,641 INFO "GET /admin/socialaccount/socialaccount/ HTTP/1.1" 200 3876
+2022-02-14 12:22:01,649 INFO "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+2022-02-14 12:22:01,652 INFO "GET /static/admin/js/core.js HTTP/1.1" 200 5723
+2022-02-14 12:22:01,652 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+2022-02-14 12:22:01,652 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 200 6190
+2022-02-14 12:22:01,653 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 280364
+2022-02-14 12:22:01,657 INFO "GET /static/admin/js/actions.js HTTP/1.1" 200 6766
+2022-02-14 12:22:01,657 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+2022-02-14 12:22:01,657 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+2022-02-14 12:22:01,659 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 200 8941
+2022-02-14 12:22:01,660 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2022-02-14 12:22:01,660 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+2022-02-14 12:22:01,694 INFO "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+2022-02-14 12:22:01,707 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+2022-02-14 12:22:03,960 INFO "GET /admin/socialaccount/socialaccount/add/ HTTP/1.1" 200 5788
+2022-02-14 12:22:03,970 INFO "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+2022-02-14 12:22:03,970 INFO "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+2022-02-14 12:22:03,971 INFO "GET /static/admin/css/forms.css HTTP/1.1" 200 8518
+2022-02-14 12:22:03,974 INFO "GET /static/admin/css/widgets.css HTTP/1.1" 200 10322
+2022-02-14 12:22:03,977 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2022-02-14 12:22:52,430 INFO "GET /admin/socialaccount/ HTTP/1.1" 200 3535
+2022-02-14 12:22:52,440 INFO "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+2022-02-14 12:22:52,440 INFO "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+2022-02-14 12:22:52,444 INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+2022-02-14 12:22:52,444 INFO "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+2022-02-14 12:22:54,214 INFO "GET /admin/socialaccount/socialapp/ HTTP/1.1" 200 3270
+2022-02-14 12:22:54,223 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 200 6190
+2022-02-14 12:22:54,231 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2022-02-14 12:22:54,241 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+2022-02-14 12:22:55,945 INFO "GET /admin/socialaccount/socialapp/add/ HTTP/1.1" 200 7448
+2022-02-14 12:22:55,957 INFO "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 5753
+2022-02-14 12:22:55,957 INFO "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 12318
+2022-02-14 12:22:55,957 INFO "GET /static/admin/css/forms.css HTTP/1.1" 200 8518
+2022-02-14 12:22:55,964 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2022-02-14 12:22:55,986 INFO "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+2022-02-14 12:22:55,987 INFO "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+2022-02-14 12:22:55,987 INFO "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+2022-02-14 12:24:04,393 INFO "POST /admin/socialaccount/socialapp/add/ HTTP/1.1" 302 0
+2022-02-14 12:24:04,417 INFO "GET /admin/socialaccount/socialapp/ HTTP/1.1" 200 4881
+2022-02-14 12:24:04,426 INFO "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+2022-02-14 12:24:04,429 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+2022-02-14 12:24:04,429 INFO "GET /static/admin/js/core.js HTTP/1.1" 304 0
+2022-02-14 12:24:04,429 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+2022-02-14 12:24:04,429 INFO "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+2022-02-14 12:24:04,429 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+2022-02-14 12:24:04,433 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+2022-02-14 12:24:04,433 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+2022-02-14 12:24:04,433 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+2022-02-14 12:24:04,433 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+2022-02-14 12:24:04,433 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 200 6190
+2022-02-14 12:24:04,442 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2022-02-14 12:24:04,470 INFO "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+2022-02-14 12:24:04,523 INFO "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+2022-02-14 12:24:04,523 INFO "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+2022-02-14 12:24:04,524 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+2022-02-14 12:24:04,524 INFO "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+2022-02-14 12:24:04,524 INFO "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+2022-02-14 12:24:10,437 INFO "GET /admin/logout/ HTTP/1.1" 200 1212
+2022-02-14 12:24:13,485 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 12:24:13,502 INFO "GET /static/js/main.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 3212143
+2022-02-14 12:24:13,657 INFO "GET /static/js/src_js_pages_profile_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 8391
+2022-02-14 12:24:13,658 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 16641
+2022-02-14 12:24:13,658 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 42253
+2022-02-14 12:24:13,668 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-02-14 12:24:13,687 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 12:24:13,700 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-02-14 12:24:13,704 INFO "GET /static/51a420f3640009330671d8b229bf5323.otf HTTP/1.1" 200 45760
+2022-02-14 12:24:14,877 INFO "GET /accounts/google/login/ HTTP/1.1" 302 0
+2022-02-14 12:24:51,957 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 12:24:51,986 INFO "GET /static/js/main.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 3212143
+2022-02-14 12:24:52,119 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 16641
+2022-02-14 12:24:52,121 INFO "GET /static/js/src_js_pages_home_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 4855
+2022-02-14 12:24:52,131 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-02-14 12:24:52,166 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 12:24:52,169 INFO "GET /static/2212291feacabc6ddf6ab4479028b0ff.png HTTP/1.1" 200 18149
+2022-02-14 12:24:52,171 INFO "GET /static/dbbbfa6028ef921712550680585aadb8.png HTTP/1.1" 200 12788
+2022-02-14 12:24:52,172 INFO "GET /static/c27a388023a41d4d334001825f43d507.png HTTP/1.1" 200 8321
+2022-02-14 12:24:52,174 INFO "GET /static/29fc02d65f2e0f17338b1ee254f01e5d.png HTTP/1.1" 200 26391
+2022-02-14 12:24:53,749 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 42253
+2022-02-14 12:24:53,750 INFO "GET /static/js/src_js_pages_profile_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 8391
+2022-02-14 12:24:53,808 INFO "GET /static/51a420f3640009330671d8b229bf5323.otf HTTP/1.1" 200 45760
+2022-02-14 12:24:53,810 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-02-14 12:24:57,386 INFO "GET /accounts/google/login/callback/?state=lodnBlJH1X5p&code=4/0AX4XfWg10cqYBMJ0EzY8JlIUG59lNN7sEITkK5_uwmmgeRvwemZU7sVdr0iq3nCgxJ1_Wg&scope=email%20profile%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email%20openid&authuser=0&hd=asu.edu&prompt=consent HTTP/1.1" 302 0
+2022-02-14 12:24:57,387 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 12:24:57,455 INFO "GET /static/js/main.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 3212143
+2022-02-14 12:24:57,586 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 16641
+2022-02-14 12:24:57,586 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 42253
+2022-02-14 12:24:57,588 INFO "GET /static/js/src_js_pages_profile_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 8391
+2022-02-14 12:24:57,597 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-02-14 12:24:57,644 INFO "GET /api/get_user/ HTTP/1.1" 200 322
+2022-02-14 12:24:57,645 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-02-14 12:24:57,669 INFO "GET /static/51a420f3640009330671d8b229bf5323.otf HTTP/1.1" 200 45760
+2022-02-14 12:24:58,955 INFO "POST /accounts/logout/ HTTP/1.1" 302 0
+2022-02-14 12:24:58,957 INFO "GET / HTTP/1.1" 200 80
+2022-02-14 12:24:58,970 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 12:25:05,114 INFO "GET /admin HTTP/1.1" 301 0
+2022-02-14 12:25:05,116 INFO "GET /admin/ HTTP/1.1" 302 0
+2022-02-14 12:25:05,131 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2115
+2022-02-14 12:25:05,141 INFO "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+2022-02-14 12:25:05,142 INFO "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+2022-02-14 12:25:05,143 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 200 18052
+2022-02-14 12:25:05,186 INFO "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+2022-02-14 12:25:05,189 INFO "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+2022-02-14 12:25:05,201 INFO "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+2022-02-14 12:25:05,202 INFO "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+2022-02-14 12:25:09,889 INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2022-02-14 12:25:09,908 INFO "GET /admin/ HTTP/1.1" 200 9066
+2022-02-14 12:25:09,961 INFO "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+2022-02-14 12:25:09,964 INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+2022-02-14 12:25:09,964 INFO "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+2022-02-14 12:25:09,997 INFO "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+2022-02-14 12:25:12,055 INFO "GET /admin/auth/user/ HTTP/1.1" 200 7474
+2022-02-14 12:25:12,067 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 200 6190
+2022-02-14 12:25:12,068 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 280364
+2022-02-14 12:25:12,070 INFO "GET /static/admin/js/actions.js HTTP/1.1" 200 6766
+2022-02-14 12:25:12,070 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+2022-02-14 12:25:12,073 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+2022-02-14 12:25:12,073 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 200 8941
+2022-02-14 12:25:12,075 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+2022-02-14 12:25:12,075 INFO "GET /static/admin/js/core.js HTTP/1.1" 200 5723
+2022-02-14 12:25:12,077 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2022-02-14 12:25:12,078 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+2022-02-14 12:25:12,086 INFO "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+2022-02-14 12:25:12,118 INFO "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+2022-02-14 12:25:12,125 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+2022-02-14 12:25:12,129 INFO "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+2022-02-14 12:25:13,582 INFO "GET /admin/auth/user/2/change/ HTTP/1.1" 200 17971
+2022-02-14 12:25:13,594 INFO "GET /static/admin/js/calendar.js HTTP/1.1" 200 7777
+2022-02-14 12:25:13,594 INFO "GET /static/admin/css/forms.css HTTP/1.1" 200 8518
+2022-02-14 12:25:13,594 INFO "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+2022-02-14 12:25:13,597 INFO "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 5753
+2022-02-14 12:25:13,597 INFO "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 12318
+2022-02-14 12:25:13,597 INFO "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 20232
+2022-02-14 12:25:13,600 INFO "GET /static/admin/css/widgets.css HTTP/1.1" 200 10322
+2022-02-14 12:25:13,602 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2022-02-14 12:25:13,642 INFO "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+2022-02-14 12:25:13,646 INFO "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+2022-02-14 12:25:13,696 INFO "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+2022-02-14 12:25:13,697 INFO "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+2022-02-14 12:25:13,697 INFO "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+2022-02-14 12:25:13,698 INFO "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+2022-02-14 12:25:13,699 INFO "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+2022-02-14 12:25:20,712 INFO "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+2022-02-14 12:25:20,754 INFO "GET /admin/auth/user/ HTTP/1.1" 200 7661
+2022-02-14 12:25:20,805 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 200 6190
+2022-02-14 12:25:20,806 INFO "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+2022-02-14 12:25:20,808 INFO "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+2022-02-14 12:25:20,810 INFO "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+2022-02-14 12:25:20,813 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2022-02-14 12:25:20,846 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+2022-02-14 12:25:20,847 INFO "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+2022-02-14 12:25:23,640 INFO "GET /accounts/google/login/ HTTP/1.1" 302 0
+2022-02-14 12:25:24,470 INFO "GET /accounts/google/login/callback/?state=odr5zIFi0AMg&code=4%2F0AX4XfWjQsNE9bYdLa_9kW4TjLy_x1LrOvscdPMIAQ3T6-lSf-xVaizCFrlFsGJyCC60jUg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&hd=asu.edu&prompt=none HTTP/1.1" 302 0
+2022-02-14 12:25:24,472 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 12:25:24,509 INFO "GET /static/js/src_js_pages_profile_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 8391
+2022-02-14 12:25:24,509 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 16641
+2022-02-14 12:25:24,509 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 42253
+2022-02-14 12:25:24,538 INFO "GET /api/get_user/ HTTP/1.1" 200 331
+2022-02-14 12:25:28,734 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 18333
+2022-02-14 12:25:28,734 INFO "GET /static/js/src_js_pages_content_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 78791
+2022-02-14 12:25:28,737 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 1430163
+2022-02-14 12:25:28,910 INFO "GET /api/copyright/ HTTP/1.1" 200 59
+2022-02-14 12:25:28,911 INFO "GET /api/organization/ HTTP/1.1" 200 59
+2022-02-14 12:25:28,911 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 59
+2022-02-14 12:25:29,079 INFO "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 200 59
+2022-02-14 14:30:26,887 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 23482
+2022-02-14 14:30:26,962 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 59
+2022-02-14 14:30:32,737 INFO "POST /api/metadata_types/?sort_by=name HTTP/1.1" 201 27
+2022-02-14 14:30:32,776 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 86
+2022-02-14 14:30:32,850 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 59
+2022-02-14 14:30:38,420 INFO "POST /api/metadata_types/?sort_by=name HTTP/1.1" 201 25
+2022-02-14 14:30:38,463 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 112
+2022-02-14 14:30:46,398 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 14:30:46,414 INFO "GET /static/js/main.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 304 0
+2022-02-14 14:30:46,527 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 304 0
+2022-02-14 14:30:46,533 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 16641
+2022-02-14 14:30:46,537 INFO "GET /static/js/src_js_pages_home_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 4855
+2022-02-14 14:30:46,575 INFO "GET /api/get_user/ HTTP/1.1" 200 331
+2022-02-14 14:30:46,595 INFO "GET /static/c27a388023a41d4d334001825f43d507.png HTTP/1.1" 200 8321
+2022-02-14 14:30:46,595 INFO "GET /static/2212291feacabc6ddf6ab4479028b0ff.png HTTP/1.1" 200 18149
+2022-02-14 14:30:46,597 INFO "GET /static/dbbbfa6028ef921712550680585aadb8.png HTTP/1.1" 200 12788
+2022-02-14 14:30:46,597 INFO "GET /static/29fc02d65f2e0f17338b1ee254f01e5d.png HTTP/1.1" 200 26391
+2022-02-14 14:30:47,642 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 42253
+2022-02-14 14:30:47,644 INFO "GET /static/js/src_js_pages_metadata_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 23482
+2022-02-14 14:30:47,647 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 1430163
+2022-02-14 14:30:47,753 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 112
+2022-02-14 14:30:47,792 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 59
+2022-02-14 14:30:47,794 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 59
+2022-02-14 14:30:56,624 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-02-14 14:30:58,824 INFO "POST /api/metadata/ HTTP/1.1" 201 79
+2022-02-14 14:30:58,898 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 138
+2022-02-14 14:31:15,254 INFO "POST /api/metadata/ HTTP/1.1" 201 82
+2022-02-14 14:31:15,327 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 221
+2022-02-14 14:31:18,493 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 18333
+2022-02-14 14:31:18,493 INFO "GET /static/js/src_js_pages_content_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 78791
+2022-02-14 14:31:18,558 INFO "GET /api/copyright/ HTTP/1.1" 200 59
+2022-02-14 14:31:18,558 INFO "GET /api/organization/ HTTP/1.1" 200 59
+2022-02-14 14:31:18,558 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 112
+2022-02-14 14:31:18,649 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 59
+2022-02-14 14:31:18,650 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 221
+2022-02-14 14:31:18,707 INFO "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 200 59
+2022-02-14 14:34:16,151 INFO "GET /admin/ HTTP/1.1" 302 0
+2022-02-14 14:34:16,173 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2210
+2022-02-14 14:34:16,181 INFO "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+2022-02-14 14:34:16,187 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+2022-02-14 14:34:16,188 INFO "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+2022-02-14 14:34:16,229 INFO "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+2022-02-14 14:34:16,278 INFO "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+2022-02-14 14:34:16,279 INFO "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+2022-02-14 14:34:16,280 INFO "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+2022-02-14 14:34:16,280 INFO "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+2022-02-14 14:40:57,820 INFO "GET /api/check_duplicate?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 301 0
+2022-02-14 14:40:57,830 INFO "GET /api/check_duplicate/?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 200 42
+2022-02-14 14:41:11,692 INFO "POST /api/metadata/ HTTP/1.1" 201 73
+2022-02-14 14:41:11,797 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 132
+2022-02-14 14:41:13,242 INFO "GET /api/check_duplicate?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 301 0
+2022-02-14 14:41:13,252 INFO "GET /api/check_duplicate/?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 200 42
+2022-02-14 14:41:13,437 ERROR Internal Server Error: /api/content/
+Traceback (most recent call last):
+  File "/home/pavi/.local/lib/python3.8/site-packages/clamd/__init__.py", line 294, in _init_socket
+    self.clamd_socket.connect(self.unix_socket)
+FileNotFoundError: [Errno 2] No such file or directory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/pavi/SolarSPELL/content-curation/backend/views.py", line 214, in create
+    return super().create(request, *args, **kwargs)
+  File "/home/pavi/SolarSPELL/content-curation/backend/views.py", line 48, in create
+    serializer.is_valid(raise_exception=True)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/serializers.py", line 234, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/serializers.py", line 433, in run_validation
+    value = self.to_internal_value(data)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/serializers.py", line 490, in to_internal_value
+    validated_value = field.run_validation(primitive_value)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/fields.py", line 566, in run_validation
+    self.run_validators(value)
+  File "/home/pavi/.local/lib/python3.8/site-packages/rest_framework/fields.py", line 590, in run_validators
+    validator(value)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django_clamd/validators.py", line 23, in validate_file_infection
+    result = scanner.instream(file)
+  File "/home/pavi/.local/lib/python3.8/site-packages/clamd/__init__.py", line 182, in instream
+    self._init_socket()
+  File "/home/pavi/.local/lib/python3.8/site-packages/clamd/__init__.py", line 298, in _init_socket
+    raise ConnectionError(self._error_message(e))
+clamd.ConnectionError: Error 2 connecting /var/run/clamav/clamd.ctl. No such file or directory.
+2022-02-14 14:41:13,438 ERROR "POST /api/content/ HTTP/1.1" 500 22023
+2022-02-14 14:44:25,569 INFO "GET /api/check_duplicate?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 301 0
+2022-02-14 14:44:25,580 INFO "GET /api/check_duplicate/?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 200 42
+2022-02-14 14:44:30,132 INFO "GET /api/check_duplicate?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 301 0
+2022-02-14 14:44:30,141 INFO "GET /api/check_duplicate/?hash=971176ce7eedbdf7e74df6f555eab5c7cec2ed14fd5a2a8acd7f8f52734eba98 HTTP/1.1" 200 42
+2022-02-14 14:44:38,784 INFO "POST /api/content/ HTTP/1.1" 201 847
+2022-02-14 14:44:38,937 INFO "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 200 906
+2022-02-14 14:44:43,439 INFO "GET /media/Diagnostic_and_statistical_manual_of_mental_disorders___DSM-5__PDFDrive.com_.pdf HTTP/1.1" 200 7518145
+2022-02-14 14:44:50,644 INFO "GET /static/js/src_js_pages_copyright_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 27020
+2022-02-14 14:44:50,752 INFO "GET /api/copyright/ HTTP/1.1" 200 59
+2022-02-14 14:44:50,754 INFO "GET /api/organization/ HTTP/1.1" 200 59
+2022-02-14 14:44:52,176 INFO "GET /static/js/src_js_pages_profile_index_tsx.8c9e24429be1ae09e384.bundle.js HTTP/1.1" 200 8391
+2022-02-14 14:44:52,185 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-02-14 14:44:52,186 INFO "GET /static/51a420f3640009330671d8b229bf5323.otf HTTP/1.1" 304 0
+2022-02-14 15:14:22,779 INFO Watching for file changes with StatReloader
+2022-02-14 15:14:58,857 INFO Watching for file changes with StatReloader
+2022-02-14 15:15:10,515 INFO code 400, message Bad request syntax ("\x16\x03\x01\x02+\x01\x00\x02'\x03\x03àB\x1b2\x80")
+2022-02-14 15:15:10,515 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-14 15:15:10,516 INFO code 400, message Bad request version ('ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-14 15:15:10,516 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-14 15:15:10,516 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 15:15:10,816 INFO "GET /static/js/main.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 3212143
+2022-02-14 15:15:10,954 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 16641
+2022-02-14 15:15:10,954 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 42253
+2022-02-14 15:15:10,954 INFO "GET /static/js/src_js_pages_profile_index_tsx.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 8391
+2022-02-14 15:15:10,963 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-02-14 15:15:11,002 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-02-14 15:15:11,003 INFO "GET /api/get_user/ HTTP/1.1" 200 331
+2022-02-14 15:15:11,030 INFO "GET /static/51a420f3640009330671d8b229bf5323.otf HTTP/1.1" 200 45760
+2022-02-14 15:15:11,243 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-02-14 15:15:12,743 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 18333
+2022-02-14 15:15:12,743 INFO "GET /static/js/src_js_pages_content_index_tsx.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 78791
+2022-02-14 15:15:12,745 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 1430163
+2022-02-14 15:15:12,911 INFO "GET /api/copyright/ HTTP/1.1" 200 59
+2022-02-14 15:15:12,911 INFO "GET /api/organization/ HTTP/1.1" 200 59
+2022-02-14 15:15:12,914 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 112
+2022-02-14 15:15:13,035 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 132
+2022-02-14 15:15:13,035 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 221
+2022-02-14 15:15:13,081 INFO "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 200 905
+2022-02-14 15:15:18,889 ERROR Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 407, in login
+    return LoginView.as_view(**defaults)(request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/views/decorators/debug.py", line 76, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/contrib/auth/views.py", line 63, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/views/generic/edit.py", line 133, in get
+    return self.render_to_response(self.get_context_data())
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/contrib/auth/views.py", line 97, in get_context_data
+    current_site = get_current_site(self.request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/contrib/sites/shortcuts.py", line 13, in get_current_site
+    return Site.objects.get_current(request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/contrib/sites/models.py", line 58, in get_current
+    return self._get_site_by_id(site_id)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/contrib/sites/models.py", line 30, in _get_site_by_id
+    site = self.get(pk=site_id)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/query.py", line 415, in get
+    raise self.model.DoesNotExist(
+django.contrib.sites.models.Site.DoesNotExist: Site matching query does not exist.
+2022-02-14 15:15:18,890 ERROR "GET /admin/login/?next=/admin/ HTTP/1.1" 500 173636
+2022-02-14 15:15:18,946 WARNING Not Found: /favicon.ico
+2022-02-14 15:15:18,946 WARNING "GET /favicon.ico HTTP/1.1" 404 2437
+2022-02-14 15:15:31,200 INFO code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x1a\x1a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-14 15:15:31,200 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-14 15:15:31,201 INFO code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-14 15:15:31,201 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-14 15:15:31,201 INFO code 400, message Bad request version ('v\x81\x04\x99Mð\x82p¡´æq\x81«Ö\\&\x00')
+2022-02-14 15:15:31,201 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-14 15:15:31,201 INFO code 400, message Bad request version ("µÕVHì'z1*º\x06ÔÉ")
+2022-02-14 15:15:31,201 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-14 15:15:39,817 INFO "GET /admin/ HTTP/1.1" 302 0
+2022-02-14 15:15:39,855 ERROR Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 407, in login
+    return LoginView.as_view(**defaults)(request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/views/decorators/debug.py", line 76, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/views/decorators/cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/contrib/auth/views.py", line 63, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/views/generic/base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/views/generic/edit.py", line 133, in get
+    return self.render_to_response(self.get_context_data())
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/contrib/auth/views.py", line 97, in get_context_data
+    current_site = get_current_site(self.request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/contrib/sites/shortcuts.py", line 13, in get_current_site
+    return Site.objects.get_current(request)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/contrib/sites/models.py", line 58, in get_current
+    return self._get_site_by_id(site_id)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/contrib/sites/models.py", line 30, in _get_site_by_id
+    site = self.get(pk=site_id)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/home/pavi/.local/lib/python3.8/site-packages/django/db/models/query.py", line 415, in get
+    raise self.model.DoesNotExist(
+django.contrib.sites.models.Site.DoesNotExist: Site matching query does not exist.
+2022-02-14 15:15:39,856 ERROR "GET /admin/login/?next=/admin/ HTTP/1.1" 500 173636
+2022-02-14 15:20:42,231 INFO Watching for file changes with StatReloader
+2022-02-14 15:20:46,597 INFO "GET /static/js/src_js_pages_metadata_index_tsx.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 23482
+2022-02-14 15:20:46,636 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 112
+2022-02-14 15:20:46,667 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 221
+2022-02-14 15:20:46,668 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 132
+2022-02-14 15:20:47,574 INFO "GET /api/organization/ HTTP/1.1" 200 59
+2022-02-14 15:20:47,574 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 112
+2022-02-14 15:20:47,575 INFO "GET /api/copyright/ HTTP/1.1" 200 59
+2022-02-14 15:20:47,653 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 132
+2022-02-14 15:20:47,653 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 221
+2022-02-14 15:20:47,688 INFO "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 200 905
+2022-02-14 15:20:48,796 INFO "GET /static/js/src_js_pages_copyright_index_tsx.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 27020
+2022-02-14 15:20:48,945 INFO "GET /api/organization/ HTTP/1.1" 200 59
+2022-02-14 15:20:48,946 INFO "GET /api/copyright/ HTTP/1.1" 200 59
+2022-02-14 15:20:49,495 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 304 0
+2022-02-14 15:20:58,548 INFO code 400, message Bad request version ('ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÊÊ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-14 15:20:58,548 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-14 15:20:58,549 INFO code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-14 15:20:58,549 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-14 15:20:58,549 INFO code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+2022-02-14 15:20:58,549 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-14 15:20:58,549 INFO code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x80QÑmD1ÓÊx\x8dJN')
+2022-02-14 15:20:58,549 ERROR You're accessing the development server over HTTPS, but it only supports HTTP.
+
+2022-02-14 15:21:04,189 INFO "GET /admin/ HTTP/1.1" 302 0
+2022-02-14 15:21:04,220 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2078
+2022-02-14 15:21:04,234 INFO "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+2022-02-14 15:21:04,234 INFO "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+2022-02-14 15:21:04,235 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 200 18052
+2022-02-14 15:21:04,238 INFO "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+2022-02-14 15:21:04,256 INFO "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+2022-02-14 15:21:04,256 INFO "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+2022-02-14 15:21:04,256 INFO "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+2022-02-14 15:21:10,074 INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2022-02-14 15:21:10,095 INFO "GET /admin/ HTTP/1.1" 200 9354
+2022-02-14 15:21:10,102 INFO "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+2022-02-14 15:21:10,105 INFO "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+2022-02-14 15:21:10,105 INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+2022-02-14 15:21:14,968 INFO "GET /admin/logout/ HTTP/1.1" 200 1212
+2022-02-14 15:28:49,516 INFO Watching for file changes with StatReloader
+2022-02-14 15:28:54,246 INFO "GET /static/index.html HTTP/1.1" 304 0
+2022-02-14 15:28:54,261 INFO "GET /static/js/main.add7838df68ddbe6b258.bundle.js HTTP/1.1" 304 0
+2022-02-14 15:28:54,367 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 304 0
+2022-02-14 15:28:54,374 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.add7838df68ddbe6b258.bundle.js HTTP/1.1" 304 0
+2022-02-14 15:28:54,374 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.add7838df68ddbe6b258.bundle.js HTTP/1.1" 304 0
+2022-02-14 15:28:54,374 INFO "GET /static/js/src_js_pages_profile_index_tsx.add7838df68ddbe6b258.bundle.js HTTP/1.1" 304 0
+2022-02-14 15:28:54,409 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 15:28:54,449 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 304 0
+2022-02-14 15:28:54,452 INFO "GET /static/51a420f3640009330671d8b229bf5323.otf HTTP/1.1" 304 0
+2022-02-14 15:28:54,461 INFO "GET /static/favicon.ico HTTP/1.1" 304 0
+2022-02-14 15:28:59,201 INFO "GET /admin/ HTTP/1.1" 302 0
+2022-02-14 15:28:59,228 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1918
+2022-02-14 15:45:50,071 INFO Watching for file changes with StatReloader
+2022-02-14 15:46:00,592 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 15:46:00,612 INFO "GET /static/js/main.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 3212143
+2022-02-14 15:46:00,740 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 16641
+2022-02-14 15:46:00,742 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 42253
+2022-02-14 15:46:00,743 INFO "GET /static/js/src_js_pages_profile_index_tsx.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 8391
+2022-02-14 15:46:00,753 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-02-14 15:46:00,781 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 15:46:00,802 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-02-14 15:46:00,810 INFO "GET /static/51a420f3640009330671d8b229bf5323.otf HTTP/1.1" 200 45760
+2022-02-14 15:46:05,739 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 15:46:05,815 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 15:46:05,836 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-02-14 15:46:08,122 INFO "GET /accounts/google/login/ HTTP/1.1" 302 0
+2022-02-14 15:46:08,994 INFO "GET /accounts/google/login/callback/?state=SU160JoMl1EK&code=4%2F0AX4XfWjJvyxrLzjBGVy_Z15nVY9HSqcH4iyCWyAlZ41GL7UirMnaMaJOqdD7_iQ9WIs8kg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&hd=asu.edu&prompt=none HTTP/1.1" 302 0
+2022-02-14 15:46:08,996 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 15:46:09,077 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 16641
+2022-02-14 15:46:09,077 INFO "GET /static/js/src_js_pages_profile_index_tsx.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 8391
+2022-02-14 15:46:09,078 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.add7838df68ddbe6b258.bundle.js HTTP/1.1" 200 42253
+2022-02-14 15:46:09,118 INFO "GET /api/get_user/ HTTP/1.1" 200 331
+2022-02-14 15:46:12,372 INFO "POST /accounts/logout/ HTTP/1.1" 302 0
+2022-02-14 15:46:12,374 INFO "GET / HTTP/1.1" 200 80
+2022-02-14 15:46:12,390 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 15:46:20,476 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2115
+2022-02-14 15:46:20,490 INFO "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+2022-02-14 15:46:20,490 INFO "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+2022-02-14 15:46:20,490 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 200 18052
+2022-02-14 15:46:20,533 INFO "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+2022-02-14 15:46:20,536 INFO "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+2022-02-14 15:46:20,551 INFO "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+2022-02-14 15:46:20,551 INFO "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+2022-02-14 15:46:25,234 INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2022-02-14 15:46:25,258 INFO "GET /admin/ HTTP/1.1" 200 9354
+2022-02-14 15:46:25,269 INFO "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+2022-02-14 15:46:25,315 INFO "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+2022-02-14 15:46:25,315 INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+2022-02-14 15:46:25,345 INFO "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+2022-02-14 15:46:29,858 INFO "GET /admin/socialaccount/socialaccount/ HTTP/1.1" 200 5476
+2022-02-14 15:46:29,869 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 200 6190
+2022-02-14 15:46:29,870 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 280364
+2022-02-14 15:46:29,872 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+2022-02-14 15:46:29,873 INFO "GET /static/admin/js/actions.js HTTP/1.1" 200 6766
+2022-02-14 15:46:29,874 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 200 8941
+2022-02-14 15:46:29,876 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+2022-02-14 15:46:29,879 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+2022-02-14 15:46:29,880 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2022-02-14 15:46:29,881 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+2022-02-14 15:46:29,882 INFO "GET /static/admin/js/core.js HTTP/1.1" 200 5723
+2022-02-14 15:46:29,913 INFO "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+2022-02-14 15:46:29,936 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+2022-02-14 15:46:31,371 INFO "GET /admin/socialaccount/socialaccount/1/change/ HTTP/1.1" 200 7094
+2022-02-14 15:46:31,385 INFO "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+2022-02-14 15:46:31,385 INFO "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+2022-02-14 15:46:31,385 INFO "GET /static/admin/css/forms.css HTTP/1.1" 200 8518
+2022-02-14 15:46:31,388 INFO "GET /static/admin/css/widgets.css HTTP/1.1" 200 10322
+2022-02-14 15:46:31,393 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2022-02-14 15:46:33,309 INFO "GET /admin/socialaccount/ HTTP/1.1" 200 3535
+2022-02-14 15:46:34,744 INFO "GET /admin/socialaccount/socialapp/ HTTP/1.1" 200 4669
+2022-02-14 15:46:34,757 INFO "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+2022-02-14 15:46:34,757 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 200 6190
+2022-02-14 15:46:34,758 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 280364
+2022-02-14 15:46:34,761 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 200 8941
+2022-02-14 15:46:34,761 INFO "GET /static/admin/js/actions.js HTTP/1.1" 200 6766
+2022-02-14 15:46:34,761 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+2022-02-14 15:46:34,767 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2022-02-14 15:46:34,768 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+2022-02-14 15:46:34,768 INFO "GET /static/admin/js/core.js HTTP/1.1" 200 5723
+2022-02-14 15:46:34,768 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+2022-02-14 15:46:34,770 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+2022-02-14 15:46:34,783 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+2022-02-14 15:46:35,957 INFO "GET /admin/socialaccount/socialapp/1/change/ HTTP/1.1" 200 7815
+2022-02-14 15:46:35,969 INFO "GET /static/admin/css/forms.css HTTP/1.1" 200 8518
+2022-02-14 15:46:35,969 INFO "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 5753
+2022-02-14 15:46:35,969 INFO "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 12318
+2022-02-14 15:46:35,976 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3223
+2022-02-14 15:46:35,978 INFO "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+2022-02-14 15:46:36,018 INFO "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+2022-02-14 15:46:36,018 INFO "GET /static/admin/css/widgets.css HTTP/1.1" 200 10322
+2022-02-14 15:46:36,037 INFO "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+2022-02-14 15:46:36,037 INFO "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+2022-02-14 15:46:36,037 INFO "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+2022-02-14 15:46:36,038 INFO "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+2022-02-14 15:50:09,353 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 15:50:09,374 INFO "GET /static/js/main.0e7610b1e41e42a244b6.bundle.js HTTP/1.1" 200 3212203
+2022-02-14 15:50:09,521 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-02-14 15:50:09,527 INFO "GET /static/js/src_js_pages_profile_index_tsx.0e7610b1e41e42a244b6.bundle.js HTTP/1.1" 200 8407
+2022-02-14 15:50:09,527 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.0e7610b1e41e42a244b6.bundle.js HTTP/1.1" 200 16641
+2022-02-14 15:50:09,527 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.0e7610b1e41e42a244b6.bundle.js HTTP/1.1" 200 42253
+2022-02-14 15:50:09,567 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-02-14 15:50:09,567 INFO "GET /api/get_user/ HTTP/1.1" 200 148
+2022-02-14 15:50:09,571 INFO "GET /static/51a420f3640009330671d8b229bf5323.otf HTTP/1.1" 200 45760
+2022-02-14 15:50:09,620 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-02-14 15:50:11,751 INFO "POST /accounts/logout/ HTTP/1.1" 302 0
+2022-02-14 15:50:11,753 INFO "GET / HTTP/1.1" 200 80
+2022-02-14 15:50:11,767 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 15:50:35,006 INFO "GET /static/js/src_js_pages_copyright_index_tsx.0e7610b1e41e42a244b6.bundle.js HTTP/1.1" 200 27020
+2022-02-14 15:50:35,009 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.0e7610b1e41e42a244b6.bundle.js HTTP/1.1" 200 1430163
+2022-02-14 15:50:35,210 WARNING "GET /static/127.0.0.1:8000/api/copyright/ HTTP/1.1" 404 1693
+2022-02-14 15:50:35,216 INFO "GET /api/organization/ HTTP/1.1" 200 59
+2022-02-14 15:50:37,737 INFO "GET /static/js/src_js_pages_metadata_index_tsx.0e7610b1e41e42a244b6.bundle.js HTTP/1.1" 200 23482
+2022-02-14 15:50:37,747 WARNING Forbidden: /api/metadata_types/
+2022-02-14 15:50:37,748 WARNING "GET /api/metadata_types/?sort_by=name HTTP/1.1" 403 58
+2022-02-14 15:50:37,753 WARNING "GET /static/127.0.0.1:8000/accounts/google/login/ HTTP/1.1" 404 1709
+2022-02-14 15:50:52,119 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 15:50:52,136 INFO "GET /static/js/main.0e7610b1e41e42a244b6.bundle.js HTTP/1.1" 200 3212203
+2022-02-14 15:50:52,267 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.0e7610b1e41e42a244b6.bundle.js HTTP/1.1" 200 16641
+2022-02-14 15:50:52,267 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.0e7610b1e41e42a244b6.bundle.js HTTP/1.1" 200 42253
+2022-02-14 15:50:52,271 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.0e7610b1e41e42a244b6.bundle.js HTTP/1.1" 200 1430163
+2022-02-14 15:50:52,272 INFO "GET /static/js/src_js_pages_metadata_index_tsx.0e7610b1e41e42a244b6.bundle.js HTTP/1.1" 200 23482
+2022-02-14 15:50:52,277 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-02-14 15:50:52,295 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 15:50:52,359 WARNING Forbidden: /api/metadata_types/
+2022-02-14 15:50:52,359 WARNING "GET /api/metadata_types/?sort_by=name HTTP/1.1" 403 58
+2022-02-14 15:50:52,373 WARNING "GET /static/127.0.0.1:8000/accounts/google/login/ HTTP/1.1" 404 1709
+2022-02-14 15:51:01,391 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 15:51:01,408 INFO "GET /static/js/main.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 3212143
+2022-02-14 15:51:01,545 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 16641
+2022-02-14 15:51:01,545 INFO "GET /static/js/src_js_pages_home_index_tsx.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 4855
+2022-02-14 15:51:01,556 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-02-14 15:51:01,575 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 15:51:01,594 INFO "GET /static/c27a388023a41d4d334001825f43d507.png HTTP/1.1" 200 8321
+2022-02-14 15:51:01,594 INFO "GET /static/2212291feacabc6ddf6ab4479028b0ff.png HTTP/1.1" 200 18149
+2022-02-14 15:51:01,596 INFO "GET /static/29fc02d65f2e0f17338b1ee254f01e5d.png HTTP/1.1" 200 26391
+2022-02-14 15:51:01,599 INFO "GET /static/dbbbfa6028ef921712550680585aadb8.png HTTP/1.1" 200 12788
+2022-02-14 15:51:02,790 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 42253
+2022-02-14 15:51:02,791 INFO "GET /static/js/src_js_pages_metadata_index_tsx.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 23482
+2022-02-14 15:51:02,793 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 1430163
+2022-02-14 15:51:02,852 WARNING Forbidden: /api/metadata_types/
+2022-02-14 15:51:02,852 WARNING "GET /api/metadata_types/?sort_by=name HTTP/1.1" 403 58
+2022-02-14 15:51:02,881 INFO "GET /accounts/google/login/ HTTP/1.1" 302 0
+2022-02-14 15:51:04,020 INFO "GET /accounts/google/login/callback/?state=liDm7KE7eYpv&code=4%2F0AX4XfWjs5ZDyCu-a--H1eQ588eWOmAFa8enuObJ3YMyuebmIaTsLOr6zbwFS9_oiBZm1kw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+openid&authuser=0&hd=asu.edu&prompt=none HTTP/1.1" 302 0
+2022-02-14 15:51:04,022 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 15:51:04,037 INFO "GET /static/js/main.33764bb5c2feded683e3.bundle.js HTTP/1.1" 304 0
+2022-02-14 15:51:04,061 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.33764bb5c2feded683e3.bundle.js HTTP/1.1" 304 0
+2022-02-14 15:51:04,061 INFO "GET /static/js/src_js_pages_profile_index_tsx.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 8407
+2022-02-14 15:51:04,062 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 16641
+2022-02-14 15:51:04,103 INFO "GET /api/get_user/ HTTP/1.1" 200 331
+2022-02-14 15:51:04,135 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-02-14 15:51:04,141 INFO "GET /static/51a420f3640009330671d8b229bf5323.otf HTTP/1.1" 200 45760
+2022-02-14 15:51:09,565 INFO "POST /accounts/logout/ HTTP/1.1" 302 0
+2022-02-14 15:51:09,567 INFO "GET / HTTP/1.1" 200 80
+2022-02-14 15:51:09,623 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 15:51:10,832 INFO "GET /accounts/google/login/ HTTP/1.1" 302 0
+2022-02-14 15:51:11,675 INFO "GET /accounts/google/login/callback/?state=faIh1NNNlMs9&code=4%2F0AX4XfWi7yvpdmfQkb3232Babff9tb0PqTmGW79yQvHL92wUV4SZpdPibd-SMRhtJjMaOsA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&hd=asu.edu&prompt=none HTTP/1.1" 302 0
+2022-02-14 15:51:11,677 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 15:51:11,693 INFO "GET /static/js/main.33764bb5c2feded683e3.bundle.js HTTP/1.1" 304 0
+2022-02-14 15:51:11,723 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 304 0
+2022-02-14 15:51:11,729 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 16641
+2022-02-14 15:51:11,729 INFO "GET /static/js/src_js_pages_profile_index_tsx.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 8407
+2022-02-14 15:51:11,729 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 42253
+2022-02-14 15:51:11,759 INFO "GET /api/get_user/ HTTP/1.1" 200 331
+2022-02-14 15:51:13,089 INFO "GET /static/js/src_js_pages_copyright_index_tsx.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 27020
+2022-02-14 15:51:13,092 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 1430163
+2022-02-14 15:51:13,296 INFO "GET /api/copyright/ HTTP/1.1" 200 59
+2022-02-14 15:51:13,297 INFO "GET /api/organization/ HTTP/1.1" 200 59
+2022-02-14 15:51:13,964 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 200 478089
+2022-02-14 15:51:15,522 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 18333
+2022-02-14 15:51:15,522 INFO "GET /static/js/src_js_pages_content_index_tsx.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 78791
+2022-02-14 15:51:15,629 INFO "GET /api/copyright/ HTTP/1.1" 200 59
+2022-02-14 15:51:15,630 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 112
+2022-02-14 15:51:15,630 INFO "GET /api/organization/ HTTP/1.1" 200 59
+2022-02-14 15:51:15,719 INFO "GET /api/metadata_types/1/metadata/ HTTP/1.1" 200 132
+2022-02-14 15:51:15,719 INFO "GET /api/metadata_types/2/metadata/ HTTP/1.1" 200 221
+2022-02-14 15:51:15,773 INFO "GET /api/content/?page_size=10&page=1&sort_by=title&created_by=2&copyright=all HTTP/1.1" 200 906
+2022-02-14 15:51:16,503 INFO "GET /static/js/src_js_pages_metadata_index_tsx.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 23482
+2022-02-14 15:51:16,536 INFO "GET /api/metadata_types/?sort_by=name HTTP/1.1" 200 112
+2022-02-14 15:51:16,564 INFO "GET /api/metadata_types/2/metadata/?page_size=5&page=1 HTTP/1.1" 200 221
+2022-02-14 15:51:16,564 INFO "GET /api/metadata_types/1/metadata/?page_size=5&page=1 HTTP/1.1" 200 132
+2022-02-14 15:51:19,108 INFO "POST /accounts/logout/ HTTP/1.1" 302 0
+2022-02-14 15:51:19,110 INFO "GET / HTTP/1.1" 200 80
+2022-02-14 15:51:19,119 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 15:51:38,470 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 15:51:38,485 INFO "GET /static/js/main.33764bb5c2feded683e3.bundle.js HTTP/1.1" 304 0
+2022-02-14 15:51:38,524 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 304 0
+2022-02-14 15:51:38,530 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 16641
+2022-02-14 15:51:38,530 INFO "GET /static/js/src_js_pages_profile_index_tsx.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 8407
+2022-02-14 15:51:38,530 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.33764bb5c2feded683e3.bundle.js HTTP/1.1" 200 42253
+2022-02-14 15:51:38,551 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 15:51:38,588 INFO "GET /static/4011ac771b4fbe16eca04c4a0f6b0614.jpg HTTP/1.1" 304 0
+2022-02-14 15:51:38,592 INFO "GET /static/51a420f3640009330671d8b229bf5323.otf HTTP/1.1" 304 0
+2022-02-14 15:51:38,605 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-02-14 15:51:42,949 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 15:51:42,966 INFO "GET /static/js/main.1d7d7c5b035f9a2b355a.bundle.js HTTP/1.1" 200 3212143
+2022-02-14 15:51:43,119 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.1d7d7c5b035f9a2b355a.bundle.js HTTP/1.1" 200 16641
+2022-02-14 15:51:43,119 INFO "GET /static/js/src_js_pages_profile_index_tsx.1d7d7c5b035f9a2b355a.bundle.js HTTP/1.1" 200 8391
+2022-02-14 15:51:43,120 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.1d7d7c5b035f9a2b355a.bundle.js HTTP/1.1" 200 42253
+2022-02-14 15:51:43,147 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 15:51:43,183 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-02-14 15:54:29,913 WARNING "GET /static/index.html HTTP/1.1" 404 1657
+2022-02-14 15:55:01,535 INFO Watching for file changes with StatReloader
+2022-02-14 15:55:06,041 WARNING "GET /static/index.html HTTP/1.1" 404 1657
+2022-02-14 15:55:08,084 WARNING "GET /static/index.html HTTP/1.1" 404 1657
+2022-02-14 15:56:39,131 INFO Watching for file changes with StatReloader
+2022-02-14 15:56:44,150 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 15:56:44,170 INFO "GET /static/js/main.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 3212203
+2022-02-14 15:56:44,320 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 16641
+2022-02-14 15:56:44,322 INFO "GET /static/js/src_js_pages_home_index_tsx.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 4855
+2022-02-14 15:56:44,332 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-02-14 15:56:44,358 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 15:56:44,378 INFO "GET /static/c27a388023a41d4d334001825f43d507.png HTTP/1.1" 200 8321
+2022-02-14 15:56:44,378 INFO "GET /static/2212291feacabc6ddf6ab4479028b0ff.png HTTP/1.1" 200 18149
+2022-02-14 15:56:44,378 INFO "GET /static/29fc02d65f2e0f17338b1ee254f01e5d.png HTTP/1.1" 200 26391
+2022-02-14 15:56:44,380 INFO "GET /static/dbbbfa6028ef921712550680585aadb8.png HTTP/1.1" 200 12788
+2022-02-14 15:56:44,427 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-02-14 15:56:45,618 INFO "GET /static/js/src_js_pages_metadata_index_tsx.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 23482
+2022-02-14 15:56:45,618 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 42253
+2022-02-14 15:56:45,621 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 1430163
+2022-02-14 15:56:45,685 WARNING Forbidden: /api/metadata_types/
+2022-02-14 15:56:45,685 WARNING "GET /api/metadata_types/?sort_by=name HTTP/1.1" 403 58
+2022-02-14 15:56:45,701 WARNING "GET /static/127.0.0.1:3000/accounts/google/login/ HTTP/1.1" 404 1709
+2022-02-14 15:56:47,117 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 15:56:47,150 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 16641
+2022-02-14 15:56:47,150 INFO "GET /static/js/src_js_pages_metadata_index_tsx.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 23482
+2022-02-14 15:56:47,151 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 42253
+2022-02-14 15:56:47,184 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 15:56:47,234 WARNING Forbidden: /api/metadata_types/
+2022-02-14 15:56:47,234 WARNING "GET /api/metadata_types/?sort_by=name HTTP/1.1" 403 58
+2022-02-14 15:56:47,300 WARNING "GET /static/127.0.0.1:3000/accounts/google/login/ HTTP/1.1" 404 1709
+2022-02-14 15:56:54,524 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 15:56:54,545 INFO "GET /static/js/main.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 3212203
+2022-02-14 15:56:54,622 INFO "GET /static/js/src_js_pages_home_index_tsx.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 4855
+2022-02-14 15:56:54,622 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 16641
+2022-02-14 15:56:54,628 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-02-14 15:56:54,642 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 15:56:54,659 INFO "GET /static/2212291feacabc6ddf6ab4479028b0ff.png HTTP/1.1" 200 18149
+2022-02-14 15:56:54,661 INFO "GET /static/29fc02d65f2e0f17338b1ee254f01e5d.png HTTP/1.1" 200 26391
+2022-02-14 15:56:54,662 INFO "GET /static/dbbbfa6028ef921712550680585aadb8.png HTTP/1.1" 200 12788
+2022-02-14 15:56:54,664 INFO "GET /static/c27a388023a41d4d334001825f43d507.png HTTP/1.1" 200 8321
+2022-02-14 16:15:02,583 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 42253
+2022-02-14 16:15:02,590 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 1430163
+2022-02-14 16:15:02,591 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 18333
+2022-02-14 16:15:02,593 INFO "GET /static/js/src_js_pages_content_index_tsx.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 78791
+2022-02-14 16:15:02,738 WARNING Forbidden: /api/metadata_types/
+2022-02-14 16:15:02,740 WARNING "GET /api/metadata_types/?sort_by=name HTTP/1.1" 403 58
+2022-02-14 16:15:02,742 WARNING "GET /static/127.0.0.1:8000/api/copyright/ HTTP/1.1" 404 1693
+2022-02-14 16:15:02,748 INFO "GET /api/organization/ HTTP/1.1" 200 59
+2022-02-14 16:15:02,788 WARNING "GET /static/127.0.0.1:3000/accounts/google/login/ HTTP/1.1" 404 1709
+2022-02-14 16:15:04,465 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-02-14 16:15:04,588 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 16641
+2022-02-14 16:15:04,588 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 42253
+2022-02-14 16:15:04,590 INFO "GET /static/js/src_js_pages_content_index_tsx.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 78791
+2022-02-14 16:15:04,597 INFO "GET /static/js/vendors-node_modules_material-ui_icons_esm_Delete_js-node_modules_material-ui_icons_esm_Edit_-c45b31.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 18333
+2022-02-14 16:15:04,601 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.11c363d1552be2a15320.bundle.js HTTP/1.1" 200 1430163
+2022-02-14 16:15:04,617 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-02-14 16:15:04,719 WARNING Forbidden: /api/metadata_types/
+2022-02-14 16:15:04,721 WARNING "GET /api/metadata_types/?sort_by=name HTTP/1.1" 403 58
+2022-02-14 16:15:04,723 WARNING "GET /static/127.0.0.1:8000/api/copyright/ HTTP/1.1" 404 1693
+2022-02-14 16:15:04,728 INFO "GET /api/organization/ HTTP/1.1" 200 59
+2022-02-14 16:15:04,788 WARNING "GET /static/127.0.0.1:3000/accounts/google/login/ HTTP/1.1" 404 1709

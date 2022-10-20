@@ -1,0 +1,463 @@
+2022-07-21 10:30:46,235 INFO Watching for file changes with StatReloader
+2022-07-21 10:30:46,235 INFO Watching for file changes with StatReloader
+2022-07-21 10:31:34,125 INFO Watching for file changes with StatReloader
+2022-07-21 10:31:34,125 INFO Watching for file changes with StatReloader
+2022-07-21 10:34:25,495 INFO "GET /static/index.html HTTP/1.1" 304 0
+2022-07-21 10:34:25,495 INFO "GET /static/index.html HTTP/1.1" 304 0
+2022-07-21 10:34:25,511 INFO "GET /static/js/main.e0bcf05c5a52a7f07b23.bundle.js HTTP/1.1" 304 0
+2022-07-21 10:34:25,511 INFO "GET /static/js/main.e0bcf05c5a52a7f07b23.bundle.js HTTP/1.1" 304 0
+2022-07-21 10:34:25,593 INFO "GET /static/js/main.e0bcf05c5a52a7f07b23.bundle.js.map HTTP/1.1" 200 3316775
+2022-07-21 10:34:25,593 INFO "GET /static/js/main.e0bcf05c5a52a7f07b23.bundle.js.map HTTP/1.1" 200 3316775
+2022-07-21 10:34:27,726 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.e0bcf05c5a52a7f07b23.bundle.js HTTP/1.1" 304 0
+2022-07-21 10:34:27,726 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.e0bcf05c5a52a7f07b23.bundle.js HTTP/1.1" 304 0
+2022-07-21 10:34:27,727 INFO "GET /static/js/src_js_pages_copyright_index_tsx.e0bcf05c5a52a7f07b23.bundle.js HTTP/1.1" 304 0
+2022-07-21 10:34:27,727 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.e0bcf05c5a52a7f07b23.bundle.js HTTP/1.1" 304 0
+2022-07-21 10:34:27,727 INFO "GET /static/js/src_js_pages_copyright_index_tsx.e0bcf05c5a52a7f07b23.bundle.js HTTP/1.1" 304 0
+2022-07-21 10:34:27,727 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.e0bcf05c5a52a7f07b23.bundle.js HTTP/1.1" 304 0
+2022-07-21 10:34:27,727 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.e0bcf05c5a52a7f07b23.bundle.js HTTP/1.1" 304 0
+2022-07-21 10:34:27,727 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.e0bcf05c5a52a7f07b23.bundle.js HTTP/1.1" 304 0
+2022-07-21 10:34:27,780 WARNING {'token_key': 'ya29.A0AVA9y1urRa0im0M-6FpJZYVTWqeLevDqadC7lwiwCjPrT_iM7BBfdgZa5HKX6uGMon9LXqp2zac94Vgj1rZArThskpq8627B1QunMqhnj8g_KH0Zb4JOtJvbnpi8MTgmZITKe_AMhs0XORL4peK9rY1bwz2xYUNnWUtBVEFTQVRBU0ZRRTY1ZHI4UkxKVVBkaXh2MUhrZUNPMmNyRlpVdw0163', 'username': 'pavithra_devi8', 'email': 'prajkuma@asu.edu', 'groups': ['Student', 'Library Specialist'], 'user_id': 13, 'profile': {'num_content': 3}}
+2022-07-21 10:34:27,780 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-21 10:34:27,780 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-21 10:34:27,792 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.e0bcf05c5a52a7f07b23.bundle.js.map HTTP/1.1" 200 16682
+2022-07-21 10:34:27,792 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.e0bcf05c5a52a7f07b23.bundle.js.map HTTP/1.1" 200 16682
+2022-07-21 10:34:27,812 INFO "GET /static/js/src_js_pages_copyright_index_tsx.e0bcf05c5a52a7f07b23.bundle.js.map HTTP/1.1" 200 23818
+2022-07-21 10:34:27,812 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.e0bcf05c5a52a7f07b23.bundle.js.map HTTP/1.1" 200 40133
+2022-07-21 10:34:27,812 INFO "GET /static/js/src_js_pages_copyright_index_tsx.e0bcf05c5a52a7f07b23.bundle.js.map HTTP/1.1" 200 23818
+2022-07-21 10:34:27,812 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.e0bcf05c5a52a7f07b23.bundle.js.map HTTP/1.1" 200 40133
+2022-07-21 10:34:27,868 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.e0bcf05c5a52a7f07b23.bundle.js.map HTTP/1.1" 200 1308723
+2022-07-21 10:34:27,868 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.e0bcf05c5a52a7f07b23.bundle.js.map HTTP/1.1" 200 1308723
+2022-07-21 10:34:28,078 WARNING {'total': 10, 'items': [OrderedDict([('name', 'Voice of America'), ('email', 'voa@voa.org'), ('website', 'www.voa.org'), ('id', 3)]), OrderedDict([('name', 'Sikana'), ('email', 'simon@sikana.tv'), ('website', 'https://www.sikana.tv/en'), ('id', 5)]), OrderedDict([('name', 'Saudi OER Network'), ('email', 'nelc.sm@elc.edu.sa'), ('website', 'https://shms.sa/'), ('id', 8)]), OrderedDict([('name', "L'École de l'Égalité"), ('email', 'contact@egalite.ch'), ('website', 'https://egalite.ch/'), ('id', 9)]), OrderedDict([('name', 'Canopé'), ('email', 'partenariats@reseau-canope.fr'), ('website', 'https://www.reseau-canope.fr/'), ('id', 10)]), OrderedDict([('name', 'Dr Erma Hermens'), ('email', 'N/A'), ('website', 'https://www.researchgate.net/profile/Erma-Hermens'), ('id', 11)]), OrderedDict([('name', 'Fachwerk'), ('email', 'denkmalpflege@be.ch'), ('website', 'https://www.fachwerk.erz.be.ch/plattform-fuer-unterrichtsmaterialien-und-publikationen-der-kantonalen-denkmalpflege/'), ('id', 13)]), OrderedDict([('name', "Conférence intercantonale de l'instruction publique de la Suisse romande et du Tessin (CIIP)"), ('email', 'Jacques.Deboeuf@ne.ch'), ('website', 'https://www.ciip.ch/'), ('id', 15)]), OrderedDict([('name', 'Santé Publique Ottawa'), ('email', 'N/A'), ('website', 'https://www.lelienottawa.ca/fr/mental-health/mental-health.aspx'), ('id', 18)]), OrderedDict([('name', 'Pan African Conservation Education - PACE'), ('email', 'PACE@tusk.org'), ('website', 'https://www.paceproject.net/'), ('id', 20)])]}
+2022-07-21 10:34:28,078 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-21 10:34:28,078 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-21 10:34:28,082 WARNING {'total': 3, 'items': [OrderedDict([('organization', 10), ('description', 'Two resources: an introductory textbook on art history, and another introduction to architectural styles.'), ('date_contacted', '2022-01-21'), ('granted', False), ('date_of_response', '2022-08-09'), ('user', 13), ('id', 16), ('organization_info', {'name': 'Canopé', 'email': 'partenariats@reseau-canope.fr', 'website': 'https://www.reseau-canope.fr/'}), ('user_name', 'pavithra_devi8')]), OrderedDict([('organization', 3), ('description', 'update'), ('date_contacted', '2022-07-19'), ('granted', False), ('date_of_response', None), ('user', 1), ('id', 5), ('organization_info', {'name': 'Voice of America', 'email': 'voa@voa.org', 'website': 'www.voa.org'}), ('user_name', 'admin')]), OrderedDict([('organization', 5), ('description', 'Sikana educational and community videos'), ('date_contacted', '2021-03-08'), ('granted', True), ('date_of_response', '2021-03-15'), ('user', 4), ('id', 7), ('organization_info', {'name': 'Sikana', 'email': 'simon@sikana.tv', 'website': 'https://www.sikana.tv/en'}), ('user_name', 'sara')])]}
+2022-07-21 10:34:28,083 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-21 10:34:28,083 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-21 10:34:28,114 INFO "GET /static/favicon.ico HTTP/1.1" 304 0
+2022-07-21 10:34:28,114 INFO "GET /static/favicon.ico HTTP/1.1" 304 0
+2022-07-21 10:34:36,036 ERROR {'date_of_response': [ErrorDetail(string='Date has wrong format. Use one of these formats instead: YYYY-MM-DD.', code='invalid')]}
+2022-07-21 10:34:36,037 WARNING Bad Request: /api/copyright/7/
+2022-07-21 10:34:36,037 WARNING Bad Request: /api/copyright/7/
+2022-07-21 10:34:36,037 WARNING "PATCH /api/copyright/7/ HTTP/1.1" 400 131
+2022-07-21 10:34:36,037 WARNING "PATCH /api/copyright/7/ HTTP/1.1" 400 131
+2022-07-21 10:46:16,661 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-07-21 10:46:16,661 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-07-21 10:46:16,680 INFO "GET /static/js/main.bc2705b7023175f1b2ba.bundle.js HTTP/1.1" 200 3212489
+2022-07-21 10:46:16,680 INFO "GET /static/js/main.bc2705b7023175f1b2ba.bundle.js HTTP/1.1" 200 3212489
+2022-07-21 10:46:16,788 INFO "GET /static/js/main.bc2705b7023175f1b2ba.bundle.js.map HTTP/1.1" 200 3316775
+2022-07-21 10:46:16,788 INFO "GET /static/js/main.bc2705b7023175f1b2ba.bundle.js.map HTTP/1.1" 200 3316775
+2022-07-21 10:46:16,876 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.bc2705b7023175f1b2ba.bundle.js HTTP/1.1" 200 16641
+2022-07-21 10:46:16,876 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.bc2705b7023175f1b2ba.bundle.js HTTP/1.1" 200 16641
+2022-07-21 10:46:16,876 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.bc2705b7023175f1b2ba.bundle.js HTTP/1.1" 200 42253
+2022-07-21 10:46:16,876 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.bc2705b7023175f1b2ba.bundle.js HTTP/1.1" 200 42253
+2022-07-21 10:46:16,877 INFO "GET /static/js/src_js_pages_copyright_index_tsx.bc2705b7023175f1b2ba.bundle.js HTTP/1.1" 200 30305
+2022-07-21 10:46:16,877 INFO "GET /static/js/src_js_pages_copyright_index_tsx.bc2705b7023175f1b2ba.bundle.js HTTP/1.1" 200 30305
+2022-07-21 10:46:16,879 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.bc2705b7023175f1b2ba.bundle.js HTTP/1.1" 200 1430506
+2022-07-21 10:46:16,879 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.bc2705b7023175f1b2ba.bundle.js HTTP/1.1" 200 1430506
+2022-07-21 10:46:16,940 WARNING {'token_key': 'ya29.A0AVA9y1urRa0im0M-6FpJZYVTWqeLevDqadC7lwiwCjPrT_iM7BBfdgZa5HKX6uGMon9LXqp2zac94Vgj1rZArThskpq8627B1QunMqhnj8g_KH0Zb4JOtJvbnpi8MTgmZITKe_AMhs0XORL4peK9rY1bwz2xYUNnWUtBVEFTQVRBU0ZRRTY1ZHI4UkxKVVBkaXh2MUhrZUNPMmNyRlpVdw0163', 'username': 'pavithra_devi8', 'email': 'prajkuma@asu.edu', 'groups': ['Student', 'Library Specialist'], 'user_id': 13, 'profile': {'num_content': 3}}
+2022-07-21 10:46:16,940 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-21 10:46:16,940 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-21 10:46:17,025 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.bc2705b7023175f1b2ba.bundle.js.map HTTP/1.1" 200 16664
+2022-07-21 10:46:17,025 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.bc2705b7023175f1b2ba.bundle.js.map HTTP/1.1" 200 16664
+2022-07-21 10:46:17,029 INFO "GET /static/js/src_js_pages_copyright_index_tsx.bc2705b7023175f1b2ba.bundle.js.map HTTP/1.1" 200 23913
+2022-07-21 10:46:17,029 INFO "GET /static/js/src_js_pages_copyright_index_tsx.bc2705b7023175f1b2ba.bundle.js.map HTTP/1.1" 200 23913
+2022-07-21 10:46:17,029 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.bc2705b7023175f1b2ba.bundle.js.map HTTP/1.1" 200 40079
+2022-07-21 10:46:17,029 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.bc2705b7023175f1b2ba.bundle.js.map HTTP/1.1" 200 40079
+2022-07-21 10:46:17,031 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.bc2705b7023175f1b2ba.bundle.js.map HTTP/1.1" 200 1306383
+2022-07-21 10:46:17,031 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.bc2705b7023175f1b2ba.bundle.js.map HTTP/1.1" 200 1306383
+2022-07-21 10:46:17,242 WARNING {'total': 10, 'items': [OrderedDict([('name', 'Voice of America'), ('email', 'voa@voa.org'), ('website', 'www.voa.org'), ('id', 3)]), OrderedDict([('name', 'Sikana'), ('email', 'simon@sikana.tv'), ('website', 'https://www.sikana.tv/en'), ('id', 5)]), OrderedDict([('name', 'Saudi OER Network'), ('email', 'nelc.sm@elc.edu.sa'), ('website', 'https://shms.sa/'), ('id', 8)]), OrderedDict([('name', "L'École de l'Égalité"), ('email', 'contact@egalite.ch'), ('website', 'https://egalite.ch/'), ('id', 9)]), OrderedDict([('name', 'Canopé'), ('email', 'partenariats@reseau-canope.fr'), ('website', 'https://www.reseau-canope.fr/'), ('id', 10)]), OrderedDict([('name', 'Dr Erma Hermens'), ('email', 'N/A'), ('website', 'https://www.researchgate.net/profile/Erma-Hermens'), ('id', 11)]), OrderedDict([('name', 'Fachwerk'), ('email', 'denkmalpflege@be.ch'), ('website', 'https://www.fachwerk.erz.be.ch/plattform-fuer-unterrichtsmaterialien-und-publikationen-der-kantonalen-denkmalpflege/'), ('id', 13)]), OrderedDict([('name', "Conférence intercantonale de l'instruction publique de la Suisse romande et du Tessin (CIIP)"), ('email', 'Jacques.Deboeuf@ne.ch'), ('website', 'https://www.ciip.ch/'), ('id', 15)]), OrderedDict([('name', 'Santé Publique Ottawa'), ('email', 'N/A'), ('website', 'https://www.lelienottawa.ca/fr/mental-health/mental-health.aspx'), ('id', 18)]), OrderedDict([('name', 'Pan African Conservation Education - PACE'), ('email', 'PACE@tusk.org'), ('website', 'https://www.paceproject.net/'), ('id', 20)])]}
+2022-07-21 10:46:17,244 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-21 10:46:17,244 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-21 10:46:17,246 WARNING {'total': 3, 'items': [OrderedDict([('organization', 10), ('description', 'Two resources: an introductory textbook on art history, and another introduction to architectural styles.'), ('date_contacted', '2022-01-21'), ('granted', False), ('date_of_response', '2022-08-09'), ('user', 13), ('id', 16), ('organization_info', {'name': 'Canopé', 'email': 'partenariats@reseau-canope.fr', 'website': 'https://www.reseau-canope.fr/'}), ('user_name', 'pavithra_devi8')]), OrderedDict([('organization', 3), ('description', 'update'), ('date_contacted', '2022-07-19'), ('granted', False), ('date_of_response', None), ('user', 1), ('id', 5), ('organization_info', {'name': 'Voice of America', 'email': 'voa@voa.org', 'website': 'www.voa.org'}), ('user_name', 'admin')]), OrderedDict([('organization', 5), ('description', 'Sikana educational and community videos'), ('date_contacted', '2021-03-08'), ('granted', True), ('date_of_response', '2021-03-15'), ('user', 4), ('id', 7), ('organization_info', {'name': 'Sikana', 'email': 'simon@sikana.tv', 'website': 'https://www.sikana.tv/en'}), ('user_name', 'sara')])]}
+2022-07-21 10:46:17,247 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-21 10:46:17,247 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-21 10:46:17,283 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-07-21 10:46:17,283 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-07-21 10:47:00,170 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-07-21 10:47:00,170 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-07-21 10:47:00,189 INFO "GET /static/js/main.19574ae75683e8390fd8.bundle.js HTTP/1.1" 200 3212489
+2022-07-21 10:47:00,189 INFO "GET /static/js/main.19574ae75683e8390fd8.bundle.js HTTP/1.1" 200 3212489
+2022-07-21 10:47:00,298 INFO "GET /static/js/main.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 3316775
+2022-07-21 10:47:00,298 INFO "GET /static/js/main.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 3316775
+2022-07-21 10:47:00,369 INFO "GET /static/js/src_js_pages_copyright_index_tsx.19574ae75683e8390fd8.bundle.js HTTP/1.1" 200 30395
+2022-07-21 10:47:00,369 INFO "GET /static/js/src_js_pages_copyright_index_tsx.19574ae75683e8390fd8.bundle.js HTTP/1.1" 200 30395
+2022-07-21 10:47:00,369 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.19574ae75683e8390fd8.bundle.js HTTP/1.1" 200 16641
+2022-07-21 10:47:00,369 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.19574ae75683e8390fd8.bundle.js HTTP/1.1" 200 16641
+2022-07-21 10:47:00,369 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.19574ae75683e8390fd8.bundle.js HTTP/1.1" 200 42253
+2022-07-21 10:47:00,369 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.19574ae75683e8390fd8.bundle.js HTTP/1.1" 200 42253
+2022-07-21 10:47:00,371 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.19574ae75683e8390fd8.bundle.js HTTP/1.1" 200 1430506
+2022-07-21 10:47:00,371 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.19574ae75683e8390fd8.bundle.js HTTP/1.1" 200 1430506
+2022-07-21 10:47:00,431 WARNING {'token_key': 'ya29.A0AVA9y1urRa0im0M-6FpJZYVTWqeLevDqadC7lwiwCjPrT_iM7BBfdgZa5HKX6uGMon9LXqp2zac94Vgj1rZArThskpq8627B1QunMqhnj8g_KH0Zb4JOtJvbnpi8MTgmZITKe_AMhs0XORL4peK9rY1bwz2xYUNnWUtBVEFTQVRBU0ZRRTY1ZHI4UkxKVVBkaXh2MUhrZUNPMmNyRlpVdw0163', 'username': 'pavithra_devi8', 'email': 'prajkuma@asu.edu', 'groups': ['Student', 'Library Specialist'], 'user_id': 13, 'profile': {'num_content': 3}}
+2022-07-21 10:47:00,432 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-21 10:47:00,432 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-21 10:47:00,525 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 16673
+2022-07-21 10:47:00,525 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 16673
+2022-07-21 10:47:00,527 INFO "GET /static/js/src_js_pages_copyright_index_tsx.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 24011
+2022-07-21 10:47:00,527 INFO "GET /static/js/src_js_pages_copyright_index_tsx.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 24011
+2022-07-21 10:47:00,528 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 40106
+2022-07-21 10:47:00,528 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 40106
+2022-07-21 10:47:00,529 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 1307553
+2022-07-21 10:47:00,529 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 1307553
+2022-07-21 10:47:00,712 WARNING {'total': 10, 'items': [OrderedDict([('name', 'Voice of America'), ('email', 'voa@voa.org'), ('website', 'www.voa.org'), ('id', 3)]), OrderedDict([('name', 'Sikana'), ('email', 'simon@sikana.tv'), ('website', 'https://www.sikana.tv/en'), ('id', 5)]), OrderedDict([('name', 'Saudi OER Network'), ('email', 'nelc.sm@elc.edu.sa'), ('website', 'https://shms.sa/'), ('id', 8)]), OrderedDict([('name', "L'École de l'Égalité"), ('email', 'contact@egalite.ch'), ('website', 'https://egalite.ch/'), ('id', 9)]), OrderedDict([('name', 'Canopé'), ('email', 'partenariats@reseau-canope.fr'), ('website', 'https://www.reseau-canope.fr/'), ('id', 10)]), OrderedDict([('name', 'Dr Erma Hermens'), ('email', 'N/A'), ('website', 'https://www.researchgate.net/profile/Erma-Hermens'), ('id', 11)]), OrderedDict([('name', 'Fachwerk'), ('email', 'denkmalpflege@be.ch'), ('website', 'https://www.fachwerk.erz.be.ch/plattform-fuer-unterrichtsmaterialien-und-publikationen-der-kantonalen-denkmalpflege/'), ('id', 13)]), OrderedDict([('name', "Conférence intercantonale de l'instruction publique de la Suisse romande et du Tessin (CIIP)"), ('email', 'Jacques.Deboeuf@ne.ch'), ('website', 'https://www.ciip.ch/'), ('id', 15)]), OrderedDict([('name', 'Santé Publique Ottawa'), ('email', 'N/A'), ('website', 'https://www.lelienottawa.ca/fr/mental-health/mental-health.aspx'), ('id', 18)]), OrderedDict([('name', 'Pan African Conservation Education - PACE'), ('email', 'PACE@tusk.org'), ('website', 'https://www.paceproject.net/'), ('id', 20)])]}
+2022-07-21 10:47:00,713 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-21 10:47:00,713 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-21 10:47:00,714 WARNING {'total': 3, 'items': [OrderedDict([('organization', 10), ('description', 'Two resources: an introductory textbook on art history, and another introduction to architectural styles.'), ('date_contacted', '2022-01-21'), ('granted', False), ('date_of_response', '2022-08-09'), ('user', 13), ('id', 16), ('organization_info', {'name': 'Canopé', 'email': 'partenariats@reseau-canope.fr', 'website': 'https://www.reseau-canope.fr/'}), ('user_name', 'pavithra_devi8')]), OrderedDict([('organization', 3), ('description', 'update'), ('date_contacted', '2022-07-19'), ('granted', False), ('date_of_response', None), ('user', 1), ('id', 5), ('organization_info', {'name': 'Voice of America', 'email': 'voa@voa.org', 'website': 'www.voa.org'}), ('user_name', 'admin')]), OrderedDict([('organization', 5), ('description', 'Sikana educational and community videos'), ('date_contacted', '2021-03-08'), ('granted', True), ('date_of_response', '2021-03-15'), ('user', 4), ('id', 7), ('organization_info', {'name': 'Sikana', 'email': 'simon@sikana.tv', 'website': 'https://www.sikana.tv/en'}), ('user_name', 'sara')])]}
+2022-07-21 10:47:00,714 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-21 10:47:00,714 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-21 10:47:00,748 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-07-21 10:47:00,748 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-07-21 13:52:25,796 ERROR {'date_of_response': [ErrorDetail(string='Date has wrong format. Use one of these formats instead: YYYY-MM-DD.', code='invalid')]}
+2022-07-21 13:52:25,796 WARNING Bad Request: /api/copyright/7/
+2022-07-21 13:52:25,796 WARNING Bad Request: /api/copyright/7/
+2022-07-21 13:52:25,796 WARNING "PATCH /api/copyright/7/ HTTP/1.1" 400 131
+2022-07-21 13:52:25,796 WARNING "PATCH /api/copyright/7/ HTTP/1.1" 400 131
+2022-07-21 13:52:44,293 INFO "GET /static/index.html HTTP/1.1" 304 0
+2022-07-21 13:52:44,293 INFO "GET /static/index.html HTTP/1.1" 304 0
+2022-07-21 13:52:44,309 INFO "GET /static/js/main.19574ae75683e8390fd8.bundle.js HTTP/1.1" 304 0
+2022-07-21 13:52:44,309 INFO "GET /static/js/main.19574ae75683e8390fd8.bundle.js HTTP/1.1" 304 0
+2022-07-21 13:52:44,387 INFO "GET /static/js/main.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 3316775
+2022-07-21 13:52:44,387 INFO "GET /static/js/main.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 3316775
+2022-07-21 13:52:46,931 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-07-21 13:52:46,931 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 200 35245
+2022-07-21 13:52:46,937 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.19574ae75683e8390fd8.bundle.js HTTP/1.1" 304 0
+2022-07-21 13:52:46,937 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.19574ae75683e8390fd8.bundle.js HTTP/1.1" 304 0
+2022-07-21 13:52:46,938 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.19574ae75683e8390fd8.bundle.js HTTP/1.1" 304 0
+2022-07-21 13:52:46,938 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.19574ae75683e8390fd8.bundle.js HTTP/1.1" 304 0
+2022-07-21 13:52:46,938 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.19574ae75683e8390fd8.bundle.js HTTP/1.1" 304 0
+2022-07-21 13:52:46,938 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.19574ae75683e8390fd8.bundle.js HTTP/1.1" 304 0
+2022-07-21 13:52:46,938 INFO "GET /static/js/src_js_pages_copyright_index_tsx.19574ae75683e8390fd8.bundle.js HTTP/1.1" 304 0
+2022-07-21 13:52:46,938 INFO "GET /static/js/src_js_pages_copyright_index_tsx.19574ae75683e8390fd8.bundle.js HTTP/1.1" 304 0
+2022-07-21 13:52:46,993 WARNING {'token_key': 'ya29.A0AVA9y1urRa0im0M-6FpJZYVTWqeLevDqadC7lwiwCjPrT_iM7BBfdgZa5HKX6uGMon9LXqp2zac94Vgj1rZArThskpq8627B1QunMqhnj8g_KH0Zb4JOtJvbnpi8MTgmZITKe_AMhs0XORL4peK9rY1bwz2xYUNnWUtBVEFTQVRBU0ZRRTY1ZHI4UkxKVVBkaXh2MUhrZUNPMmNyRlpVdw0163', 'username': 'pavithra_devi8', 'email': 'prajkuma@asu.edu', 'groups': ['Student', 'Library Specialist'], 'user_id': 13, 'profile': {'num_content': 3}}
+2022-07-21 13:52:46,994 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-21 13:52:46,994 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-21 13:52:46,999 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 16673
+2022-07-21 13:52:46,999 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 16673
+2022-07-21 13:52:47,027 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 40106
+2022-07-21 13:52:47,027 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 40106
+2022-07-21 13:52:47,029 INFO "GET /static/js/src_js_pages_copyright_index_tsx.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 24011
+2022-07-21 13:52:47,029 INFO "GET /static/js/src_js_pages_copyright_index_tsx.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 24011
+2022-07-21 13:52:47,088 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 1307553
+2022-07-21 13:52:47,088 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.19574ae75683e8390fd8.bundle.js.map HTTP/1.1" 200 1307553
+2022-07-21 13:52:47,287 WARNING {'total': 10, 'items': [OrderedDict([('name', 'Voice of America'), ('email', 'voa@voa.org'), ('website', 'www.voa.org'), ('id', 3)]), OrderedDict([('name', 'Sikana'), ('email', 'simon@sikana.tv'), ('website', 'https://www.sikana.tv/en'), ('id', 5)]), OrderedDict([('name', 'Saudi OER Network'), ('email', 'nelc.sm@elc.edu.sa'), ('website', 'https://shms.sa/'), ('id', 8)]), OrderedDict([('name', "L'École de l'Égalité"), ('email', 'contact@egalite.ch'), ('website', 'https://egalite.ch/'), ('id', 9)]), OrderedDict([('name', 'Canopé'), ('email', 'partenariats@reseau-canope.fr'), ('website', 'https://www.reseau-canope.fr/'), ('id', 10)]), OrderedDict([('name', 'Dr Erma Hermens'), ('email', 'N/A'), ('website', 'https://www.researchgate.net/profile/Erma-Hermens'), ('id', 11)]), OrderedDict([('name', 'Fachwerk'), ('email', 'denkmalpflege@be.ch'), ('website', 'https://www.fachwerk.erz.be.ch/plattform-fuer-unterrichtsmaterialien-und-publikationen-der-kantonalen-denkmalpflege/'), ('id', 13)]), OrderedDict([('name', "Conférence intercantonale de l'instruction publique de la Suisse romande et du Tessin (CIIP)"), ('email', 'Jacques.Deboeuf@ne.ch'), ('website', 'https://www.ciip.ch/'), ('id', 15)]), OrderedDict([('name', 'Santé Publique Ottawa'), ('email', 'N/A'), ('website', 'https://www.lelienottawa.ca/fr/mental-health/mental-health.aspx'), ('id', 18)]), OrderedDict([('name', 'Pan African Conservation Education - PACE'), ('email', 'PACE@tusk.org'), ('website', 'https://www.paceproject.net/'), ('id', 20)])]}
+2022-07-21 13:52:47,288 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-21 13:52:47,288 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-21 13:52:47,291 WARNING {'total': 3, 'items': [OrderedDict([('organization', 10), ('description', 'Two resources: an introductory textbook on art history, and another introduction to architectural styles.'), ('date_contacted', '2022-01-21'), ('granted', False), ('date_of_response', '2022-08-09'), ('user', 13), ('id', 16), ('organization_info', {'name': 'Canopé', 'email': 'partenariats@reseau-canope.fr', 'website': 'https://www.reseau-canope.fr/'}), ('user_name', 'pavithra_devi8')]), OrderedDict([('organization', 3), ('description', 'update'), ('date_contacted', '2022-07-19'), ('granted', False), ('date_of_response', None), ('user', 1), ('id', 5), ('organization_info', {'name': 'Voice of America', 'email': 'voa@voa.org', 'website': 'www.voa.org'}), ('user_name', 'admin')]), OrderedDict([('organization', 5), ('description', 'Sikana educational and community videos'), ('date_contacted', '2021-03-08'), ('granted', True), ('date_of_response', '2021-03-15'), ('user', 4), ('id', 7), ('organization_info', {'name': 'Sikana', 'email': 'simon@sikana.tv', 'website': 'https://www.sikana.tv/en'}), ('user_name', 'sara')])]}
+2022-07-21 13:52:47,291 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-21 13:52:47,291 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-21 13:52:47,334 INFO "GET /static/favicon.ico HTTP/1.1" 304 0
+2022-07-21 13:52:47,334 INFO "GET /static/favicon.ico HTTP/1.1" 304 0
+2022-07-21 19:28:48,390 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-07-21 19:28:48,390 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-07-21 19:28:48,412 INFO "GET /static/js/main.79771a996c92d002d9af.bundle.js HTTP/1.1" 200 3221351
+2022-07-21 19:28:48,412 INFO "GET /static/js/main.79771a996c92d002d9af.bundle.js HTTP/1.1" 200 3221351
+2022-07-21 19:28:48,503 INFO "GET /static/js/main.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-21 19:28:48,503 INFO "GET /static/js/main.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-21 19:28:48,570 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 304 0
+2022-07-21 19:28:48,570 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 304 0
+2022-07-21 19:28:48,577 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.79771a996c92d002d9af.bundle.js HTTP/1.1" 200 16641
+2022-07-21 19:28:48,577 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.79771a996c92d002d9af.bundle.js HTTP/1.1" 200 16641
+2022-07-21 19:28:48,578 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.79771a996c92d002d9af.bundle.js HTTP/1.1" 200 42253
+2022-07-21 19:28:48,578 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.79771a996c92d002d9af.bundle.js HTTP/1.1" 200 42253
+2022-07-21 19:28:48,585 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.79771a996c92d002d9af.bundle.js HTTP/1.1" 200 39918
+2022-07-21 19:28:48,585 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.79771a996c92d002d9af.bundle.js HTTP/1.1" 200 39918
+2022-07-21 19:28:48,587 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.79771a996c92d002d9af.bundle.js HTTP/1.1" 200 715459
+2022-07-21 19:28:48,587 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.79771a996c92d002d9af.bundle.js HTTP/1.1" 200 715459
+2022-07-21 19:28:48,588 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.79771a996c92d002d9af.bundle.js HTTP/1.1" 200 1430506
+2022-07-21 19:28:48,588 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.79771a996c92d002d9af.bundle.js HTTP/1.1" 200 1430506
+2022-07-21 19:28:48,617 WARNING {'token_key': 'ya29.A0AVA9y1urRa0im0M-6FpJZYVTWqeLevDqadC7lwiwCjPrT_iM7BBfdgZa5HKX6uGMon9LXqp2zac94Vgj1rZArThskpq8627B1QunMqhnj8g_KH0Zb4JOtJvbnpi8MTgmZITKe_AMhs0XORL4peK9rY1bwz2xYUNnWUtBVEFTQVRBU0ZRRTY1ZHI4UkxKVVBkaXh2MUhrZUNPMmNyRlpVdw0163', 'username': 'pavithra_devi8', 'email': 'prajkuma@asu.edu', 'groups': ['Student', 'Library Specialist'], 'user_id': 13, 'profile': {'num_content': 3}}
+2022-07-21 19:28:48,618 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-21 19:28:48,618 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-21 19:28:48,725 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 16700
+2022-07-21 19:28:48,725 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 16700
+2022-07-21 19:28:48,728 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 38033
+2022-07-21 19:28:48,728 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 38033
+2022-07-21 19:28:48,728 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 40187
+2022-07-21 19:28:48,728 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 40187
+2022-07-21 19:28:48,729 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 839195
+2022-07-21 19:28:48,729 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 839195
+2022-07-21 19:28:48,737 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 1311063
+2022-07-21 19:28:48,737 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 1311063
+2022-07-21 19:28:48,778 WARNING {'total': 10, 'items': [OrderedDict([('name', 'Voice of America'), ('email', 'voa@voa.org'), ('website', 'www.voa.org'), ('id', 3)]), OrderedDict([('name', 'Sikana'), ('email', 'simon@sikana.tv'), ('website', 'https://www.sikana.tv/en'), ('id', 5)]), OrderedDict([('name', 'Saudi OER Network'), ('email', 'nelc.sm@elc.edu.sa'), ('website', 'https://shms.sa/'), ('id', 8)]), OrderedDict([('name', "L'École de l'Égalité"), ('email', 'contact@egalite.ch'), ('website', 'https://egalite.ch/'), ('id', 9)]), OrderedDict([('name', 'Canopé'), ('email', 'partenariats@reseau-canope.fr'), ('website', 'https://www.reseau-canope.fr/'), ('id', 10)]), OrderedDict([('name', 'Dr Erma Hermens'), ('email', 'N/A'), ('website', 'https://www.researchgate.net/profile/Erma-Hermens'), ('id', 11)]), OrderedDict([('name', 'Fachwerk'), ('email', 'denkmalpflege@be.ch'), ('website', 'https://www.fachwerk.erz.be.ch/plattform-fuer-unterrichtsmaterialien-und-publikationen-der-kantonalen-denkmalpflege/'), ('id', 13)]), OrderedDict([('name', "Conférence intercantonale de l'instruction publique de la Suisse romande et du Tessin (CIIP)"), ('email', 'Jacques.Deboeuf@ne.ch'), ('website', 'https://www.ciip.ch/'), ('id', 15)]), OrderedDict([('name', 'Santé Publique Ottawa'), ('email', 'N/A'), ('website', 'https://www.lelienottawa.ca/fr/mental-health/mental-health.aspx'), ('id', 18)]), OrderedDict([('name', 'Pan African Conservation Education - PACE'), ('email', 'PACE@tusk.org'), ('website', 'https://www.paceproject.net/'), ('id', 20)])]}
+2022-07-21 19:28:48,779 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-21 19:28:48,779 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-21 19:28:48,782 WARNING {'total': 3, 'items': [OrderedDict([('organization', 10), ('description', 'Two resources: an introductory textbook on art history, and another introduction to architectural styles.'), ('date_contacted', '2022-01-21'), ('granted', False), ('date_of_response', '2022-08-09'), ('user', 13), ('id', 16), ('organization_info', {'name': 'Canopé', 'email': 'partenariats@reseau-canope.fr', 'website': 'https://www.reseau-canope.fr/'}), ('user_name', 'pavithra_devi8')]), OrderedDict([('organization', 3), ('description', 'update'), ('date_contacted', '2022-07-19'), ('granted', False), ('date_of_response', None), ('user', 1), ('id', 5), ('organization_info', {'name': 'Voice of America', 'email': 'voa@voa.org', 'website': 'www.voa.org'}), ('user_name', 'admin')]), OrderedDict([('organization', 5), ('description', 'Sikana educational and community videos'), ('date_contacted', '2021-03-08'), ('granted', True), ('date_of_response', '2021-03-15'), ('user', 4), ('id', 7), ('organization_info', {'name': 'Sikana', 'email': 'simon@sikana.tv', 'website': 'https://www.sikana.tv/en'}), ('user_name', 'sara')])]}
+2022-07-21 19:28:48,783 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-21 19:28:48,783 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-21 19:28:49,118 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-07-21 19:28:49,118 INFO "GET /static/favicon.ico HTTP/1.1" 200 169662
+2022-07-21 19:28:55,365 ERROR {'date_of_response': [ErrorDetail(string='Date has wrong format. Use one of these formats instead: YYYY-MM-DD.', code='invalid')]}
+2022-07-21 19:28:55,365 WARNING Bad Request: /api/copyright/7/
+2022-07-21 19:28:55,365 WARNING Bad Request: /api/copyright/7/
+2022-07-21 19:28:55,366 WARNING "PATCH /api/copyright/7/ HTTP/1.1" 400 131
+2022-07-21 19:28:55,366 WARNING "PATCH /api/copyright/7/ HTTP/1.1" 400 131
+2022-07-21 19:29:05,035 INFO "GET /static/index.html HTTP/1.1" 304 0
+2022-07-21 19:29:05,035 INFO "GET /static/index.html HTTP/1.1" 304 0
+2022-07-21 19:29:05,050 INFO "GET /static/js/main.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-21 19:29:05,050 INFO "GET /static/js/main.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-21 19:29:05,128 INFO "GET /static/js/main.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-21 19:29:05,128 INFO "GET /static/js/main.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-21 19:29:05,206 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-21 19:29:05,207 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-21 19:29:05,207 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-21 19:29:05,206 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-21 19:29:05,207 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-21 19:29:05,207 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-21 19:29:05,207 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-21 19:29:05,207 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-21 19:29:05,207 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-21 19:29:05,207 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-21 19:29:05,262 WARNING {'token_key': 'ya29.A0AVA9y1urRa0im0M-6FpJZYVTWqeLevDqadC7lwiwCjPrT_iM7BBfdgZa5HKX6uGMon9LXqp2zac94Vgj1rZArThskpq8627B1QunMqhnj8g_KH0Zb4JOtJvbnpi8MTgmZITKe_AMhs0XORL4peK9rY1bwz2xYUNnWUtBVEFTQVRBU0ZRRTY1ZHI4UkxKVVBkaXh2MUhrZUNPMmNyRlpVdw0163', 'username': 'pavithra_devi8', 'email': 'prajkuma@asu.edu', 'groups': ['Student', 'Library Specialist'], 'user_id': 13, 'profile': {'num_content': 3}}
+2022-07-21 19:29:05,262 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-21 19:29:05,262 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-21 19:29:05,319 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 16700
+2022-07-21 19:29:05,319 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 16700
+2022-07-21 19:29:05,331 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 40187
+2022-07-21 19:29:05,331 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 40187
+2022-07-21 19:29:05,331 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 38033
+2022-07-21 19:29:05,331 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 38033
+2022-07-21 19:29:05,336 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 839195
+2022-07-21 19:29:05,336 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 839195
+2022-07-21 19:29:05,388 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 1311063
+2022-07-21 19:29:05,388 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 1311063
+2022-07-21 19:29:05,436 WARNING {'total': 10, 'items': [OrderedDict([('name', 'Voice of America'), ('email', 'voa@voa.org'), ('website', 'www.voa.org'), ('id', 3)]), OrderedDict([('name', 'Sikana'), ('email', 'simon@sikana.tv'), ('website', 'https://www.sikana.tv/en'), ('id', 5)]), OrderedDict([('name', 'Saudi OER Network'), ('email', 'nelc.sm@elc.edu.sa'), ('website', 'https://shms.sa/'), ('id', 8)]), OrderedDict([('name', "L'École de l'Égalité"), ('email', 'contact@egalite.ch'), ('website', 'https://egalite.ch/'), ('id', 9)]), OrderedDict([('name', 'Canopé'), ('email', 'partenariats@reseau-canope.fr'), ('website', 'https://www.reseau-canope.fr/'), ('id', 10)]), OrderedDict([('name', 'Dr Erma Hermens'), ('email', 'N/A'), ('website', 'https://www.researchgate.net/profile/Erma-Hermens'), ('id', 11)]), OrderedDict([('name', 'Fachwerk'), ('email', 'denkmalpflege@be.ch'), ('website', 'https://www.fachwerk.erz.be.ch/plattform-fuer-unterrichtsmaterialien-und-publikationen-der-kantonalen-denkmalpflege/'), ('id', 13)]), OrderedDict([('name', "Conférence intercantonale de l'instruction publique de la Suisse romande et du Tessin (CIIP)"), ('email', 'Jacques.Deboeuf@ne.ch'), ('website', 'https://www.ciip.ch/'), ('id', 15)]), OrderedDict([('name', 'Santé Publique Ottawa'), ('email', 'N/A'), ('website', 'https://www.lelienottawa.ca/fr/mental-health/mental-health.aspx'), ('id', 18)]), OrderedDict([('name', 'Pan African Conservation Education - PACE'), ('email', 'PACE@tusk.org'), ('website', 'https://www.paceproject.net/'), ('id', 20)])]}
+2022-07-21 19:29:05,438 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-21 19:29:05,438 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-21 19:29:05,440 WARNING {'total': 3, 'items': [OrderedDict([('organization', 10), ('description', 'Two resources: an introductory textbook on art history, and another introduction to architectural styles.'), ('date_contacted', '2022-01-21'), ('granted', False), ('date_of_response', '2022-08-09'), ('user', 13), ('id', 16), ('organization_info', {'name': 'Canopé', 'email': 'partenariats@reseau-canope.fr', 'website': 'https://www.reseau-canope.fr/'}), ('user_name', 'pavithra_devi8')]), OrderedDict([('organization', 3), ('description', 'update'), ('date_contacted', '2022-07-19'), ('granted', False), ('date_of_response', None), ('user', 1), ('id', 5), ('organization_info', {'name': 'Voice of America', 'email': 'voa@voa.org', 'website': 'www.voa.org'}), ('user_name', 'admin')]), OrderedDict([('organization', 5), ('description', 'Sikana educational and community videos'), ('date_contacted', '2021-03-08'), ('granted', True), ('date_of_response', '2021-03-15'), ('user', 4), ('id', 7), ('organization_info', {'name': 'Sikana', 'email': 'simon@sikana.tv', 'website': 'https://www.sikana.tv/en'}), ('user_name', 'sara')])]}
+2022-07-21 19:29:05,440 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-21 19:29:05,440 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-21 19:29:05,660 INFO "GET /static/favicon.ico HTTP/1.1" 304 0
+2022-07-21 19:29:05,660 INFO "GET /static/favicon.ico HTTP/1.1" 304 0
+2022-07-21 19:29:10,973 ERROR {'date_of_response': [ErrorDetail(string='Date has wrong format. Use one of these formats instead: YYYY-MM-DD.', code='invalid')]}
+2022-07-21 19:29:10,973 WARNING Bad Request: /api/copyright/7/
+2022-07-21 19:29:10,973 WARNING Bad Request: /api/copyright/7/
+2022-07-21 19:29:10,973 WARNING "PATCH /api/copyright/7/ HTTP/1.1" 400 131
+2022-07-21 19:29:10,973 WARNING "PATCH /api/copyright/7/ HTTP/1.1" 400 131
+2022-07-25 08:35:01,624 INFO "GET /static/index.html HTTP/1.1" 304 0
+2022-07-25 08:35:01,624 INFO "GET /static/index.html HTTP/1.1" 304 0
+2022-07-25 08:35:01,643 INFO "GET /static/js/main.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-25 08:35:01,643 INFO "GET /static/js/main.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-25 08:35:01,728 INFO "GET /static/js/main.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-25 08:35:01,728 INFO "GET /static/js/main.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-25 08:35:01,783 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 304 0
+2022-07-25 08:35:01,783 INFO "GET /static/8cd71d44194c35dfd6d0c817692c94ca.png HTTP/1.1" 304 0
+2022-07-25 08:35:01,795 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-25 08:35:01,795 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-25 08:35:01,795 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-25 08:35:01,795 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-25 08:35:01,797 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-25 08:35:01,798 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-25 08:35:01,797 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-25 08:35:01,798 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-25 08:35:01,798 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-25 08:35:01,798 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.79771a996c92d002d9af.bundle.js HTTP/1.1" 304 0
+2022-07-25 08:35:01,835 WARNING {'token_key': 'ya29.A0AVA9y1urRa0im0M-6FpJZYVTWqeLevDqadC7lwiwCjPrT_iM7BBfdgZa5HKX6uGMon9LXqp2zac94Vgj1rZArThskpq8627B1QunMqhnj8g_KH0Zb4JOtJvbnpi8MTgmZITKe_AMhs0XORL4peK9rY1bwz2xYUNnWUtBVEFTQVRBU0ZRRTY1ZHI4UkxKVVBkaXh2MUhrZUNPMmNyRlpVdw0163', 'username': 'pavithra_devi8', 'email': 'prajkuma@asu.edu', 'groups': ['Student', 'Library Specialist'], 'user_id': 13, 'profile': {'num_content': 3}}
+2022-07-25 08:35:01,835 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-25 08:35:01,835 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-25 08:35:01,918 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 16700
+2022-07-25 08:35:01,918 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 16700
+2022-07-25 08:35:01,919 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 40187
+2022-07-25 08:35:01,919 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 40187
+2022-07-25 08:35:01,919 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 38033
+2022-07-25 08:35:01,919 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 38033
+2022-07-25 08:35:01,920 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 839195
+2022-07-25 08:35:01,920 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 839195
+2022-07-25 08:35:01,965 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 1311063
+2022-07-25 08:35:01,965 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.79771a996c92d002d9af.bundle.js.map HTTP/1.1" 200 1311063
+2022-07-25 08:35:02,006 WARNING {'total': 10, 'items': [OrderedDict([('name', 'Voice of America'), ('email', 'voa@voa.org'), ('website', 'www.voa.org'), ('id', 3)]), OrderedDict([('name', 'Sikana'), ('email', 'simon@sikana.tv'), ('website', 'https://www.sikana.tv/en'), ('id', 5)]), OrderedDict([('name', 'Saudi OER Network'), ('email', 'nelc.sm@elc.edu.sa'), ('website', 'https://shms.sa/'), ('id', 8)]), OrderedDict([('name', "L'École de l'Égalité"), ('email', 'contact@egalite.ch'), ('website', 'https://egalite.ch/'), ('id', 9)]), OrderedDict([('name', 'Canopé'), ('email', 'partenariats@reseau-canope.fr'), ('website', 'https://www.reseau-canope.fr/'), ('id', 10)]), OrderedDict([('name', 'Dr Erma Hermens'), ('email', 'N/A'), ('website', 'https://www.researchgate.net/profile/Erma-Hermens'), ('id', 11)]), OrderedDict([('name', 'Fachwerk'), ('email', 'denkmalpflege@be.ch'), ('website', 'https://www.fachwerk.erz.be.ch/plattform-fuer-unterrichtsmaterialien-und-publikationen-der-kantonalen-denkmalpflege/'), ('id', 13)]), OrderedDict([('name', "Conférence intercantonale de l'instruction publique de la Suisse romande et du Tessin (CIIP)"), ('email', 'Jacques.Deboeuf@ne.ch'), ('website', 'https://www.ciip.ch/'), ('id', 15)]), OrderedDict([('name', 'Santé Publique Ottawa'), ('email', 'N/A'), ('website', 'https://www.lelienottawa.ca/fr/mental-health/mental-health.aspx'), ('id', 18)]), OrderedDict([('name', 'Pan African Conservation Education - PACE'), ('email', 'PACE@tusk.org'), ('website', 'https://www.paceproject.net/'), ('id', 20)])]}
+2022-07-25 08:35:02,007 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-25 08:35:02,007 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-25 08:35:02,008 WARNING {'total': 3, 'items': [OrderedDict([('organization', 10), ('description', 'Two resources: an introductory textbook on art history, and another introduction to architectural styles.'), ('date_contacted', '2022-01-21'), ('granted', False), ('date_of_response', '2022-08-09'), ('user', 13), ('id', 16), ('organization_info', {'name': 'Canopé', 'email': 'partenariats@reseau-canope.fr', 'website': 'https://www.reseau-canope.fr/'}), ('user_name', 'pavithra_devi8')]), OrderedDict([('organization', 3), ('description', 'update'), ('date_contacted', '2022-07-19'), ('granted', False), ('date_of_response', None), ('user', 1), ('id', 5), ('organization_info', {'name': 'Voice of America', 'email': 'voa@voa.org', 'website': 'www.voa.org'}), ('user_name', 'admin')]), OrderedDict([('organization', 5), ('description', 'Sikana educational and community videos'), ('date_contacted', '2021-03-08'), ('granted', True), ('date_of_response', '2021-03-15'), ('user', 4), ('id', 7), ('organization_info', {'name': 'Sikana', 'email': 'simon@sikana.tv', 'website': 'https://www.sikana.tv/en'}), ('user_name', 'sara')])]}
+2022-07-25 08:35:02,008 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-25 08:35:02,008 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-25 08:35:02,335 INFO "GET /static/favicon.ico HTTP/1.1" 304 0
+2022-07-25 08:35:02,335 INFO "GET /static/favicon.ico HTTP/1.1" 304 0
+2022-07-25 09:22:11,912 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-07-25 09:22:11,912 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-07-25 09:22:11,933 INFO "GET /static/js/main.a7c7ddff1ef122d31a9b.bundle.js HTTP/1.1" 200 3221351
+2022-07-25 09:22:11,933 INFO "GET /static/js/main.a7c7ddff1ef122d31a9b.bundle.js HTTP/1.1" 200 3221351
+2022-07-25 09:22:12,027 INFO "GET /static/js/main.a7c7ddff1ef122d31a9b.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-25 09:22:12,027 INFO "GET /static/js/main.a7c7ddff1ef122d31a9b.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-25 09:22:12,095 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.a7c7ddff1ef122d31a9b.bundle.js HTTP/1.1" 200 16641
+2022-07-25 09:22:12,095 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.a7c7ddff1ef122d31a9b.bundle.js HTTP/1.1" 200 16641
+2022-07-25 09:22:12,101 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.a7c7ddff1ef122d31a9b.bundle.js HTTP/1.1" 200 42253
+2022-07-25 09:22:12,101 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.a7c7ddff1ef122d31a9b.bundle.js HTTP/1.1" 200 42253
+2022-07-25 09:22:12,101 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.a7c7ddff1ef122d31a9b.bundle.js HTTP/1.1" 200 39918
+2022-07-25 09:22:12,101 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.a7c7ddff1ef122d31a9b.bundle.js HTTP/1.1" 200 39918
+2022-07-25 09:22:12,103 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.a7c7ddff1ef122d31a9b.bundle.js HTTP/1.1" 200 715459
+2022-07-25 09:22:12,103 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.a7c7ddff1ef122d31a9b.bundle.js HTTP/1.1" 200 715459
+2022-07-25 09:22:12,106 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.a7c7ddff1ef122d31a9b.bundle.js HTTP/1.1" 200 1430506
+2022-07-25 09:22:12,106 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.a7c7ddff1ef122d31a9b.bundle.js HTTP/1.1" 200 1430506
+2022-07-25 09:22:12,135 WARNING {'token_key': 'ya29.A0AVA9y1urRa0im0M-6FpJZYVTWqeLevDqadC7lwiwCjPrT_iM7BBfdgZa5HKX6uGMon9LXqp2zac94Vgj1rZArThskpq8627B1QunMqhnj8g_KH0Zb4JOtJvbnpi8MTgmZITKe_AMhs0XORL4peK9rY1bwz2xYUNnWUtBVEFTQVRBU0ZRRTY1ZHI4UkxKVVBkaXh2MUhrZUNPMmNyRlpVdw0163', 'username': 'pavithra_devi8', 'email': 'prajkuma@asu.edu', 'groups': ['Student', 'Library Specialist'], 'user_id': 13, 'profile': {'num_content': 3}}
+2022-07-25 09:22:12,135 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-25 09:22:12,135 INFO "GET /api/get_user/ HTTP/1.1" 200 416
+2022-07-25 09:22:12,204 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.a7c7ddff1ef122d31a9b.bundle.js.map HTTP/1.1" 200 16709
+2022-07-25 09:22:12,204 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.a7c7ddff1ef122d31a9b.bundle.js.map HTTP/1.1" 200 16709
+2022-07-25 09:22:12,206 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.a7c7ddff1ef122d31a9b.bundle.js.map HTTP/1.1" 200 38033
+2022-07-25 09:22:12,206 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.a7c7ddff1ef122d31a9b.bundle.js.map HTTP/1.1" 200 38033
+2022-07-25 09:22:12,206 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.a7c7ddff1ef122d31a9b.bundle.js.map HTTP/1.1" 200 40214
+2022-07-25 09:22:12,206 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.a7c7ddff1ef122d31a9b.bundle.js.map HTTP/1.1" 200 40214
+2022-07-25 09:22:12,207 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.a7c7ddff1ef122d31a9b.bundle.js.map HTTP/1.1" 200 840455
+2022-07-25 09:22:12,207 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.a7c7ddff1ef122d31a9b.bundle.js.map HTTP/1.1" 200 840455
+2022-07-25 09:22:12,266 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.a7c7ddff1ef122d31a9b.bundle.js.map HTTP/1.1" 200 1312233
+2022-07-25 09:22:12,266 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.a7c7ddff1ef122d31a9b.bundle.js.map HTTP/1.1" 200 1312233
+2022-07-25 09:22:12,292 WARNING {'total': 10, 'items': [OrderedDict([('name', 'Voice of America'), ('email', 'voa@voa.org'), ('website', 'www.voa.org'), ('id', 3)]), OrderedDict([('name', 'Sikana'), ('email', 'simon@sikana.tv'), ('website', 'https://www.sikana.tv/en'), ('id', 5)]), OrderedDict([('name', 'Saudi OER Network'), ('email', 'nelc.sm@elc.edu.sa'), ('website', 'https://shms.sa/'), ('id', 8)]), OrderedDict([('name', "L'École de l'Égalité"), ('email', 'contact@egalite.ch'), ('website', 'https://egalite.ch/'), ('id', 9)]), OrderedDict([('name', 'Canopé'), ('email', 'partenariats@reseau-canope.fr'), ('website', 'https://www.reseau-canope.fr/'), ('id', 10)]), OrderedDict([('name', 'Dr Erma Hermens'), ('email', 'N/A'), ('website', 'https://www.researchgate.net/profile/Erma-Hermens'), ('id', 11)]), OrderedDict([('name', 'Fachwerk'), ('email', 'denkmalpflege@be.ch'), ('website', 'https://www.fachwerk.erz.be.ch/plattform-fuer-unterrichtsmaterialien-und-publikationen-der-kantonalen-denkmalpflege/'), ('id', 13)]), OrderedDict([('name', "Conférence intercantonale de l'instruction publique de la Suisse romande et du Tessin (CIIP)"), ('email', 'Jacques.Deboeuf@ne.ch'), ('website', 'https://www.ciip.ch/'), ('id', 15)]), OrderedDict([('name', 'Santé Publique Ottawa'), ('email', 'N/A'), ('website', 'https://www.lelienottawa.ca/fr/mental-health/mental-health.aspx'), ('id', 18)]), OrderedDict([('name', 'Pan African Conservation Education - PACE'), ('email', 'PACE@tusk.org'), ('website', 'https://www.paceproject.net/'), ('id', 20)])]}
+2022-07-25 09:22:12,295 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-25 09:22:12,295 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-25 09:22:12,297 WARNING {'total': 3, 'items': [OrderedDict([('organization', 10), ('description', 'Two resources: an introductory textbook on art history, and another introduction to architectural styles.'), ('date_contacted', '2022-01-21'), ('granted', False), ('date_of_response', '2022-08-09'), ('user', 13), ('id', 16), ('organization_info', {'name': 'Canopé', 'email': 'partenariats@reseau-canope.fr', 'website': 'https://www.reseau-canope.fr/'}), ('user_name', 'pavithra_devi8')]), OrderedDict([('organization', 3), ('description', 'update'), ('date_contacted', '2022-07-19'), ('granted', False), ('date_of_response', None), ('user', 1), ('id', 5), ('organization_info', {'name': 'Voice of America', 'email': 'voa@voa.org', 'website': 'www.voa.org'}), ('user_name', 'admin')]), OrderedDict([('organization', 5), ('description', 'Sikana educational and community videos'), ('date_contacted', '2021-03-08'), ('granted', True), ('date_of_response', '2021-03-15'), ('user', 4), ('id', 7), ('organization_info', {'name': 'Sikana', 'email': 'simon@sikana.tv', 'website': 'https://www.sikana.tv/en'}), ('user_name', 'sara')])]}
+2022-07-25 09:22:12,298 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-25 09:22:12,298 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-25 09:22:19,905 ERROR {'date_of_response': [ErrorDetail(string='Date has wrong format. Use one of these formats instead: YYYY-MM-DD.', code='invalid')]}
+2022-07-25 09:22:19,906 WARNING Bad Request: /api/copyright/7/
+2022-07-25 09:22:19,906 WARNING Bad Request: /api/copyright/7/
+2022-07-25 09:22:19,906 WARNING "PATCH /api/copyright/7/ HTTP/1.1" 400 131
+2022-07-25 09:22:19,906 WARNING "PATCH /api/copyright/7/ HTTP/1.1" 400 131
+2022-07-25 11:16:12,348 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-07-25 11:16:12,348 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-07-25 11:16:12,366 INFO "GET /static/js/main.06f3433784f861ecc339.bundle.js HTTP/1.1" 200 3221351
+2022-07-25 11:16:12,366 INFO "GET /static/js/main.06f3433784f861ecc339.bundle.js HTTP/1.1" 200 3221351
+2022-07-25 11:16:12,462 INFO "GET /static/js/main.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-25 11:16:12,462 INFO "GET /static/js/main.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-25 11:16:12,540 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.06f3433784f861ecc339.bundle.js HTTP/1.1" 200 16641
+2022-07-25 11:16:12,540 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.06f3433784f861ecc339.bundle.js HTTP/1.1" 200 16641
+2022-07-25 11:16:12,541 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.06f3433784f861ecc339.bundle.js HTTP/1.1" 200 40153
+2022-07-25 11:16:12,541 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.06f3433784f861ecc339.bundle.js HTTP/1.1" 200 42253
+2022-07-25 11:16:12,541 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.06f3433784f861ecc339.bundle.js HTTP/1.1" 200 40153
+2022-07-25 11:16:12,541 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.06f3433784f861ecc339.bundle.js HTTP/1.1" 200 42253
+2022-07-25 11:16:12,543 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.06f3433784f861ecc339.bundle.js HTTP/1.1" 200 715459
+2022-07-25 11:16:12,543 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.06f3433784f861ecc339.bundle.js HTTP/1.1" 200 715459
+2022-07-25 11:16:12,545 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.06f3433784f861ecc339.bundle.js HTTP/1.1" 200 1430506
+2022-07-25 11:16:12,545 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.06f3433784f861ecc339.bundle.js HTTP/1.1" 200 1430506
+2022-07-25 11:16:12,561 WARNING {'token_key': '', 'username': '', 'email': '', 'groups': '', 'user_id': '', 'profile': None}
+2022-07-25 11:16:12,561 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-07-25 11:16:12,561 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-07-25 11:16:12,641 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 16808
+2022-07-25 11:16:12,641 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 38020
+2022-07-25 11:16:12,641 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 40511
+2022-07-25 11:16:12,641 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 16808
+2022-07-25 11:16:12,641 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 38020
+2022-07-25 11:16:12,641 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 40511
+2022-07-25 11:16:12,652 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 844235
+2022-07-25 11:16:12,652 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 844235
+2022-07-25 11:16:12,694 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 1325103
+2022-07-25 11:16:12,694 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 1325103
+2022-07-25 11:16:12,748 WARNING {'total': 10, 'items': [OrderedDict([('name', 'Voice of America'), ('email', 'voa@voa.org'), ('website', 'www.voa.org'), ('id', 3)]), OrderedDict([('name', 'Sikana'), ('email', 'simon@sikana.tv'), ('website', 'https://www.sikana.tv/en'), ('id', 5)]), OrderedDict([('name', 'Saudi OER Network'), ('email', 'nelc.sm@elc.edu.sa'), ('website', 'https://shms.sa/'), ('id', 8)]), OrderedDict([('name', "L'École de l'Égalité"), ('email', 'contact@egalite.ch'), ('website', 'https://egalite.ch/'), ('id', 9)]), OrderedDict([('name', 'Canopé'), ('email', 'partenariats@reseau-canope.fr'), ('website', 'https://www.reseau-canope.fr/'), ('id', 10)]), OrderedDict([('name', 'Dr Erma Hermens'), ('email', 'N/A'), ('website', 'https://www.researchgate.net/profile/Erma-Hermens'), ('id', 11)]), OrderedDict([('name', 'Fachwerk'), ('email', 'denkmalpflege@be.ch'), ('website', 'https://www.fachwerk.erz.be.ch/plattform-fuer-unterrichtsmaterialien-und-publikationen-der-kantonalen-denkmalpflege/'), ('id', 13)]), OrderedDict([('name', "Conférence intercantonale de l'instruction publique de la Suisse romande et du Tessin (CIIP)"), ('email', 'Jacques.Deboeuf@ne.ch'), ('website', 'https://www.ciip.ch/'), ('id', 15)]), OrderedDict([('name', 'Santé Publique Ottawa'), ('email', 'N/A'), ('website', 'https://www.lelienottawa.ca/fr/mental-health/mental-health.aspx'), ('id', 18)]), OrderedDict([('name', 'Pan African Conservation Education - PACE'), ('email', 'PACE@tusk.org'), ('website', 'https://www.paceproject.net/'), ('id', 20)])]}
+2022-07-25 11:16:12,749 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-25 11:16:12,749 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-25 11:16:12,750 WARNING {'total': 3, 'items': [OrderedDict([('organization', 10), ('description', 'Two resources: an introductory textbook on art history, and another introduction to architectural styles.'), ('date_contacted', '2022-01-21'), ('granted', False), ('date_of_response', '2022-08-09'), ('user', 13), ('id', 16), ('organization_info', {'name': 'Canopé', 'email': 'partenariats@reseau-canope.fr', 'website': 'https://www.reseau-canope.fr/'}), ('user_name', 'pavithra_devi8')]), OrderedDict([('organization', 3), ('description', 'update'), ('date_contacted', '2022-07-19'), ('granted', False), ('date_of_response', None), ('user', 1), ('id', 5), ('organization_info', {'name': 'Voice of America', 'email': 'voa@voa.org', 'website': 'www.voa.org'}), ('user_name', 'admin')]), OrderedDict([('organization', 5), ('description', 'Sikana educational and community videos'), ('date_contacted', '2021-03-08'), ('granted', True), ('date_of_response', '2021-03-15'), ('user', 4), ('id', 7), ('organization_info', {'name': 'Sikana', 'email': 'simon@sikana.tv', 'website': 'https://www.sikana.tv/en'}), ('user_name', 'sara')])]}
+2022-07-25 11:16:12,750 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-25 11:16:12,750 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-25 11:16:19,318 ERROR {'date_of_response': [ErrorDetail(string='Date has wrong format. Use one of these formats instead: YYYY-MM-DD.', code='invalid')]}
+2022-07-25 11:16:19,319 WARNING Bad Request: /api/copyright/7/
+2022-07-25 11:16:19,319 WARNING Bad Request: /api/copyright/7/
+2022-07-25 11:16:19,319 WARNING "PATCH /api/copyright/7/ HTTP/1.1" 400 131
+2022-07-25 11:16:19,319 WARNING "PATCH /api/copyright/7/ HTTP/1.1" 400 131
+2022-07-25 11:16:21,541 INFO "GET /static/index.html HTTP/1.1" 304 0
+2022-07-25 11:16:21,541 INFO "GET /static/index.html HTTP/1.1" 304 0
+2022-07-25 11:16:21,556 INFO "GET /static/js/main.06f3433784f861ecc339.bundle.js HTTP/1.1" 304 0
+2022-07-25 11:16:21,556 INFO "GET /static/js/main.06f3433784f861ecc339.bundle.js HTTP/1.1" 304 0
+2022-07-25 11:16:21,625 INFO "GET /static/js/main.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-25 11:16:21,625 INFO "GET /static/js/main.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-25 11:16:21,700 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.06f3433784f861ecc339.bundle.js HTTP/1.1" 304 0
+2022-07-25 11:16:21,701 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.06f3433784f861ecc339.bundle.js HTTP/1.1" 304 0
+2022-07-25 11:16:21,700 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.06f3433784f861ecc339.bundle.js HTTP/1.1" 304 0
+2022-07-25 11:16:21,701 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.06f3433784f861ecc339.bundle.js HTTP/1.1" 304 0
+2022-07-25 11:16:21,701 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.06f3433784f861ecc339.bundle.js HTTP/1.1" 304 0
+2022-07-25 11:16:21,701 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.06f3433784f861ecc339.bundle.js HTTP/1.1" 304 0
+2022-07-25 11:16:21,701 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.06f3433784f861ecc339.bundle.js HTTP/1.1" 304 0
+2022-07-25 11:16:21,702 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.06f3433784f861ecc339.bundle.js HTTP/1.1" 304 0
+2022-07-25 11:16:21,701 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.06f3433784f861ecc339.bundle.js HTTP/1.1" 304 0
+2022-07-25 11:16:21,702 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.06f3433784f861ecc339.bundle.js HTTP/1.1" 304 0
+2022-07-25 11:16:21,742 WARNING {'token_key': '', 'username': '', 'email': '', 'groups': '', 'user_id': '', 'profile': None}
+2022-07-25 11:16:21,743 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-07-25 11:16:21,743 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-07-25 11:16:21,799 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 16808
+2022-07-25 11:16:21,799 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 16808
+2022-07-25 11:16:21,821 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 38020
+2022-07-25 11:16:21,821 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 40511
+2022-07-25 11:16:21,821 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 38020
+2022-07-25 11:16:21,821 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 40511
+2022-07-25 11:16:21,834 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 844235
+2022-07-25 11:16:21,834 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 844235
+2022-07-25 11:16:21,888 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 1325103
+2022-07-25 11:16:21,888 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.06f3433784f861ecc339.bundle.js.map HTTP/1.1" 200 1325103
+2022-07-25 11:16:21,945 WARNING {'total': 10, 'items': [OrderedDict([('name', 'Voice of America'), ('email', 'voa@voa.org'), ('website', 'www.voa.org'), ('id', 3)]), OrderedDict([('name', 'Sikana'), ('email', 'simon@sikana.tv'), ('website', 'https://www.sikana.tv/en'), ('id', 5)]), OrderedDict([('name', 'Saudi OER Network'), ('email', 'nelc.sm@elc.edu.sa'), ('website', 'https://shms.sa/'), ('id', 8)]), OrderedDict([('name', "L'École de l'Égalité"), ('email', 'contact@egalite.ch'), ('website', 'https://egalite.ch/'), ('id', 9)]), OrderedDict([('name', 'Canopé'), ('email', 'partenariats@reseau-canope.fr'), ('website', 'https://www.reseau-canope.fr/'), ('id', 10)]), OrderedDict([('name', 'Dr Erma Hermens'), ('email', 'N/A'), ('website', 'https://www.researchgate.net/profile/Erma-Hermens'), ('id', 11)]), OrderedDict([('name', 'Fachwerk'), ('email', 'denkmalpflege@be.ch'), ('website', 'https://www.fachwerk.erz.be.ch/plattform-fuer-unterrichtsmaterialien-und-publikationen-der-kantonalen-denkmalpflege/'), ('id', 13)]), OrderedDict([('name', "Conférence intercantonale de l'instruction publique de la Suisse romande et du Tessin (CIIP)"), ('email', 'Jacques.Deboeuf@ne.ch'), ('website', 'https://www.ciip.ch/'), ('id', 15)]), OrderedDict([('name', 'Santé Publique Ottawa'), ('email', 'N/A'), ('website', 'https://www.lelienottawa.ca/fr/mental-health/mental-health.aspx'), ('id', 18)]), OrderedDict([('name', 'Pan African Conservation Education - PACE'), ('email', 'PACE@tusk.org'), ('website', 'https://www.paceproject.net/'), ('id', 20)])]}
+2022-07-25 11:16:21,947 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-25 11:16:21,947 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-25 11:16:21,948 WARNING {'total': 3, 'items': [OrderedDict([('organization', 10), ('description', 'Two resources: an introductory textbook on art history, and another introduction to architectural styles.'), ('date_contacted', '2022-01-21'), ('granted', False), ('date_of_response', '2022-08-09'), ('user', 13), ('id', 16), ('organization_info', {'name': 'Canopé', 'email': 'partenariats@reseau-canope.fr', 'website': 'https://www.reseau-canope.fr/'}), ('user_name', 'pavithra_devi8')]), OrderedDict([('organization', 3), ('description', 'update'), ('date_contacted', '2022-07-19'), ('granted', False), ('date_of_response', None), ('user', 1), ('id', 5), ('organization_info', {'name': 'Voice of America', 'email': 'voa@voa.org', 'website': 'www.voa.org'}), ('user_name', 'admin')]), OrderedDict([('organization', 5), ('description', 'Sikana educational and community videos'), ('date_contacted', '2021-03-08'), ('granted', True), ('date_of_response', '2021-03-15'), ('user', 4), ('id', 7), ('organization_info', {'name': 'Sikana', 'email': 'simon@sikana.tv', 'website': 'https://www.sikana.tv/en'}), ('user_name', 'sara')])]}
+2022-07-25 11:16:21,948 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-25 11:16:21,948 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-25 11:18:40,610 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-07-25 11:18:40,610 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-07-25 11:18:40,627 INFO "GET /static/js/main.3bb8e19bcc0c261cf392.bundle.js HTTP/1.1" 200 3221351
+2022-07-25 11:18:40,627 INFO "GET /static/js/main.3bb8e19bcc0c261cf392.bundle.js HTTP/1.1" 200 3221351
+2022-07-25 11:18:40,725 INFO "GET /static/js/main.3bb8e19bcc0c261cf392.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-25 11:18:40,725 INFO "GET /static/js/main.3bb8e19bcc0c261cf392.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-25 11:18:40,793 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.3bb8e19bcc0c261cf392.bundle.js HTTP/1.1" 200 16641
+2022-07-25 11:18:40,793 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.3bb8e19bcc0c261cf392.bundle.js HTTP/1.1" 200 16641
+2022-07-25 11:18:40,794 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.3bb8e19bcc0c261cf392.bundle.js HTTP/1.1" 200 42253
+2022-07-25 11:18:40,794 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.3bb8e19bcc0c261cf392.bundle.js HTTP/1.1" 200 42253
+2022-07-25 11:18:40,794 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.3bb8e19bcc0c261cf392.bundle.js HTTP/1.1" 200 40153
+2022-07-25 11:18:40,794 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.3bb8e19bcc0c261cf392.bundle.js HTTP/1.1" 200 40153
+2022-07-25 11:18:40,797 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.3bb8e19bcc0c261cf392.bundle.js HTTP/1.1" 200 715459
+2022-07-25 11:18:40,797 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.3bb8e19bcc0c261cf392.bundle.js HTTP/1.1" 200 715459
+2022-07-25 11:18:40,798 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.3bb8e19bcc0c261cf392.bundle.js HTTP/1.1" 200 1430506
+2022-07-25 11:18:40,798 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.3bb8e19bcc0c261cf392.bundle.js HTTP/1.1" 200 1430506
+2022-07-25 11:18:40,821 WARNING {'token_key': '', 'username': '', 'email': '', 'groups': '', 'user_id': '', 'profile': None}
+2022-07-25 11:18:40,822 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-07-25 11:18:40,822 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-07-25 11:18:40,888 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.3bb8e19bcc0c261cf392.bundle.js.map HTTP/1.1" 200 16646
+2022-07-25 11:18:40,888 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.3bb8e19bcc0c261cf392.bundle.js.map HTTP/1.1" 200 38020
+2022-07-25 11:18:40,889 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.3bb8e19bcc0c261cf392.bundle.js.map HTTP/1.1" 200 40025
+2022-07-25 11:18:40,888 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.3bb8e19bcc0c261cf392.bundle.js.map HTTP/1.1" 200 16646
+2022-07-25 11:18:40,889 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.3bb8e19bcc0c261cf392.bundle.js.map HTTP/1.1" 200 40025
+2022-07-25 11:18:40,888 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.3bb8e19bcc0c261cf392.bundle.js.map HTTP/1.1" 200 38020
+2022-07-25 11:18:40,891 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.3bb8e19bcc0c261cf392.bundle.js.map HTTP/1.1" 200 837935
+2022-07-25 11:18:40,891 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.3bb8e19bcc0c261cf392.bundle.js.map HTTP/1.1" 200 837935
+2022-07-25 11:18:40,938 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.3bb8e19bcc0c261cf392.bundle.js.map HTTP/1.1" 200 1304043
+2022-07-25 11:18:40,938 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.3bb8e19bcc0c261cf392.bundle.js.map HTTP/1.1" 200 1304043
+2022-07-25 11:18:40,991 WARNING {'total': 10, 'items': [OrderedDict([('name', 'Voice of America'), ('email', 'voa@voa.org'), ('website', 'www.voa.org'), ('id', 3)]), OrderedDict([('name', 'Sikana'), ('email', 'simon@sikana.tv'), ('website', 'https://www.sikana.tv/en'), ('id', 5)]), OrderedDict([('name', 'Saudi OER Network'), ('email', 'nelc.sm@elc.edu.sa'), ('website', 'https://shms.sa/'), ('id', 8)]), OrderedDict([('name', "L'École de l'Égalité"), ('email', 'contact@egalite.ch'), ('website', 'https://egalite.ch/'), ('id', 9)]), OrderedDict([('name', 'Canopé'), ('email', 'partenariats@reseau-canope.fr'), ('website', 'https://www.reseau-canope.fr/'), ('id', 10)]), OrderedDict([('name', 'Dr Erma Hermens'), ('email', 'N/A'), ('website', 'https://www.researchgate.net/profile/Erma-Hermens'), ('id', 11)]), OrderedDict([('name', 'Fachwerk'), ('email', 'denkmalpflege@be.ch'), ('website', 'https://www.fachwerk.erz.be.ch/plattform-fuer-unterrichtsmaterialien-und-publikationen-der-kantonalen-denkmalpflege/'), ('id', 13)]), OrderedDict([('name', "Conférence intercantonale de l'instruction publique de la Suisse romande et du Tessin (CIIP)"), ('email', 'Jacques.Deboeuf@ne.ch'), ('website', 'https://www.ciip.ch/'), ('id', 15)]), OrderedDict([('name', 'Santé Publique Ottawa'), ('email', 'N/A'), ('website', 'https://www.lelienottawa.ca/fr/mental-health/mental-health.aspx'), ('id', 18)]), OrderedDict([('name', 'Pan African Conservation Education - PACE'), ('email', 'PACE@tusk.org'), ('website', 'https://www.paceproject.net/'), ('id', 20)])]}
+2022-07-25 11:18:40,992 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-25 11:18:40,992 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-25 11:18:40,995 WARNING {'total': 3, 'items': [OrderedDict([('organization', 10), ('description', 'Two resources: an introductory textbook on art history, and another introduction to architectural styles.'), ('date_contacted', '2022-01-21'), ('granted', False), ('date_of_response', '2022-08-09'), ('user', 13), ('id', 16), ('organization_info', {'name': 'Canopé', 'email': 'partenariats@reseau-canope.fr', 'website': 'https://www.reseau-canope.fr/'}), ('user_name', 'pavithra_devi8')]), OrderedDict([('organization', 3), ('description', 'update'), ('date_contacted', '2022-07-19'), ('granted', False), ('date_of_response', None), ('user', 1), ('id', 5), ('organization_info', {'name': 'Voice of America', 'email': 'voa@voa.org', 'website': 'www.voa.org'}), ('user_name', 'admin')]), OrderedDict([('organization', 5), ('description', 'Sikana educational and community videos'), ('date_contacted', '2021-03-08'), ('granted', True), ('date_of_response', '2021-03-15'), ('user', 4), ('id', 7), ('organization_info', {'name': 'Sikana', 'email': 'simon@sikana.tv', 'website': 'https://www.sikana.tv/en'}), ('user_name', 'sara')])]}
+2022-07-25 11:18:40,995 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-25 11:18:40,995 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-25 11:18:48,761 ERROR {'date_of_response': [ErrorDetail(string='Date has wrong format. Use one of these formats instead: YYYY-MM-DD.', code='invalid')]}
+2022-07-25 11:18:48,761 WARNING Bad Request: /api/copyright/7/
+2022-07-25 11:18:48,761 WARNING Bad Request: /api/copyright/7/
+2022-07-25 11:18:48,761 WARNING "PATCH /api/copyright/7/ HTTP/1.1" 400 131
+2022-07-25 11:18:48,761 WARNING "PATCH /api/copyright/7/ HTTP/1.1" 400 131
+2022-07-25 12:06:38,241 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-07-25 12:06:38,241 INFO "GET /static/index.html HTTP/1.1" 200 1055
+2022-07-25 12:06:38,261 INFO "GET /static/js/main.4c9e6969659651d462ba.bundle.js HTTP/1.1" 200 3221351
+2022-07-25 12:06:38,261 INFO "GET /static/js/main.4c9e6969659651d462ba.bundle.js HTTP/1.1" 200 3221351
+2022-07-25 12:06:38,361 INFO "GET /static/js/main.4c9e6969659651d462ba.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-25 12:06:38,361 INFO "GET /static/js/main.4c9e6969659651d462ba.bundle.js.map HTTP/1.1" 200 3324154
+2022-07-25 12:06:38,429 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.4c9e6969659651d462ba.bundle.js HTTP/1.1" 200 16641
+2022-07-25 12:06:38,429 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.4c9e6969659651d462ba.bundle.js HTTP/1.1" 200 16641
+2022-07-25 12:06:38,489 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.4c9e6969659651d462ba.bundle.js HTTP/1.1" 200 42253
+2022-07-25 12:06:38,489 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.4c9e6969659651d462ba.bundle.js HTTP/1.1" 200 42253
+2022-07-25 12:06:38,490 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.4c9e6969659651d462ba.bundle.js HTTP/1.1" 200 40132
+2022-07-25 12:06:38,490 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.4c9e6969659651d462ba.bundle.js HTTP/1.1" 200 40132
+2022-07-25 12:06:38,493 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.4c9e6969659651d462ba.bundle.js HTTP/1.1" 200 1430506
+2022-07-25 12:06:38,493 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.4c9e6969659651d462ba.bundle.js HTTP/1.1" 200 1430506
+2022-07-25 12:06:38,494 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.4c9e6969659651d462ba.bundle.js HTTP/1.1" 200 715459
+2022-07-25 12:06:38,494 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.4c9e6969659651d462ba.bundle.js HTTP/1.1" 200 715459
+2022-07-25 12:06:38,510 WARNING {'token_key': '', 'username': '', 'email': '', 'groups': '', 'user_id': '', 'profile': None}
+2022-07-25 12:06:38,510 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-07-25 12:06:38,510 INFO "GET /api/get_user/ HTTP/1.1" 200 118
+2022-07-25 12:06:38,606 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.4c9e6969659651d462ba.bundle.js.map HTTP/1.1" 200 16691
+2022-07-25 12:06:38,606 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Grid_Grid_js.4c9e6969659651d462ba.bundle.js.map HTTP/1.1" 200 16691
+2022-07-25 12:06:38,615 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.4c9e6969659651d462ba.bundle.js.map HTTP/1.1" 200 37997
+2022-07-25 12:06:38,615 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.4c9e6969659651d462ba.bundle.js.map HTTP/1.1" 200 40160
+2022-07-25 12:06:38,615 INFO "GET /static/js/node_modules_moment_locale_sync_recursive_-src_js_pages_copyright_index_tsx.4c9e6969659651d462ba.bundle.js.map HTTP/1.1" 200 37997
+2022-07-25 12:06:38,615 INFO "GET /static/js/vendors-node_modules_material-ui_core_esm_Button_Button_js-node_modules_material-ui_core_esm_-3149be.4c9e6969659651d462ba.bundle.js.map HTTP/1.1" 200 40160
+2022-07-25 12:06:38,622 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.4c9e6969659651d462ba.bundle.js.map HTTP/1.1" 200 844235
+2022-07-25 12:06:38,622 INFO "GET /static/js/vendors-node_modules_material-ui_icons_Check_js-node_modules_material-ui_icons_Delete_js-node-9b2f3d.4c9e6969659651d462ba.bundle.js.map HTTP/1.1" 200 844235
+2022-07-25 12:06:38,659 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.4c9e6969659651d462ba.bundle.js.map HTTP/1.1" 200 1309893
+2022-07-25 12:06:38,659 INFO "GET /static/js/vendors-node_modules_solarspell-react-lib_dist_index_js.4c9e6969659651d462ba.bundle.js.map HTTP/1.1" 200 1309893
+2022-07-25 12:06:38,716 WARNING {'total': 10, 'items': [OrderedDict([('name', 'Voice of America'), ('email', 'voa@voa.org'), ('website', 'www.voa.org'), ('id', 3)]), OrderedDict([('name', 'Sikana'), ('email', 'simon@sikana.tv'), ('website', 'https://www.sikana.tv/en'), ('id', 5)]), OrderedDict([('name', 'Saudi OER Network'), ('email', 'nelc.sm@elc.edu.sa'), ('website', 'https://shms.sa/'), ('id', 8)]), OrderedDict([('name', "L'École de l'Égalité"), ('email', 'contact@egalite.ch'), ('website', 'https://egalite.ch/'), ('id', 9)]), OrderedDict([('name', 'Canopé'), ('email', 'partenariats@reseau-canope.fr'), ('website', 'https://www.reseau-canope.fr/'), ('id', 10)]), OrderedDict([('name', 'Dr Erma Hermens'), ('email', 'N/A'), ('website', 'https://www.researchgate.net/profile/Erma-Hermens'), ('id', 11)]), OrderedDict([('name', 'Fachwerk'), ('email', 'denkmalpflege@be.ch'), ('website', 'https://www.fachwerk.erz.be.ch/plattform-fuer-unterrichtsmaterialien-und-publikationen-der-kantonalen-denkmalpflege/'), ('id', 13)]), OrderedDict([('name', "Conférence intercantonale de l'instruction publique de la Suisse romande et du Tessin (CIIP)"), ('email', 'Jacques.Deboeuf@ne.ch'), ('website', 'https://www.ciip.ch/'), ('id', 15)]), OrderedDict([('name', 'Santé Publique Ottawa'), ('email', 'N/A'), ('website', 'https://www.lelienottawa.ca/fr/mental-health/mental-health.aspx'), ('id', 18)]), OrderedDict([('name', 'Pan African Conservation Education - PACE'), ('email', 'PACE@tusk.org'), ('website', 'https://www.paceproject.net/'), ('id', 20)])]}
+2022-07-25 12:06:38,718 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-25 12:06:38,718 INFO "GET /api/organization/ HTTP/1.1" 200 1268
+2022-07-25 12:06:38,721 WARNING {'total': 3, 'items': [OrderedDict([('organization', 10), ('description', 'Two resources: an introductory textbook on art history, and another introduction to architectural styles.'), ('date_contacted', '2022-01-21'), ('granted', False), ('date_of_response', '2022-08-09'), ('user', 13), ('id', 16), ('organization_info', {'name': 'Canopé', 'email': 'partenariats@reseau-canope.fr', 'website': 'https://www.reseau-canope.fr/'}), ('user_name', 'pavithra_devi8')]), OrderedDict([('organization', 3), ('description', 'update'), ('date_contacted', '2022-07-19'), ('granted', False), ('date_of_response', None), ('user', 1), ('id', 5), ('organization_info', {'name': 'Voice of America', 'email': 'voa@voa.org', 'website': 'www.voa.org'}), ('user_name', 'admin')]), OrderedDict([('organization', 5), ('description', 'Sikana educational and community videos'), ('date_contacted', '2021-03-08'), ('granted', True), ('date_of_response', '2021-03-15'), ('user', 4), ('id', 7), ('organization_info', {'name': 'Sikana', 'email': 'simon@sikana.tv', 'website': 'https://www.sikana.tv/en'}), ('user_name', 'sara')])]}
+2022-07-25 12:06:38,721 INFO "GET /api/copyright/ HTTP/1.1" 200 976
+2022-07-25 12:06:38,721 INFO "GET /api/copyright/ HTTP/1.1" 200 976
